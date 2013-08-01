@@ -1,0 +1,13 @@
+Competition: Women's Premier Soccer League Elite
+Season: 2012
+
+Key: position; team; games; wins; losses; ties; goals_for; goals_against; points
+
+1 ;   Boston Breakers       ; 14 ;   11;  0  ;   3  ;     28 ;     9   ;        33
+2 ;   Western New York Flash; 14 ;   9 ;  3  ;   2  ;     29 ;     8   ;        30
+3 ;   New York Fury         ; 14 ;   9 ;  2  ;   3  ;     25 ;     8   ;        29
+4 ;   Chicago Red Stars     ; 14 ;   9 ;  1  ;   4  ;     26 ;     11  ;        28
+5 ;   New England Mutiny    ; 14 ;   6 ;  3  ;   5  ;     25 ;     34  ;        21
+6 ;   ASA Chesapeake Charge ; 14 ;   2 ;  3  ;   9  ;     15 ;     35  ;        9
+7 ;   Philadelphia Fever    ; 14 ;   1 ;  2  ;   11 ;      8 ;     26  ;        5
+8 ;   FC Indiana            ; 14 ;   1 ;  2  ;   11 ;      8 ;     33  ;        5
