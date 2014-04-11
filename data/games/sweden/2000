@@ -16,7 +16,7 @@ Competition: Damallsvenskan
 *11.Sundbyberg             22  4  3 15   21-49  15  Relegated
 *12.Astrio                 22  3  0 19   22-86   9  Relegated
 
-Round 1 [Apr 24]
+Round: 1 [Apr 24]
 Astrio          4-5 Djurgarden
 Oster           0-3 Malmo
 Hammarby        4-0 Kristianstad/Wa
@@ -24,7 +24,7 @@ Kopparsberg/L   3-1 Sundbyberg
 Alvsjo          2-0 Balinge
 Kenty           1-2 Umea
 
-Round 2 
+Round: 2 
 [May 2]
 Sundbyberg      1-2 Alvsjo  
 [May 3]
@@ -34,7 +34,7 @@ Djurgarden      3-0 Oster
 Malmo           3-1 Kenty
 Astrio          2-5 Kristianstad/Wa
 
-Round 3 
+Round: 3 
 [May 6]
 Kopparsberg/L   1-2 Alvsjo
 Djurgarden      2-1 Hammarby 
@@ -44,7 +44,7 @@ Umea            3-2 Oster
 Sundbyberg      0-1 Kenty
 Kristianstad/Wa 3-3 Balinge
 
-Round 4 [May 10]
+Round: 4 [May 10]
 Astrio          0-6 Umea
 Kenty           1-1 Kopparsberg/Landvetter
 Balinge         1-1 Djurgarden
@@ -52,7 +52,7 @@ Hammarby        0-1 Malmo
 Alvsjo          5-0 Kristianstad/Wa
 Oster           3-2 Sundbyberg
 
-Round 5 
+Round: 5 
 [May 20]
 Malmo           2-1 Djurgarden
 Sundbyberg      2-1 Balinge
@@ -62,7 +62,7 @@ Oster           0-5 Alvsjo
 Kenty           1-3 Astrio
 Kopparsberg/L   4-3 Hammarby 
 
-Round 6 
+Round: 6 
 [May 27]
 Astrio          2-0 Oster
 Alvsjo          0-0 Malmo
@@ -72,7 +72,7 @@ Hammarby        4-0 Kenty
 Djurgarden      1-1 Umea 
 Kristianstad/Wa 0-0 Sundbyberg
 
-Round 7 
+Round: 7 
 [Jun 3]
 Sundbyberg      4-2 Astrio 
 [Jun 4]
@@ -82,7 +82,7 @@ Djurgarden      4-0 Kristianstad/Wa
 Kenty           1-1 Alvsjo
 Umea            3-2 Hammarby
 
-Round 8 
+Round: 8 
 [Jun 14]
 Astrio          1-0 Kopparsberg/Landvetter
 Alvsjo          1-2 Djurgarden
@@ -92,7 +92,7 @@ Oster           2-0 Kenty
 Balinge         2-2 Umea
 Hammarby        5-1 Sundbyberg
 
-Round 9 
+Round: 9 
 [Jun 17]
 Astrio          0-1 Alvsjo 
 [Jun 18]
@@ -102,7 +102,7 @@ Sundbyberg      0-0 Djurgarden
 Umea            1-1 Malmo
 Oster           3-2 Hammarby
 
-Round 10 
+Round: 10 
 [Jun 22]
 Malmo           2-0 Sundbyberg 
 Djurgarden      2-0 Kopparsberg/Landvetter 
@@ -112,7 +112,7 @@ Hammarby        5-1 Astrio
 Kristianstad/Wa 2-0 Kenty
 Alvsjo          1-2 Umea
 
-Round 11 
+Round: 11 
 [Jun 27]
 Sundbyberg      1-3 Umea 
 [Jun 28]
@@ -123,7 +123,7 @@ Kopparsberg/L   1-3 Malmo
 [Jun 29]
 Oster           0-0 Kristianstad/Wa 
 
-Round 12
+Round: 12
 [Jul 15]
 Kristianstad/Wa 2-2 Oster
 Malmo           3-0 Kopparsberg/Landvetter
@@ -134,7 +134,7 @@ Djurgarden      5-1 Kenty
 [Jul 17]
 Alvsjo          6-1 Hammarby 
 
-Round 13 [Jul 22]
+Round: 13 [Jul 22]
 Astrio          0-3 Hammarby
 Kopparsberg/L   1-3 Djurgarden
 Sundbyberg      1-2 Malmo
@@ -142,7 +142,7 @@ Oster           0-2 Balinge
 Kenty           0-0 Kristianstad/Wa
 Umea            0-2 Alvsjo
 
-Round 14 
+Round: 14 
 [Aug 5]
 Malmo           0-1 Umea
 Alvsjo         11-1 Astrio
@@ -152,7 +152,7 @@ Djurgarden      2-0 Sundbyberg
 Kristianstad/Wa 1-3 Kopparsberg/Landvetter
 Balinge         2-0 Kenty 
 
-Round 15 
+Round: 15 
 [Aug 12]
 Malmo           3-3 Alvsjo
 Kopparsberg/L.  1-0 Balinge
@@ -162,7 +162,7 @@ Sundbyberg      0-3 Kristianstad/Wa
 [Aug 13]
 Umea            2-0 Djurgarden
 
-Round 16 
+Round: 16 
 [Aug 19]
 Alvsjo          5-1 Oster
 Astrio          0-4 Kenty
@@ -172,7 +172,7 @@ Hammarby        3-4 Kopparsberg/Landvetter
 Kristianstad/Wa 1-5 Umea 
 Djurgarden      0-3 Malmo 
 
-Round 17 [Aug 26]
+Round: 17 [Aug 26]
 Astrio          1-3 Sundbyberg
 Balinge         0-5 Malmo
 Hammarby        0-3 Umea
@@ -180,7 +180,7 @@ Kristianstad/Wa 1-4 Djurgarden
 Alvsjo          5-0 Kenty
 Oster           0-3 Kopparsberg/Landvetter
 
-Round 18 
+Round: 18 
 [Aug 29] 
 Sundbyberg      1-0 Hammarby
 [Aug 30] 
@@ -190,7 +190,7 @@ Kopparsberg/L.   5-0 Astrio
 Kenty                0-2 Oster
 Djurgarden           2-3 Alvsjo
 
-Round 19 
+Round: 19 
 [Oct 7]
 Kristianstad/Wa 0-3 Alvsjo
 Malmo               2-0 Hammarby
@@ -200,7 +200,7 @@ Kopparsberg/L.      2-3 Kenty
 Djurgarden      3-2 Balinge
 Umea                4-0 Astrio 
 
-Round 20 [Oct 14]
+Round: 20 [Oct 14]
 Astrio        1-3 Malmo
 Balinge           2-2 Kristianstad/Wa
 Alvsjo                2-2 Kopparsberg/Landvetter
@@ -208,7 +208,7 @@ Hammarby              1-2 Djurgarden
 Kenty                     2-2 Sundbyberg
 Oster                             1-5 Umea
 
-Round 21 
+Round: 21 
 [Oct 21]
 Kristianstad/Wa 3-3 Hammarby
 Umea                5-0 Kenty                  
@@ -218,7 +218,7 @@ Balinge                     2-2 Alvsjo
 [Oct 22]
 Sundbyberg      2-5 Kopparsberg/Landvetter 
 
-Round 22 [Oct 29]
+Round: 22 [Oct 29]
 Astrio          1-2 Kristianstad/Wa
 Hammarby        1-0 Balinge
 Kenty           0-2 Malmo
@@ -226,23 +226,22 @@ Kopparsberg/L.  2-2 Umea
 Alvsjo          5-0 Sundbyberg
 Oster           1-9 Djurgarden
 
-Final Table:
 
- 1.Umeå                   22 16  5  1   58-17  53  Champions
- 2.Malmö                  22 16  4  2   58-14  52
- 3.Älvsjö                 22 15  5  2   71-19  50
- 4.Djurgården             22 14  4  4   56-26  46
- 5.Kopparbergs/Landvetter 22 10  4  8   45-34  34
- 6.Öster                  22  8  2 12   27-57  26
- 7.Hammarby               22  7  2 13   44-45  23
- 8.Bälinge                22  6  5 11   35-42  23
- 9.Kristianstad/Wä        22  5  8  9   29-51  23
--------------------------------------------------
-10.Kenty                  22  4  6 12   22-48  18  Relegated
-11.Sundbyberg             22  4  3 15   21-49  15  Relegated
-12.Astrio                 22  3  0 19   22-86   9  Relegated
-
-Promoted: Mallbackens IF, Sunnanå SK and Holmalunds IF Alingsås
+* 1.Umeå                   22 16  5  1   58-17  53  Champions
+* 2.Malmö                  22 16  4  2   58-14  52
+* 3.Älvsjö                 22 15  5  2   71-19  50
+* 4.Djurgården             22 14  4  4   56-26  46
+* 5.Kopparbergs/Landvetter 22 10  4  8   45-34  34
+* 6.Öster                  22  8  2 12   27-57  26
+* 7.Hammarby               22  7  2 13   44-45  23
+* 8.Bälinge                22  6  5 11   35-42  23
+* 9.Kristianstad/Wä        22  5  8  9   29-51  23
+*-------------------------------------------------
+*10.Kenty                  22  4  6 12   22-48  18  Relegated
+*11.Sundbyberg             22  4  3 15   21-49  15  Relegated
+*12.Astrio                 22  3  0 19   22-86   9  Relegated
+*
+*Promoted: Mallbackens IF, Sunnanå SK and Holmalunds IF Alingsås
 
 *Topscorers:
 *Luiza Pendyk            Malmo                   25
@@ -261,42 +260,42 @@ Sweden (Women) Second Level 2000
 
 Division 1 Norra
 
- 1.Sunnanå SK             18 17  0  1   59-10  51  Promoted 
- 2.Rågsveds IF            18 11  3  4   51-16  36 
- 3.Själevads IK           18 11  0  7   47-29  33 
- 4.AIK                    18 10  1  7   36-23  31 
- 5.Morön BK               18  9  3  6   34-27  30 
- 6.Sundsvalls DFF         18  7  3  8   44-46  24 
- 7.Bollstanäs SK          18  7  2  9   29-29  23 
- 8.Piteå IF               18  6  0 12   23-49  18 
- 9.Huddinge IF            18  4  0 14   21-45  12 
-10.Tyresö FF              18  2  0 16   18-88   6 
+* 1.Sunnanå SK             18 17  0  1   59-10  51  Promoted 
+* 2.Rågsveds IF            18 11  3  4   51-16  36 
+* 3.Själevads IK           18 11  0  7   47-29  33 
+* 4.AIK                    18 10  1  7   36-23  31 
+* 5.Morön BK               18  9  3  6   34-27  30 
+* 6.Sundsvalls DFF         18  7  3  8   44-46  24 
+* 7.Bollstanäs SK          18  7  2  9   29-29  23 
+* 8.Piteå IF               18  6  0 12   23-49  18 
+* 9.Huddinge IF            18  4  0 14   21-45  12 
+*10.Tyresö FF              18  2  0 16   18-88   6 
 
 Division 1 Mellersta
 
- 1.Mallbackens IF         18 15  1  2   55- 9  46  Promoted 
- 2.Karlslunds IF          18 14  2  2   61-11  44 
- 3.Gideonsbergs IF        18 11  1  6   47-28  34 
- 4.IFK Skoghall           18 11  1  6   44-35  34 
- 5.Ornäs BK               18 10  3  5   53-30  33 
- 6.QBIK                   18  9  1  8   43-31  28 
- 7.Dalhem IF              18  6  1 11   29-44  19 
- 8.Falköpings KIK         18  6  1 11   32-62  19 
- 9.IFK Öxnehaga           18  2  0 16   15-76   6 
-10.Lotorps IF             18  0  1 17   12-65   1
+* 1.Mallbackens IF         18 15  1  2   55- 9  46  Promoted 
+* 2.Karlslunds IF          18 14  2  2   61-11  44 
+* 3.Gideonsbergs IF        18 11  1  6   47-28  34 
+* 4.IFK Skoghall           18 11  1  6   44-35  34 
+* 5.Ornäs BK               18 10  3  5   53-30  33 
+* 6.QBIK                   18  9  1  8   43-31  28 
+* 7.Dalhem IF              18  6  1 11   29-44  19 
+* 8.Falköpings KIK         18  6  1 11   32-62  19 
+* 9.IFK Öxnehaga           18  2  0 16   15-76   6 
+*10.Lotorps IF             18  0  1 17   12-65   1
 
 Division 1 Södra
 
- 1.Holmalunds IF Alingsås 18 13  3  2   62-22  42  Promoted 
- 2.Jitex BK               18 13  2  3   60-19  41 
- 3.Malmö DFF              18 12  4  2   46-23  40 
- 4.IK Zenith              18 11  4  3   58-25  37 
- 5.Stattena IF            18  9  4  5   50-25  31 
- 6.IF Trion               18  8  2  8   45-30  26 
- 7.Husie IF               18  6  1 11   35-51  19 
- 8.Mölnlycke IF           18  4  1 13   19-56  13 
- 9.Nättraby GoIF          18  2  1 15   11-72   7 
-10.Gånghester SK          18  1  0 17   22-85   3 
+* 1.Holmalunds IF Alingsås 18 13  3  2   62-22  42  Promoted 
+* 2.Jitex BK               18 13  2  3   60-19  41 
+* 3.Malmö DFF              18 12  4  2   46-23  40 
+* 4.IK Zenith              18 11  4  3   58-25  37 
+* 5.Stattena IF            18  9  4  5   50-25  31 
+* 6.IF Trion               18  8  2  8   45-30  26 
+* 7.Husie IF               18  6  1 11   35-51  19 
+* 8.Mölnlycke IF           18  4  1 13   19-56  13 
+* 9.Nättraby GoIF          18  2  1 15   11-72   7 
+*10.Gånghester SK          18  1  0 17   22-85   3 
 
 
 

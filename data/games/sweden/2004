@@ -16,7 +16,7 @@ Competition: Damallsvenskan
 *11.Bälinge IF               22  4  7 11  23-55 17  Relegated
 *12.Stattena IF              22  1  4 17  13-61  7  Relegated
 
-Round 1
+Round: 1
 [Apr 11]
 Stattena           1-4  Umeå
   [Maja Krantz 77; Laura Kalmari 37, Marta 53, Malin Moström 56pk,
@@ -36,7 +36,7 @@ Bälinge            1-5  Malmö
   [Josefine Öqvist 20; Jenny Engwall 9, Therese Sjögran 25, 72,
    Therese Lundin 68, Nilla Fischer 89]
 
-Round 2
+Round: 2
 [Apr 17]
 Kopparberg         1-0  Själevad
   [Sofia Palmqvist 78]
@@ -55,7 +55,7 @@ Umeå              10-1  Bälinge
    Emma Lindqvist 73, 80, 84, Marie Hammarström 88;
    Ann Westermark 57]
 
-Round 3
+Round: 3
 [Apr 29]
 Umeå               5-0  Kopparberg
   [Anna Sjöström 30, Laura Kalmari 33, 50, Emma Lindqvist 66,
@@ -76,7 +76,7 @@ Bälinge            5-3  Karlslund
   [Johanna Almgren 35, Ann Westermarck 38, 63, Josefine Öqvist 62,
    65; Louis Östman 11, Sara Lihagen 56, Caroline Näfver 87]
 
-Round 4
+Round: 4
 [May 5]
 Karlslund          0-6  Umeå
   [Maria Hammarström 9, Frida Östberg 14, Marta 59, 89, Laura
@@ -95,7 +95,7 @@ Mallbacken         2-0  Stattena
 Malmö              3-0  Sunnanå
   [Heidi Kackur 17, 40, Therese Lundin 40]
 
-Round 5
+Round: 5
 [May 15]
 Djurgården/Älvsjö  2-0  Mallbacken
   [Sara Johansson 51, Venus James 64]
@@ -114,7 +114,7 @@ Umeå               4-2  Malmö
   [Marta 60, 78, Laura Kalmari 68, Malin Moström 72; Therese
    Lundin 19, Nilla Fischer 74]
 
-Round 6
+Round: 6
 [May 22]
 Kopparberg         0-0  Bälinge
 Linköping          1-2  Själevad
@@ -131,7 +131,7 @@ Hammarby           0-1  Umeå
 Malmö              1-1  Djurgården/Älvsjö
   [Denise Reddy 47, Venus James 19]
 
-Round 7
+Round: 7
 [May 31]
 Bälinge            2-0  Mallbacken
   [Yolanda Odenyo 26, Josefine Öqvist 57]
@@ -150,7 +150,7 @@ Stattena           1-4  Djurgården/Älvsjö
 Umeå               2-0  Linköping
   [Laura Kalmari 1, Sanna Valkonen 81]
 
-Round 8
+Round: 8
 [Jun 6]
 Malmö              4-0  Själevad
   [Therese Lundin 16, 58, Denise Reddy 45, Heidi Kackur 58]
@@ -168,7 +168,7 @@ Djurgården/Älvsjö  5-1  Balinge
 Mallbacken         0-5  Umeå
   [Anna Sjöström 27, Laura Kalmari 51, 63, Malin Moström 73, Marta 89]
 
-Round 9
+Round: 9
 [Jun 11]
 Bälinge            2-2  Sunnanå
   [Ann Westermark 2, Johanna Almgren 83; Therese Kapstad 30, 36]
@@ -187,7 +187,7 @@ Umeå               2-3  Djurgården/Älvsjö
 Hammarby           3-1  Mallbacken
   [Elin Ekblom 12, Linda Forsberg 18, Jennie Garver 83; Emma Asp 72]
 
-Round 10
+Round: 10
 [Jun 16]
 Djurgården/Älvsjö  6-0  Hammarby
   [Jan Törnqvist 27, Kristin Bengtsson 43, 48, 55, Victoria Svensson
@@ -205,7 +205,7 @@ Själevad           2-2  Bälinge
 Sunnanå            0-2  Umeå
   [Malin Moström 72pk, Marta]
 
-Round 11
+Round: 11
 [Jun 19]
 Djurgården/Älvsjö  1-1  Kopparberg
   [Ann-Marie Norlin 61, Lotta Schelin 28]
@@ -224,7 +224,7 @@ Umeå               9-0  Själevad
   [Jessica Juhlin 22, Laura Kalmari 36, 47, 72, 79, Anna Sjöström
    57, Sofia Eriksson 60, Marta 68, Emma Lindqvist 76]
 
-Round 12
+Round: 12
 [Jun 29]
 Malmö              1-0  Linköping
    [Heidi Kackur 18]
@@ -242,7 +242,7 @@ Kopparberg         0-1  Djurgården/Älvsjö
 Mallbacken         2-0  Karlslund
   [Birgitta Stiernberg 65, Therese LŸckner 89]
 
-Round 13
+Round: 13
 [Jul 11]
 Själevad           0-3  Kopparberg
   [Lotta Schelin 14, 22, Camilla Browaldh 26]
@@ -261,7 +261,7 @@ Stattena           1-3  Hammarby
 Bälinge            0-4  Umeå
   [Frida Östberg 16, Marta 41, 47, Anna Sjöström 72]
 
-Round 14
+Round: 14
 [Jul 14]
 Kopparberg         5-2  Sunnanå
   [Marlene Sjöerg 3, Lotta Schelin 29, 53, 86pk, Jennie Svensson 53;
@@ -281,7 +281,7 @@ Umeå               8-0  Stattena
 Hammarby           0-1  Själevad
   [Emma Jonsson 59]
 
-Round 15
+Round: 15
 [Sep 4]
 Kopparberg         3-0  Karlslund
   [Lotta Schelin 31, 86, Jenny Svensson 74]
@@ -300,7 +300,7 @@ Umeå               9-0  Mallbacken
   [Hanna Ljungberg 3, 6, 44, Malin Moström 11, 45, 86, Maria
    Nordbrandt 12, Anna Sjöström 17, Sofia Eriksson 39]
 
-Round 16
+Round: 16
 [Sep 8]
 Djurgården/Älvsjö  3-1  Stattena
   [Jane Törnqvist 30, Victoria Svensson 57, Sara Johansson 58;
@@ -317,7 +317,7 @@ Malmö              4-1  Kopparberg
 Sunnanå            3-0  Själevad
   [Lina Johansson 3, Madelaine Edlund 35, Mirjam Marklund 54]
 
-Round 17
+Round: 17
 [Sep 11]
 Själevad           0-3  Djurgården/Älvsjö
   [Kristin Bengtsson 20, 35, Victoria Svensson 90pk]
@@ -333,7 +333,7 @@ Sunnanå            1-4  Malmö
   [Lina Johansson 53; Formiga 32, Frida Nordin 41, Heidi Kackur
    64, Karolina Westberg 75]
 
-Round 18
+Round: 18
 [Sep 18]
 Malmö              3-0  Hammarby
   [Therese Lundin 77, 80, Formiga 90]
@@ -353,7 +353,7 @@ Djurgården/Älvsjö  6-1  Sunnanå
   [Victoria Svensson 11, Kristin Bengtsson 28, Venus James 43, 78,
    Anna Hall 54, Ann-Marie Norlin 62; Madelaine Edlund 41]
 
-Round 19
+Round: 19
 [Sep 25]
 Bälinge            0-3  Kopparberg
   [Lotta Schelin 27, 76, Sofia Dammström 90]
@@ -371,7 +371,7 @@ Umeå               6-1  Hammarby
   [Hanna Ljungberg 3, 63, Sofia Eriksson 45, Marta 70, Anna Sjoström
    81, Kicki Viklund 88; Linda Forsberg 61]
 
-Round 20
+Round: 20
 [Oct 9]
 Karlslund          2-0  Själevad
   [Caroline Näfver 30, Maria hammarström 54]
@@ -389,7 +389,7 @@ Linköping          1-3  Sunnanå
 Mallbacken         0-4  Djurgården/Älvsjö
   [Ann-Marie Norlin 33, 62, Sara Johansson 68, 88]
 
-Round 21
+Round: 21
 [Oct 16]
 Hammarby           3-4  Djurgården/Älvsjö
   [Linda Forsborg 48, 51, Salina Olsson 71; Sara Johansson 7,
@@ -408,7 +408,7 @@ Karlslund          3-1  Linköping
   [Sandra Persson 50, Christie Welsh 78, Elin Magnusson 90. Maria
    Aronsson 53]
 
-Round 22
+Round: 22
 [Oct 24]
 Djurgården/Älvsjö  2-6  Umeå
   [Therese Brogårde 8, Victoria Svensson 75; Anna Sjöström 27, Jessica
@@ -427,224 +427,22 @@ Själevad           1-0  Stattena
 Sunnanå            1-2  Bälinge
   [Sandra Berggren 75; Ann Westermark 26, Anna Eskhult 86]
 
-Final Table:
 
- 1.Djurgården/Älvsjö        22 19  2  1  74-23 59  Champions
- 2.Umeå IK                  22 19  1  2 106-17 58
- 3.Malmö FF                 22 15  4  3  67-23 49
- 4.Kopparbergs/Göteborg FC  22 10  4  8  29-33 34
- 5.Hammarby IF DFF          22 10  3  9  44-42 33
- 6.Linköpings FC            22  8  4 10  28-37 28  [former BK Kenty]
- 7.Karlslunds IF DFF        22  7  3 12  32-54 24
- 8.Mallbackens IF           22  6  4 12  17-41 22
- 9.Sunnanå SK               22  5  5 12  30-47 20
-10.Själevads IK             22  5  5 12  19-49 20
--------------------------------------------------
-11.Bälinge IF               22  4  7 11  23-55 17  Relegated
-12.Stattena IF              22  1  4 17  13-61  7  Relegated
-
+* 1.Djurgården/Älvsjö        22 19  2  1  74-23 59  Champions
+* 2.Umeå IK                  22 19  1  2 106-17 58
+* 3.Malmö FF                 22 15  4  3  67-23 49
+* 4.Kopparbergs/Göteborg FC  22 10  4  8  29-33 34
+* 5.Hammarby IF DFF          22 10  3  9  44-42 33
+* 6.Linköpings FC            22  8  4 10  28-37 28  [former BK Kenty]
+* 7.Karlslunds IF DFF        22  7  3 12  32-54 24
+* 8.Mallbackens IF           22  6  4 12  17-41 22
+* 9.Sunnanå SK               22  5  5 12  30-47 20
+*10.Själevads IK             22  5  5 12  19-49 20
+*-------------------------------------------------
+*11.Bälinge IF               22  4  7 11  23-55 17  Relegated
+*12.Stattena IF              22  1  4 17  13-61  7  Relegated
 
 
-
-Svenska Cupen, Damer
-
-Note: (n) refers to nth-level club.
-
-First Round
-[Mar 6]
-Stuvasta IF (5)          0-5  Älvsjö AIK FF (3)
-[Mar 24]
-Marlebo IK (4)           0-1  Ulvåkers IF (3)
-Turebergs IF (4)         2-3  FC Café Opera Djursh (3)
-[Mar 28]
-Börje SK (4)             3-1  Kungsör BK (4)
-[Apr 1]
-Sätra SK (4)             1-4  IF Brommapojkarna (3)
-[Apr 3]
-Tullinge TP FK (5)       1-2  IFK Nyköping (4)
-[Apr 6]
-Reymersholms IK (4)      0-3  Roslagsbro IF (3)
-[Apr 9]
-IFK Fjärås (4)           3-1  Romelanda UF (4)
-Råå IF (4)               2-3  IF Böljan (4)
-[Apr 12]
-BK Zeros (4)             0-3  Örebro SK Söder (4)
-Hovås/Billdal IF (4)     3-0  Göta BK (4)
-Hässelby SK (4)          2-1  Julita GoIF (3)
-IFK Lidingö FK (4)       3-1  Dalhem IF (3)
-Fanna BK (4)             1-3  Västerås SK, Ungdom (3)
-Hallands Nations FF (4)  0-1  IFK Hässleholm (4)
-Skå IK (3)               2-0  Hargs BK (4)
-Trosa IF (5)             0-3  Lotorps IF (4)
-Rödeby AIF (4)           1-2  Timmernabbens IF (4)
-Gamleby IF (4)           2-5  BK Tinnis (4)
-Kilntehamns IK (5)       2-1  Segeltorps IF (5)         [aet]
-
-Second Round
-[Mar 28]
-Mariestads BOIS (5)      0-3  Sätila SK (3)
-[Apr 12]
-Luleå SK (4)             1-4  Piteå IF (3)
-[Apr 15]
-Loverslunds BK (5)       1-14 IF Trion (2)
-[Apr 17]
-Västerås SK, Ungdom (4)  0-2  Klintehamns IK (5)
-Västanfors IF FK (4)     3-1  Linghems SK (3)           [aet]
-IF Viken (n)             1-1  Skoftebyns IF (4)         [aet, 4-2 pen]
-Surahammars FK (3)       1-4  Håbo FF (2)
-[Apr 18]
-Örebro SK Söder (4)      1-3  Eskilstuna United (2)
-Onsala BK (4)            1-2  IFK Valla (3)
-Sikfors SK (4)           0-4  IFK Åkullsjön (3)
-Heby AIF (4)             2-1  Leksands IF (4)
-[Apr 20]
-Kungsbacka BI (4)        2-3  Näsets SK (3)
-IFK Lidingö FK (4)       0-7  Rågsveds IF (2)
-[Apr 21]
-Hässelby SK (4)          1-3  Enskede IK (3)
-[Apr 23]
-Alnö IF (4)              0-3  Ope IF (4)
-Essviks AIF (4)          1-2  Husums IF (3)            [aet]
-Korskrogens IK (4)       3-4  Topshammars IF (4)
-Långsele AIF (4)         2-4  Arnäs IF (3)
-Trönö IK (4)             1-2  Stensätra IF (3)         [aet]
-Börje SK (4)             1-5  AIK (2)
-Krukom/Dv. IF (4)        1-3  Sund IF (3)
-Söråkers FF (4)          0-3  IFK Strömsund (3)
-Hovås/Billdal IF (4)     1-10 Falköpings KIK (2)
-[Apr 25]
-Bergnäsets AIK (4)       0-6  Umedalens IF (4)
-Färnäs SK (4)            0-3  Hedesunda IF (3)
-Gällivare SK (4)         0-8  Lira BK (3)
-Domsjö IF (4)            0-4  Sundsvalls DFF (3)
-[Apr 27]
-IF Eksjö Fotboll (4)     2-2  Emmaboda IS (4)          [aet, 4-5 pen]
-IFK Fjärås (4)           0-2  Hällesåkers IF (3)
-Sjulsmarks SK (5)        1-7  Morön BK (3)
-[Apr 28]
-Strömsbro IF (4)         2-6  Falu BS (3)
-Boda Ore SK (4)          0-5  Ornäs BK (2)
-Dala Järna IK (4)        0-3  Gideonsbergs IF (2)
-IF Böljan (4)            4-1  IF Norvalla (3)
-Lotorps IF (4)           0-5  IF Brommapojkarna (3)
-Infjärdens SK (3)        1-2  Umeå Södra FF (2)
-Skä IK (3)               4-1  Rönninge Salem FF (3)
-Timmernabbens IF (4)     0-13 Östers IF (2)
-BK Tinnis (4)            2-1  Norrahammars IK (4)
-Ersboda SK (4)           2-1  Burträsk FF (3)
-IFK Hässleholm (4)       0-2  Sjöbo IF (3)
-Roslagsbro IF (3)        1-2  Älvsjö AIK FF (3)
-Trångfors IF (4)         0-8  Alviks IK (2)
-Ulvåkers IF (3)          3-9  Holmalunds IF (2)
-Önnestads BI (5)         1-11 Husie IF (2)
-IFK Nyköping (4)         2-3  FC Café Opera Djursh (3)
-
-Third Round
-[May 6]
-Sjöbo IF (3)             2-4  Husie IF (2)
-Västanfors IF FK (4)     0-2  Ornäs BK (2)
-[May 9]
-IF Böljan (4)            0-3  Östers IF (2)
-[May 10]
-Emmaboda IS (4)          0-1  IF Trion (2)
-Skå IK (3)               1-2  Håbo FF (2)
-Torpshammars IF (4)      2-2  IFK Strömsund (3)        [aet, 3-2 pen]
-Sund IF (3)              1-0  Hedesunda IF (3)
-[May 11]
-FC Café Opera Djursh (3) 1-6  AIK (2)
-BK Tinnis (4)            0-7  Falköpings KIK (2)
-Sätila SK (3)            2-5  Holmalunds IF (2)
-Umedalens IF (4)         1-0  Piteå IF (3)
-[May 12]
-Falu BS (3)              0-2  Gideonsbergs IF (2)
-Ersboda SK (4)           2-1  Husums IF (3)
-Heby AIF (4)             0-2  IF Brommapojkarna (3)
-IFK Åkullsjön (3)        3-2  Arnäs IF (3)
-Klintehamns IK (5)       2-4  Enskede IK (3)           [aet]
-Ope IF (4)               0-12 Sundsvalls DFF (3)
-IF Viken (4)             1-4  Hällesåkers IF (3)
-IFK Valla (3)            0-2  Näsets SK (3)
-Stensätra IF (3)         0-8  Rägsveds IF (2)
-Älvsjö AIK FF (3)        0-2  Eskilstuna United (2)
-Lira BK (3)              0-3  Alviks IK (2)
-Morön BK (3)             0-3  Umeå Södra FF (2)
-
-Fourth Round
-[May 20]
-Näsets SK (3)            0-0  Östers IF (2)            [aet, 4-2 pen]
-[May 23]
-Torpshammars IF (4)      0-5  IFK Åkullsjön (3)
-[May 26]
-Falköpings KIK (2)       4-2  Linköpings FC (1)
-Gideonsbergs IF (2)      2-3  Karlslunds IF DFF (1)
-IF Brommapojkarna (3)    4-2  Rågsveds IF (2)
-Alviks IK (2)            1-6  Sunnanå SK (1)
-Husie IF (2)             0-2  Kopparbergs/Götebord (1)
-Håbo FF (2)              1-7  Hammarby IF DFF (1)
-Hällesåkers IF (3)       4-2  Holmalunds IF (2)
-Ornäs BK (2)             1-5  Bälinge IF (1)
-Ersboda SK (4)           1-9  Umeå Södra FF (2)
-Umedalens IF (4)         3-3  Sundsvalls DFF (3)       [aet, 2-1 pen]
-[May 27]
-Eskilstuna United (2)    0-4  Djurgården/Älvsjö (1)
-IF Trion (2)             1-9  Malmö FF DFF (1)
-Sund IF (3)              0-11 Umeå IK (1)
-[Jun 15]
-Enskede IK (3)           2-4  AIK (2)                  [aet]
-
-Fifth Round
-[Aug 21]
-Umedalens IF (4)         2-9  Hammarby IF DFF (1)
-[Aug 25]
-Falköpings KIK (2)       0-4  Karlslunds IF DFF (1)
-Umeå Södra FF (2)        1-3  Sunnanå SK (1)
-[Aug 31]
-Hällesåkers IF (3)       0-8  Kopparbergs/Göteborg (1)
-[Sep 1]
-Näsets SK (3)            0-12 Malmö FF DFF (1)
-IFK Åkullsjön (3)        1-7  Umeå IK (1)
-AIK (2)                  1-3  Bälinge IF (1)
-IF Brommapojkarna (3)    0-8  Djurgården/Älvsjö (1)
-
-Quarterfinals
-[Sep 15]
-Malmö FF DFF (1)         4-0  Kopparberg/Göteborg (1)
-  [Therese Lundin 10, Jenny Engwall 16, Frida Nordin 34,
-   Therese Jönsson 83]
-Hammarby IF DFF (1)      4-1  Bälinge IF (1)
-  [Linda Lekander 12, 85; Linda Forsberg 50, Salina Olsson 63;
-   Ann Westermark 75]
-[Sep 21]
-Karlslunds IF DFF (1)    1-5  Djurgården/Älvsjö (1)
-  [Christie Welsh 28; Victoria Svensson 34, 56, Venus James 65, 79,
-   Malin Nykvist 82]
-[Sep 29]
-Sunnanå SK (1)           1-6  Umeå IK (1)
-  [Johanna Lindahl 82; Marta 17, 25, 56, Emma Lindqvist 38,
-   Anna Sjöström 64, Therese Kapstad 73]
-
-Semifinals [Oct 13]
-Malmö FF DFF (1)         1-3  Djurgården/Älvsjö (1)
-  [Jenny Engwall 63; Malin Nykvist 11, Jane Törnqvist 16,
-   Venus James 69]
-Umeå IK (1)              5-3  Hammarby IF DFF (1)
-  [Malin Moström 52, 74, Malin Bergkvist 70, Hanna Ljungberg 86,
-   Marta 90; Linda Forsberg 22, 27, 53]
-
-Final [Nov 6, at Råsunda Stadium, Stockholm]
-Umeå IK (1)              1-2  Djurgården/Älvsjö (1)
-  [Marta 64; Sara Johansson 28, Kristin Bengtsson 34]
-Lineups
-Umeå: Ulrika Karlsson - Sofia Eriksson (Maria Nordbrandt 66), Sanna
-   Valkonen, Hanna Marklund, Maria Bergqvist - Jessica Juhlin,
-   Malin Moström, Frida Östberg - Marta, Laura Kalmari, Anna
-   Sjöström.
-Djurgården/Älvsjö: Maja Åstrom - Sara Thunebro, Therese Brodegård,
-   Jenny Curtsdotter, Malin Nykvist - Kristin Bengtsson, Linda
-   Fagerström, Ann-Marie Norlin (Venus James 45), Anna Hall - 
-   Victoria Svensson, Sara Johansson.
-Yellow Cards: Hanna Marklund 47, Maria Bergqvist 61, Marta 82.
-Referee: Eva Ödlund.
 
 
 Second Level 2004
@@ -652,7 +450,7 @@ Second Level 2004
 
 Norrettan, Damer
 
-Round 1
+Round: 1
 [Apr 23]
 Vasalund/Essinge    2-1  Gideonsberg
 [Apr 24]
@@ -664,7 +462,7 @@ Alvik               1-1  Håbo
 [May 5]
 Östersund           0-0  AIK
 
-Round 2
+Round: 2
 [May 1]
 AIK                 1-0  Eskilstuna United
 [May 2]
@@ -675,7 +473,7 @@ Farsta              3-2  Umeå Södra
 Gideonsberg         3-2  Alvik
 Rågsved             1-0  Vasalund/Essinge
 
-Round 3
+Round: 3
 [May 8]
 Umeå Södra          7-0  Bollstanäs
 Gideonsberg         3-0  Håbo
@@ -685,7 +483,7 @@ Eskilstuna United   2-1  Östersund
 Vasalund/Essinge    2-1  Farsta
 Alvik               4-1  Rågsved
 
-Round 4
+Round: 4
 [May 15]
 Bollstanäs          2-3  Vasalund/Essinge
 Håbo                0-6  Eskilstuna United
@@ -698,7 +496,7 @@ Rågsved             1-1  Gideonsberg
 [Jun 2]
 AIK                 1-0  Umeå Södra
 
-Round 5
+Round: 5
 [May 21]
 Vasalund/Essinge    1-3  AIK
 [May 22]
@@ -710,7 +508,7 @@ Alvik               2-3  Bollstanäs
 [May 24]
 Rågsved             4-1  Håbo
 
-Round 6
+Round: 6
 [May 31]
 AIK                 3-0  Alvik
 Östersund           0-2  Vasalund/Essinge
@@ -720,7 +518,7 @@ Farsta              1-1  Rågsved
 [Jun 1]
 Håbo                2-5  Ornäs
 
-Round 7
+Round: 7
 [Jun 4]
 Vasalund/Essinge    0-1  Eskilstuna United
 [Jun 5]
@@ -731,7 +529,7 @@ Rågsved             0-3  Bollstanäs
 Farsta              4-1  Håbo
 Gideonsberg         1-1  AIK
 
-Round 8
+Round: 8
 [Jun 12]
 AIK                 4-1  Rågsved
 Bollstanäs          0-2  Farsta
@@ -741,7 +539,7 @@ Ornäs               0-0  Vasalund/Essinge
 Eskilstuna United   2-0  Alvik
 Håbo                0-6  Umeå Södra
 
-Round 9
+Round: 9
 [Jun 17]
 Gideonsberg         2-0  Eskilstuna United
 [Jun 19]
@@ -752,7 +550,7 @@ Bollstanäs          0-0  Håbo
 [Jun 20]
 Vasalund/Essinge    3-0  Umeå Södra
 
-Round 10
+Round: 10
 [May 28]
 Östersund           1-1  Farsta
 [Jun 23]
@@ -763,7 +561,7 @@ Umeå Södra          5-2  Alvik
 [Jun 28]
 Eskilstuna United   3-0  Rågsved
 
-Round 11
+Round: 11
 [Jul 3]
 AIK                 5-0  Håbo
 Rågsved             0-1  Ornäs
@@ -773,7 +571,7 @@ Gideonsberg         1-2  Umeå Södra
 Alvik               2-1  Vasalund/Essinge
 Farsta              3-2  Eskilstuna United
 
-Round 12
+Round: 12
 [Jun 16]
 Vasalund/Essinge    3-2  Alvik
 [Jun 27]
@@ -786,7 +584,7 @@ Ornäs               4-0  Rågsved
 [Aug 1]
 Umeå Södra          1-0  Gideonsberg
 
-Round 13
+Round: 13
 [Aug 6]
 Gideonsberg         3-3  Ornäs
 [Aug 8]
@@ -798,7 +596,7 @@ Farsta              3-1  Östersund
 Bollstanäs          2-3  AIK
 Vasalund/Essinge    2-1  Håbo
 
-Round 14
+Round: 14
 [Aug 14]
 Håbo                0-2  Bollstanäs
 AIK                 4-0  Farsta
@@ -808,7 +606,7 @@ Umeå Södra          3-1  Vasalund/Essinge
 Ornäs               2-1  Alvik
 Östersund           0-3  Rågsved
 
-Round 15
+Round: 15
 [Aug 21]
 Gideonsberg         2-1  Östersund
 Farsta              3-5  Bollstanäs
@@ -819,7 +617,7 @@ Vasalund/Essinge    2-1  Ornäs
 [Aug 23]
 Rågsved             0-4  AIK
 
-Round 16
+Round: 16
 [Aug 28]
 Håbo                1-3  Farsta
 Östersund           2-7  Alvik
@@ -829,7 +627,7 @@ Bollstanäs          6-2  Rågsved
 Ornäs               1-2  Umeå Södra
 Eskilstuna United   3-3  Vasalund/Essinge
 
-Round 17
+Round: 17
 [Sep 4]
 Gideonsberg         5-0  Bollstanäs
 Ornäs               2-0  Håbo
@@ -840,7 +638,7 @@ Alvik               0-1  AIK
 [Sep 6]
 Rågsved             8-2  Farsta
 
-Round 18
+Round: 18
 [Sep 11]
 Håbo                4-4  Rågsved
 AIK                 4-1  Vasalund/Essinge
@@ -850,7 +648,7 @@ Eskilstuna United   1-1  Ornäs
 Östersund           0-5  Umeå Södra
 Farsta              1-3  Gideonsberg
 
-Round 19
+Round: 19
 [Sep 17]
 Vasalund/Essinge    1-1  Bollstanäs
 [Sep 18]
@@ -862,7 +660,7 @@ Umeå Södra          1-3  AIK
 [Sep 20]
 Gideonsberg         6-0  Rågsved
 
-Round 20
+Round: 20
 [Sep 25]
 Håbo                0-5  Gideonsberg
 AIK                 5-0  Ornäs
@@ -872,7 +670,7 @@ Rågsved             0-2  Alvik
 Farsta              0-1  Vasalund/Essinge
 Östersund           1-2  Eskilstuna United
 
-Round 21
+Round: 21
 [Oct 8]
 Vasalund/Essinge    3-2  Rågsved
 Alvik               2-0  Gideonsberg
@@ -883,7 +681,7 @@ Eskilstuna United   2-2  AIK
 Umeå Södra          4-4  Farsta
 Östersund           0-2  Håbo
 
-Round 22 [Oct 17]
+Round: 22 [Oct 17]
 AIK                 5-1  Östersund
 Bollstanäs          0-0  Eskilstuna United
 Farsta              1-3  Ornäs
@@ -911,7 +709,7 @@ Final Table:
 
 Söderettan, Damer
 
-Round 1
+Round: 1
 [Apr 17]
 Staffanstorp        6-1  Dalsjöfor
 [Apr 24]
@@ -922,7 +720,7 @@ QBIK                2-0  Husie
 [May 5]
 Falköping           0-1  Öster
 
-Round 2
+Round: 2
 [May 1]
 Astrio              1-8  Falköping
 Dalsjöfor           1-3  QBIK
@@ -932,7 +730,7 @@ Vallens             0-0  Staffanstorp
 [May 2]
 Husie               0-0  Trion
 
-Round 3
+Round: 3
 [May 8]
 Astrio              0-6  Öster
 Trion               2-1  Dalsjöfor
@@ -942,7 +740,7 @@ Staffanstorp        3-1  Holmalund
 [May 9]
 Falköping           5-2  Husie
 
-Round 4
+Round: 4
 [May 13]
 Dalsjöfor           2-1  Falköping
 [May 14]
@@ -953,7 +751,7 @@ Jitex               0-0  Staffanstorp
 Vallens             1-1  Trion
 Öster               1-3  Kristianstad/Wä
 
-Round 5
+Round: 5
 [May 20]
 Astrio              0-1  Dalsjöfor
 [May 22]
@@ -964,7 +762,7 @@ Staffanstorp        0-1  Kristianstad/Wä
 Falköping           4-2  Vallens
 Husie               0-7  Öster
 
-Round 6
+Round: 6
 [May 29]
 Kristianstad/Wä     1-2  QBIK
 Vallens             1-0  Astrio
@@ -975,7 +773,7 @@ Jitex               1-1  Trion
 [Jun 1]
 Holmalund           0-1  Falköping
 
-Round 7 [Jun 5]
+Round: 7 [Jun 5]
 QBIK                4-0  Staffanstorp
 Astrio              1-7  Holmalund
 Dalsjöfor           0-0  Öster
@@ -983,7 +781,7 @@ Falköping           2-0  Jitex
 Husie               2-0  Vallens
 Trion               0-0  Kristianstad/Wä
 
-Round 8
+Round: 8
 [Jun 12]
 Öster               0-1  QBIK
 Holmalund           5-1  Husie
@@ -993,7 +791,7 @@ Vallens             0-5  Dalsjöfor
 [Jun 13]
 Staffanstorp        4-0  Trion
 
-Round 9
+Round: 9
 [Jun 17]
 Dalsjöfor           7-0  Holmalund
 [Jun 19]
@@ -1003,7 +801,7 @@ Falköping           3-1  Staffanstorp
 Husie               1-1  Jitex
 Vallens             1-5  Öster
 
-Round 10 [Jun 23]
+Round: 10 [Jun 23]
 Holmalund           2-4  Vallens
 Jitex               2-3  Dalsjöfor
 Kristianstad/Wä     5-1  Husie
@@ -1011,7 +809,7 @@ QBIK                5-2  Falköping
 Staffanstorp        5-0  Astrio
 Öster               2-0  Trion
 
-Round 11
+Round: 11
 [Jun 30]
 Holmalund           1-2  Öster
 [Jul 3]
@@ -1021,7 +819,7 @@ Falköping           4-1  Trion
 Husie               1-0  Staffanstorp
 Vallens             1-4  Jitex
 
-Round 12
+Round: 12
 [Jul 4]
 Öster               2-1  Holmalund
 [Jul 7]
@@ -1033,7 +831,7 @@ QBIK               10-0  Astrio
 [Aug 3]
 Trion               1-5  Fälkoping
 
-Round 13
+Round: 13
 [Aug 7]
 Dalsjöfor           3-2  Jitex
 Falköping           2-8  QBIK
@@ -1044,7 +842,7 @@ Astrio              1-3  Staffanstorp
 [Aug 10]
 Trion               0-3  Öster
 
-Round 14
+Round: 14
 [Aug 12]
 Holmalund           2-0  Dalsjöfor
 [Aug 14]
@@ -1054,7 +852,7 @@ Kristianstad/Wä    12-0  Astrio
 Staffanstorp        1-7  Falköping
 Öster               4-0  Vallens
 
-Round 15 [Aug 21]
+Round: 15 [Aug 21]
 Astrio              1-1  Jitex
 Dalsjöfor           3-0  Vallens
 Falköping           2-3  Kristianstad/Wä
@@ -1062,7 +860,7 @@ Husie               2-3  Holmalund
 Trion               1-1  Staffanstorp
 QBIK                3-1  Öster
 
-Round 16 [Aug 28]
+Round: 16 [Aug 28]
 Staffanstorp        1-4  QBIK
 Holmalund           5-1  Astrio
 Jitex               4-0  Falköping
@@ -1070,7 +868,7 @@ Kristianstad/Wä     3-0  Trion
 Vallens             4-2  Husie
 Öster               1-0  Dalsjöfor
 
-Round 17
+Round: 17
 [Sep 4]
 Astrio              0-2  Vallens
 Husie               2-0  Dalsjöfor
@@ -1080,7 +878,7 @@ Staffanstorp        2-1  Öster
 [Sep 6]
 Falköping           2-1  Holmalund
 
-Round 18 [Sep 11]
+Round: 18 [Sep 11]
 Dalsjöfor           4-1  Astrio
 Holmalund           7-0  Trion
 Jitex               1-1  QBIK
@@ -1088,7 +886,7 @@ Kristianstad/Wä     1-2  Staffanstorp
 Vallens             4-5  Falköping
 Öster               3-1  Husie
 
-Round 19 [Sep 18]
+Round: 19 [Sep 18]
 Astrio              2-5  Husie
 Falköping           2-1  Dalsjöfor
 Trion               3-1  Vallens
@@ -1096,7 +894,7 @@ Kristianstad/Wä     1-0  Öster
 QBIK                1-2  Holmalund
 Staffanstorp        2-3  Jitex
 
-Round 20 [Sep 25]
+Round: 20 [Sep 25]
 Dalsjöfor           5-1  Trion
 Holmalund           2-0  Staffanstorp
 Husie               2-3  Falköping
@@ -1104,7 +902,7 @@ Jitex               1-5  Kristianstad/Wä
 Vallens             0-7  QBIK
 Östers              5-2  Astrio
 
-Round 21 [Oct 9]
+Round: 21 [Oct 9]
 Falköping           6-0  Astrio
 Trion               2-2  Husie
 Jitex               3-3  Öster
@@ -1112,7 +910,7 @@ Kristianstad/Wä     3-0  Holmalund
 QBIK                4-0  Dalsjöfor
 Staffanstorp        5-1  Vallens
 
-Round 22 [Oct 16]
+Round: 22 [Oct 16]
 Astrio              0-1  Trion
 Dalsjöfor           0-1  Staffanstorp
 Holmalund           2-0  Jitex
@@ -1120,22 +918,20 @@ Husie               0-4  QBIK
 Vallens             2-2  Kristianstad/Wä
 Öster               4-1  Falköping
 
-Final Table:
-
- 1.QBIK [Karlstad]    22  19  2  1   84-19  59  Promoted
-----------------------------------------------
- 2.Östers IF          22  14  3  5   54-20  45
- 3.Kristianstad/Wä    22  14  3  5   62-31  45
- 4.Falköpings KIK     22  14  0  8   72-50  42
- 5.Holmalunds IF      22  12  1  9   52-42  37
- 6.Dalsjöfors GoIF    22   9  3 10   42-36  30
- 7.Staffanstorps GIF  22   9  3 10   38-38  30
- 8.Jitex DFF          22   5 11  6   34-34  26
- 9.Husie IF           22   7  5 10   34-51  26
-----------------------------------------------
-10.IF Trion           22   4  6 12   20-54  18  Relegated
-11.Vallens IF         22   4  4 14   27-63  16  Relegated
-12.BK Astrio          22   0  1 21   16-97   1  Relegated
+* 1.QBIK [Karlstad]    22  19  2  1   84-19  59  Promoted
+*----------------------------------------------
+* 2.Östers IF          22  14  3  5   54-20  45
+* 3.Kristianstad/Wä    22  14  3  5   62-31  45
+* 4.Falköpings KIK     22  14  0  8   72-50  42
+* 5.Holmalunds IF      22  12  1  9   52-42  37
+* 6.Dalsjöfors GoIF    22   9  3 10   42-36  30
+* 7.Staffanstorps GIF  22   9  3 10   38-38  30
+* 8.Jitex DFF          22   5 11  6   34-34  26
+* 9.Husie IF           22   7  5 10   34-51  26
+*----------------------------------------------
+*10.IF Trion           22   4  6 12   20-54  18  Relegated
+*11.Vallens IF         22   4  4 14   27-63  16  Relegated
+*12.BK Astrio          22   0  1 21   16-97   1  Relegated
 
 
 
