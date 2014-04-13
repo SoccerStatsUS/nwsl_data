@@ -1,6 +1,6 @@
 BlockSource: http://www.rsssf.com/tablesf/fran-wom05.html
 Season: 2004-2005
-Competition: Championnat Feminin National, Division 1
+Competition: Championnat Feminin
 
 *NB: 4-2-1 point system
 *
@@ -18,7 +18,9 @@ Competition: Championnat Feminin National, Division 1
 *11.Saint-Brieuc         22   3  3 16  25-75  34  Relegated
 *12.FCF Condé/Noireau    22   1  5 16  13-56  30  Relegated
 
-Round: 1 [Aug 29]
+Round: 1 
+Date: 8/29/2004
+
 Saint-Memmie 3-6        Saint-Brieuc
   [Déborah Jeannet 50, 91, Lucie Gatto 52; Isabelle Le Denmat 16, 86,
    Sonia Haziraj 34, 67, 74, Mélanie Anger 76] 
@@ -33,11 +35,15 @@ Lyon               0-1  CNFE FF
   [Louisa Necib 90]
 
 Round: 2
-[Sep 4]
+
+Date: 9/4/2004
+
 Saint-Brieuc    1-6     Toulouse
   [Justine Boivin 66; Marie-Pierre Castera 3, 38, 48, Lilas Traikia 8, 39,
    Marie-Ange Kramo 43]
-[Sep 5]
+
+Date: 9/5/2004
+
 Hénin-Beaumont  5-1     Saint-Memmie
   [Christelle Berdin 16, Marjorie Willaumez 36, Amandine Henry 68, 81,
    Véronique Delliaux 86; Déborah Jeannet 38] 
@@ -52,11 +58,15 @@ Vendenheim 0-2    Lyon
   [Carole Granjon 14, Delphine Blanc 39]
 
 Round: 3
-[Sep 11]
+
+Date: 9/11/2004
+
 Lyon    5-1     Saint-Brieuc
   [Séverine Creuzet-Laplantes 27, 32, 79, Delphine Blanc 59, 
    Cécile Locatelli 69]
-[Sep 12]
+
+Date: 9/12/2004
+
 Soyaux          3-0     Vendenheim
   [Corinne Diacre 38, Corine Petit 40, Candie Herbert 51]  
 Paris SG   0-4    CNFE FF
@@ -65,12 +75,16 @@ Juvisy             1-0 Condé/Noireau
   [Laetitia Tonazzi 78]
 Toulouse    0-2     Hénin-Beaumont
   [Amélie Coquet 28, 92]
-[Nov 14]
+
+Date: 11/14/2004
+
 Saint-Memmie    0-3     Montpellier
   [Laetitia Gravier 18og, Hoda Lattaf 33, Elodie Ramos 85] 
 
 Round: 4
-[Sep 19]
+
+Date: 9/19/2004
+
 Vendenheim      0-3     Paris SG
   [Nadia Miloudi 46og, Ingrid Boyeldieu 81, Florence Freyermuth 92] 
 Saint-Brieuc     0-3   Soyaux
@@ -82,11 +96,15 @@ Juvisy                9-0 Saint-Memmie
    Laetitia Tonazzi 23, Stéphanie Mugneret-Beghe 68, Emilie Trimoreau 83]
 Hénin-Beaumont      1-2 Lyon
   [Séverine Goulois 70; Séverine Creuzet-Laplantes 53, Claire Morel 61]
-[Nov 11]
+
+Date: 11/11/2004
+
 Montpellier     1-0     Toulouse
   [Elodie Ramos 61]
 
-Round: 5 [Oct 10]
+Round: 5 
+Date: 10/10/2004
+
 CNFE FF      1-2        Vendenheim
   [Jennifer Moresco 88; Corinne Lebailly 21, 26]
 Paris SG    3-2     Saint-Brieuc
@@ -102,11 +120,15 @@ Lyon                0-4 Montpellier
   [Hoda Lattaf 25, Ludivine Diguelman 38pen, Sonia Bompastor 52, 92]
 
 Round: 6
-[Oct 16]
+
+Date: 10/16/2004
+
 Saint-Brieuc    0-5     CNFE FF
   [Auréie Pfeiffer 5, Inès Dhaou 15, Elodie Thomis 23, Flavie Lemaitre 54,
    Nathalie Coudour 60]
-[Oct 17]
+
+Date: 10/17/2004
+
 Condé/Noireau   1-2     Vendenheim
   [Stéphanie Marie 1; Jeanne Haag 34, Sylvie Klopfenstein-Lentschat 42]
 Juvisy             1-0       Lyon
@@ -118,7 +140,9 @@ Saint-Memmie      1-2   Toulouse
 Montpellier        2-0 Soyaux       
   [Emmanuelle Podence 49, Hoda Lattaf 63]
               
-Round: 7 [Oct 24]
+Round: 7 
+Date: 10/24/2004
+
 Soyaux       0-6        Juvisy
   [Marinette Pichon 36, 61, 75, Laetitia Tonazzi 56, 84, 
    Virginie Bourdille 89]
@@ -137,7 +161,9 @@ Toulouse  5-1     Condé/Noireau
   [Audrey Monicolle 28, 60, Marie-Pierre Castera 35, Lilas Traikia 47,
    Caroline Bouscatel 83; Adeline Bansard 48]                           
                                                                                                 
-Round: 8 [Nov 7]                                                                                 
+Round: 8 
+Date: 11/7/2004
+
 Saint-Memmie 1-3                                                                                Soyaux  
   [Déborah Jeannet 86; Wanda Rozwadowska 14, Valérie Dodile 65,
    Emilie Dos Santos 68]                                                
@@ -154,10 +180,14 @@ Condé/Noireau  1-1 Saint-Brieuc
   [Magalie Leclere 78; Mélanie Anger 74]
   
 Round: 9
-[Nov 27]
+
+Date: 11/27/2004
+
 Vendenheim      0-5     Montpellier
   [Camille Abily 4, 15, Hoda Lattaf 6, Stéphanie Grand 37, Elodie Ramos 88]
-[Nov 28]
+
+Date: 11/28/2004
+
 Soyaux          1-0     Toulouse
   [Corine Petit 48]
 Paris SG  1-1   Saint-Memmie
@@ -169,7 +199,9 @@ Lyon             3-0 Condé/Noireau
   [Marianne Grangeon 70, Ludivine Bruet 79, Sandrine Dusang 88]
 CNFE FF              0-0 Juvisy
 
-Round: 10 [Dec 5]
+Round: 10 
+Date: 12/5/2004
+
 Montpellier   7-1       Saint-Brieuc
   [Hoda Lattaf 11, 89, Elodie Ramos 27, 39, 51, 63, 72; Sonia Haziraj 64]
 Saint-Memmie   2-1 CNFE FF
@@ -185,7 +217,9 @@ Toulouse    4-3      Paris SG
   [Lilas Traikia 28, 50pen, Marie-Pierre Castera 39, 43; 
    Ingrid Boyeldieu 13, Dorette Elangue Eteme 83, Audrey Esain 85]
 
-Round: 11 [Dec 12]
+Round: 11 
+Date: 12/12/2004
+
 Paris SG 0-3  Lyon
   [Claire Morel 17, Séverine Creuzet-Laplantes 31, 38]
 Vendenheim      0-0 Saint-Memmie
@@ -200,10 +234,14 @@ Hénin-Beaumont    0-1 Montpellier
   [Hoda Lattaf 29]
 
 Round: 12
-[Dec 18]
+
+Date: 12/18/2004
+
 Soyaux          1-1     CNFE FF
   [Corine Petit 49; Morgane Courteille 88)
-[Dec 19]
+
+Date: 12/19/2004
+
 Lyon    1-1     Vendenheim
   [Sandrine Dusang 58; Julie Bayol 28pen]
 Saint-Memmie       1-4 Hénin-Beaumont
@@ -217,10 +255,14 @@ Toulouse    2-0        Saint-Brieuc
   [Lilas Traikia 14, Sabrina Viguier 78]
 
 Round: 13
-[Jan 8]
+
+Date: 1/8/2005
+
 Saint-Brieuc    0-5     Lyon
   [Séverine Creuzet-Laplantes 24, 91, Sandrine Bretigny 30, 76, 93]
-[Jan 9]
+
+Date: 1/9/2005
+
 Vendenheim      2-2     Soyaux
   [Corinne Lebailly 69, Marie-Cosette Mercan 80; Corinne Diacre 37,
    Valérie Dodile 91]
@@ -231,12 +273,16 @@ Montpellier   5-0   Saint-Memmie
   [Elodie Ramos 44, 91, Hoda Lattaf 45, 73, Camille Abily 67]           
 Condé/Noireau   0-2 Juvisy   
   [Marinette Pichon 52, Alexandra Guine 81]
-[Jan 12]            
+
+Date: 1/12/2005
+
 CNFE FF                 2-2     Paris SG        
   [Inès Dhaou 62, Louisa Necib 65; Ingrid Boyeldieu 57, 71)                     
 
 Round: 14
-[Jan 23]
+
+Date: 1/23/2005
+
 Saint-Memmie    0-6     Juvisy  
   [Marinette Pichon 5, 11, 43, 45, Dorothée Boufflers 20, 66]           
 Paris SG     0-0    Vendenheim
@@ -245,20 +291,28 @@ Toulouse     0-4    Montpellier
    Sonia Bompastor 66] 
 Soyaux             3-0 Saint-Brieuc
   [Natacha Brandy 17, Wanda Rozwadowska 51, Corine Petit 74]
-[Feb 12]
+
+Date: 2/12/2005
+
 CNFE FF         1-0     Condé/Noireau
   [Virginie Douillet 44og]
-[Apr 24]
+
+Date: 4/24/2005
+
 Lyon    6-0     Hénin-Beaumont
   [Marianne Grangeon 15pen, 42pen, Christie Welsh 27, Claire Morel 63,
    Sandrine Bretigny 65, Cécile Locatelli 71]
 
 Round: 15
-[Jan 29]
+
+Date: 1/29/2005
+
 Saint-Brieuc    3-3     Paris SG
   [Mériame Ben Abdelwahab 9, Sophie Rissoan 51, Marine Masson 86;
    Béatrice Basset 17, Ingrid Boyeldieu 19, Sylvaine Lair 35]
-[Jan 30]
+
+Date: 1/30/2005
+
 Hénin-Beaumont  2-4     Soyaux
   [Amélie Coquet 76, Christelle Berdin 89pen; Emilie Dos Santos 21pen,
    Wanda Rozwadowska 26, Corine Petit 72, Valérie Dodile 81]
@@ -267,14 +321,20 @@ Juvisy               6-0 Toulouse
    Virginie Bourdille 56]
 Montpellier 1-0       Lyon
   [Sabrina Oumeur 78]
-[Feb 20]
+
+Date: 2/20/2005
+
 Condé/Noireau   1-1     Saint-Memmie
   [Léocadie Lecorre 3; Laetitia Gravier 66]
-[Apr 6]
+
+Date: 4/6/2005
+
 Vendenheim      1-0     CNFE FF
   [Jeanne Haag 3]
 
-Round: 16 [Feb 6]
+Round: 16 
+Date: 2/6/2005
+
 Lyon     3-0  Juvisy
   [[Claire Morel 38, Sandrine Bretigny 66, Christie Welsh 92]
 Toulouse   4-0   Saint-Memmie
@@ -290,7 +350,9 @@ Vendenheim           3-0 Condé/Noireau
   [Nadia Bouteldja 12, Jeanne Haag 67, Corinne Lebailly 86]
 
 Round: 17
-[Feb 27]
+
+Date: 2/27/2005
+
 Condé/Noireau   0-3     Toulouse
   [Marie-Ange Kramo 16, Audrey Monicolle 43, 74]
 Juvisy              4-1 Soyaux 
@@ -298,19 +360,27 @@ Juvisy              4-1 Soyaux
    Wanda Rozwadowska 55]
 Montpellier          2-0        Paris SG
   [Elodie Ramos 52, Sarah M’Barek 56]
-[Mar 3]
+
+Date: 3/3/2005
+
 Saint-Brieuc    1-3     Vendenheim
   [Sonia Haziraj 36pen; Julie Bayol 11, Julie Walocha 50, 
    Marie-Cosette Mercan 91]
-[Mar 13]
+
+Date: 3/13/2005
+
 Saint-Memmie    0-2     Lyon
   [Delphine Blanc 44, Claire Morel 48]
-[May 5]
+
+Date: 5/5/2005
+
 Hénin-Beaumont  0-2     CNFE FF
   [Flavie Lemaitre 25, Jessica Houara 84]
 
 Round: 18
-[Mar 20]                                                        
+
+Date: 3/20/2005
+
 Soyaux                                                                  0-1     Saint-Memmie    
   [Gaëtane Thiney 39]                                                   
 Vendenheim 0-2    Hénin-Beaumont
@@ -322,18 +392,24 @@ Saint-Brieuc    1-0                                            Condé/Noireau
   [Mélanie Anger 48]                                            
 Paris SG   0-4   Juvisy
   [Marinette Pichon 40, 58, Sophie Guyennot 65, Peggy Provost 75]
-[May 22]
+
+Date: 5/22/2005
+
 Lyon    1-1     Toulouse
   [Séverine Creuzet-Laplantes 37; Aurélie Samptiaux 51]
 
 Round: 19
-[Mar 26]
+
+Date: 3/26/2005
+
 Juvisy          4-2     CNFE FF
   [Marinette Pichon 9, 82, Elise Bussaglia 58, Aline Riera 88pen;
    Louisa Necib 25, 76pen]
 Condé/Noireau   0-4 Lyon
   [Sandrine Bretigny 1, Ali Wagner 9, 89, Séverine Creuzet-Laplantes 92]
-[Mar 27]
+
+Date: 3/27/2005
+
 Hénin-Beaumont  4-0     Saint-Brieuc    
   [Amélie Coquet 30, Céline Guilbert 38, 45, 65]                
 Montpellier      4-2 Vendenheim
@@ -346,10 +422,14 @@ Saint-Memmie        2-3    Paris SG
    Candice Prevost 66]
 
 Round: 20
-[Apr 2]
+
+Date: 4/2/2005
+
 Saint-Brieuc    0-1     Montpellier
   [Elodie Ramos 73]
-[Apr 3]
+
+Date: 4/3/2005
+
 Paris SG        1-2     Toulouse
   [Ingrid Boyeldieu 75; Julie Peruzzetto 73, Julia Dany 86]     
 Soyaux              0-1 Lyon
@@ -362,7 +442,9 @@ CNFE FF         1-0 Saint-Memmie
 Vendenheim      0-3     Juvisy  
   [Marinette Pichon 58, 92, Emilie Trimoreau 82]
 
-Round: 21 [Apr 17]
+Round: 21 
+Date: 4/17/2005
+
 Soyaux        3-1       Condé/Noireau
   [Wanda Rozwadowska 43, Marina Pascaud 68, Candie Herbert 78; 
    Virginie Couillard 81]
@@ -380,11 +462,15 @@ Lyon                2-0 Paris SG
   [Danielle Slaton 69, Christie Welsh 89]
 
 Round: 22
-[May 7]
+
+Date: 5/7/2005
+
 Condé/Noireau   0-9     Montpellier
   [Sonia Bompastor 9, Hoda Lattaf 19, 58, Ludivine Diguelman 30,
    Audrey Lacaze 45, Elodie Ramos 47, 65, Virginie Faisandier 50, 83]
-[May 8]
+
+Date: 5/8/2005
+
 CNFE FF         5-1     Lyon
   [Elodie Thomis 5, 38, 45, 67, Louisa Necib 61; Sandrine Bretigny 63]
 Hénin-Beaumont   3-4    Juvisy
@@ -492,15 +578,21 @@ Paris SG 1-3     Soyaux
 
 Promotion Playoff
 
-Round: 1 [May 22]
+Round: 1 
+Date: 5/22/2005
+
 La Roche ESOF   3-0     Le Mans
 Compiègne USC   3-0     Monteux
 
-Round: 2 [May 29]
+Round: 2 
+Date: 5/29/2005
+
 Le Mans      0-2        Monteux
 La Roche ESOF           0-0     Compiègne USC
 
-Round: 3 [Jun 5]
+Round: 3 
+Date: 6/5/2005
+
 Compiègne USC   2-1     Le Mans
 Monteux         0-1     La Roche ESOF   
 

@@ -16,215 +16,279 @@ Competition: Damallsvenskan
 *11.Sundbyberg             22  4  3 15   21-49  15  Relegated
 *12.Astrio                 22  3  0 19   22-86   9  Relegated
 
-Round: 1 [Apr 24]
-Astrio          4-5 Djurgarden
-Oster           0-3 Malmo
-Hammarby        4-0 Kristianstad/Wa
-Kopparsberg/L   3-1 Sundbyberg
-Alvsjo          2-0 Balinge
-Kenty           1-2 Umea
+Round: 1 
+Date: 4/24/2000
+
+; Astrio         ; 4-5; Djurgarden
+; Oster          ; 0-3; Malmo
+; Hammarby       ; 4-0; Kristianstad/Wa
+; Kopparsberg/L  ; 3-1; Sundbyberg
+; Alvsjo         ; 2-0; Balinge
+; Kenty          ; 1-2; Umea
 
 Round: 2 
-[May 2]
-Sundbyberg      1-2 Alvsjo  
-[May 3]
-Umea            0-0 Kopparsberg/Landvetter
-Balinge         1-3 Hammarby
-Djurgarden      3-0 Oster
-Malmo           3-1 Kenty
-Astrio          2-5 Kristianstad/Wa
+Date: 5/2/2000
+
+; Sundbyberg     ; 1-2; Alvsjo  
+
+Date: 5/3/2000
+
+; Umea           ; 0-0; Kopparsberg/Landvetter
+; Balinge        ; 1-3; Hammarby
+; Djurgarden     ; 3-0; Oster
+; Malmo          ; 3-1; Kenty
+; Astrio         ; 2-5; Kristianstad/Wa
 
 Round: 3 
-[May 6]
-Kopparsberg/L   1-2 Alvsjo
-Djurgarden      2-1 Hammarby 
-Malmo           9-0 Astrio 
-[May 7]
-Umea            3-2 Oster
-Sundbyberg      0-1 Kenty
-Kristianstad/Wa 3-3 Balinge
+Date: 5/6/2000
 
-Round: 4 [May 10]
-Astrio          0-6 Umea
-Kenty           1-1 Kopparsberg/Landvetter
-Balinge         1-1 Djurgarden
-Hammarby        0-1 Malmo
-Alvsjo          5-0 Kristianstad/Wa
-Oster           3-2 Sundbyberg
+; Kopparsberg/L  ; 1-2; Alvsjo
+; Djurgarden     ; 2-1; Hammarby 
+; Malmo          ; 9-0; Astrio 
+
+Date: 5/7/2000
+
+; Umea           ; 3-2; Oster
+; Sundbyberg     ; 0-1; Kenty
+; Kristianstad/Wa; 3-3; Balinge
+
+Round: 4 
+Date: 5/10/2000
+
+; Astrio         ; 0-6; Umea
+; Kenty          ; 1-1; Kopparsberg/Landvetter
+; Balinge        ; 1-1; Djurgarden
+; Hammarby       ; 0-1; Malmo
+; Alvsjo         ; 5-0; Kristianstad/Wa
+; Oster          ; 3-2; Sundbyberg
 
 Round: 5 
-[May 20]
-Malmo           2-1 Djurgarden
-Sundbyberg      2-1 Balinge
-Umea            4-0 Kristianstad/Wa
-Oster           0-5 Alvsjo
-[May 21]
-Kenty           1-3 Astrio
-Kopparsberg/L   4-3 Hammarby 
+Date: 5/20/2000
+
+; Malmo          ; 2-1; Djurgarden
+; Sundbyberg     ; 2-1; Balinge
+; Umea           ; 4-0; Kristianstad/Wa
+; Oster          ; 0-5; Alvsjo
+
+Date: 5/21/2000
+
+; Kenty          ; 1-3; Astrio
+; Kopparsberg/L  ; 4-3; Hammarby 
 
 Round: 6 
-[May 27]
-Astrio          2-0 Oster
-Alvsjo          0-0 Malmo
-Balinge         0-3 Kopparsberg/Landvetter
-Hammarby        4-0 Kenty
-[May 28]
-Djurgarden      1-1 Umea 
-Kristianstad/Wa 0-0 Sundbyberg
+Date: 5/27/2000
+
+; Astrio         ; 2-0; Oster
+; Alvsjo         ; 0-0; Malmo
+; Balinge        ; 0-3; Kopparsberg/Landvetter
+; Hammarby       ; 4-0; Kenty
+
+Date: 5/28/2000
+
+; Djurgarden     ; 1-1; Umea 
+; Kristianstad/Wa; 0-0; Sundbyberg
 
 Round: 7 
-[Jun 3]
-Sundbyberg      4-2 Astrio 
-[Jun 4]
-Malmo           4-1 Balinge
-Kopparsberg/L   0-1 Oster
-Djurgarden      4-0 Kristianstad/Wa
-Kenty           1-1 Alvsjo
-Umea            3-2 Hammarby
+Date: 6/3/2000
+
+; Sundbyberg     ; 4-2; Astrio 
+
+Date: 6/4/2000
+
+; Malmo          ; 4-1; Balinge
+; Kopparsberg/L  ; 0-1; Oster
+; Djurgarden     ; 4-0; Kristianstad/Wa
+; Kenty          ; 1-1; Alvsjo
+; Umea           ; 3-2; Hammarby
 
 Round: 8 
-[Jun 14]
-Astrio          1-0 Kopparsberg/Landvetter
-Alvsjo          1-2 Djurgarden
-[Jun 15]
-Kristianstad/Wa 1-0 Malmo
-Oster           2-0 Kenty
-Balinge         2-2 Umea
-Hammarby        5-1 Sundbyberg
+Date: 6/14/2000
+
+; Astrio         ; 1-0; Kopparsberg/Landvetter
+; Alvsjo         ; 1-2; Djurgarden
+
+Date: 6/15/2000
+
+; Kristianstad/Wa; 1-0; Malmo
+; Oster          ; 2-0; Kenty
+; Balinge        ; 2-2; Umea
+; Hammarby       ; 5-1; Sundbyberg
 
 Round: 9 
-[Jun 17]
-Astrio          0-1 Alvsjo 
-[Jun 18]
-Kenty           2-1 Balinge
-Kopparsberg/L   4-1 Kristianstad/Wa
-Sundbyberg      0-0 Djurgarden
-Umea            1-1 Malmo
-Oster           3-2 Hammarby
+Date: 6/17/2000
+
+; Astrio         ; 0-1; Alvsjo 
+
+Date: 6/18/2000
+
+; Kenty          ; 2-1; Balinge
+; Kopparsberg/L  ; 4-1; Kristianstad/Wa
+; Sundbyberg     ; 0-0; Djurgarden
+; Umea           ; 1-1; Malmo
+; Oster          ; 3-2; Hammarby
 
 Round: 10 
-[Jun 22]
-Malmo           2-0 Sundbyberg 
-Djurgarden      2-0 Kopparsberg/Landvetter 
-[Jun 23]
-Balinge         4-3 Oster
-Hammarby        5-1 Astrio
-Kristianstad/Wa 2-0 Kenty
-Alvsjo          1-2 Umea
+Date: 6/22/2000
+
+; Malmo          ; 2-0; Sundbyberg 
+; Djurgarden     ; 2-0; Kopparsberg/Landvetter 
+
+Date: 6/23/2000
+
+; Balinge        ; 4-3; Oster
+; Hammarby       ; 5-1; Astrio
+; Kristianstad/Wa; 2-0; Kenty
+; Alvsjo         ; 1-2; Umea
 
 Round: 11 
-[Jun 27]
-Sundbyberg      1-3 Umea 
-[Jun 28]
-Astrio          0-6 Balinge
-Hammarby        0-4 Alvsjo
-Kenty           1-1 Djurgarden
-Kopparsberg/L   1-3 Malmo
-[Jun 29]
-Oster           0-0 Kristianstad/Wa 
+Date: 6/27/2000
+
+; Sundbyberg     ; 1-3; Umea 
+
+Date: 6/28/2000
+
+; Astrio         ; 0-6; Balinge
+; Hammarby       ; 0-4; Alvsjo
+; Kenty          ; 1-1; Djurgarden
+; Kopparsberg/L  ; 1-3; Malmo
+
+Date: 6/29/2000
+
+; Oster          ; 0-0; Kristianstad/Wa 
 
 Round: 12
-[Jul 15]
-Kristianstad/Wa 2-2 Oster
-Malmo           3-0 Kopparsberg/Landvetter
-Balinge         2-1 Astrio
-[Jul 16]
-Umea            2-0 Sundbyberg
-Djurgarden      5-1 Kenty 
-[Jul 17]
-Alvsjo          6-1 Hammarby 
+Date: 7/15/2000
 
-Round: 13 [Jul 22]
-Astrio          0-3 Hammarby
-Kopparsberg/L   1-3 Djurgarden
-Sundbyberg      1-2 Malmo
-Oster           0-2 Balinge
-Kenty           0-0 Kristianstad/Wa
-Umea            0-2 Alvsjo
+; Kristianstad/Wa; 2-2; Oster
+; Malmo          ; 3-0; Kopparsberg/Landvetter
+; Balinge        ; 2-1; Astrio
+
+Date: 7/16/2000
+
+; Umea           ; 2-0; Sundbyberg
+; Djurgarden     ; 5-1; Kenty 
+
+Date: 7/17/2000
+
+; Alvsjo         ; 6-1; Hammarby 
+
+Round: 13 
+Date: 7/22/2000
+
+; Astrio         ; 0-3; Hammarby
+; Kopparsberg/L  ; 1-3; Djurgarden
+; Sundbyberg     ; 1-2; Malmo
+; Oster          ; 0-2; Balinge
+; Kenty          ; 0-0; Kristianstad/Wa
+; Umea           ; 0-2; Alvsjo
 
 Round: 14 
-[Aug 5]
-Malmo           0-1 Umea
-Alvsjo         11-1 Astrio
-Hammarby        0-1 Oster
-Djurgarden      2-0 Sundbyberg
-[Aug 6]
-Kristianstad/Wa 1-3 Kopparsberg/Landvetter
-Balinge         2-0 Kenty 
+Date: 8/5/2000
+
+; Malmo          ; 0-1; Umea
+; Alvsjo        ; 11-1; Astrio
+; Hammarby       ; 0-1; Oster
+; Djurgarden     ; 2-0; Sundbyberg
+
+Date: 8/6/2000
+
+; Kristianstad/Wa; 1-3; Kopparsberg/Landvetter
+; Balinge        ; 2-0; Kenty 
 
 Round: 15 
-[Aug 12]
-Malmo           3-3 Alvsjo
-Kopparsberg/L.  1-0 Balinge
-Oster           3-2 Astrio
-Kenty           3-3 Hammarby
-Sundbyberg      0-3 Kristianstad/Wa
-[Aug 13]
-Umea            2-0 Djurgarden
+Date: 8/12/2000
+
+; Malmo          ; 3-3; Alvsjo
+; Kopparsberg/L. ; 1-0; Balinge
+; Oster          ; 3-2; Astrio
+; Kenty          ; 3-3; Hammarby
+; Sundbyberg     ; 0-3; Kristianstad/Wa
+
+Date: 8/13/2000
+
+; Umea           ; 2-0; Djurgarden
 
 Round: 16 
-[Aug 19]
-Alvsjo          5-1 Oster
-Astrio          0-4 Kenty
-Balinge         3-0 Sundbyberg
-Hammarby        3-4 Kopparsberg/Landvetter
-[Aug 20]
-Kristianstad/Wa 1-5 Umea 
-Djurgarden      0-3 Malmo 
+Date: 8/19/2000
 
-Round: 17 [Aug 26]
-Astrio          1-3 Sundbyberg
-Balinge         0-5 Malmo
-Hammarby        0-3 Umea
-Kristianstad/Wa 1-4 Djurgarden
-Alvsjo          5-0 Kenty
-Oster           0-3 Kopparsberg/Landvetter
+; Alvsjo         ; 5-1; Oster
+; Astrio         ; 0-4; Kenty
+; Balinge        ; 3-0; Sundbyberg
+; Hammarby       ; 3-4; Kopparsberg/Landvetter
+
+Date: 8/20/2000
+
+; Kristianstad/Wa; 1-5; Umea 
+; Djurgarden     ; 0-3; Malmo 
+
+Round: 17 
+Date: 8/26/2000
+
+; Astrio         ; 1-3; Sundbyberg
+; Balinge        ; 0-5; Malmo
+; Hammarby       ; 0-3; Umea
+; Kristianstad/Wa; 1-4; Djurgarden
+; Alvsjo         ; 5-0; Kenty
+; Oster          ; 0-3; Kopparsberg/Landvetter
 
 Round: 18 
-[Aug 29] 
-Sundbyberg      1-0 Hammarby
-[Aug 30] 
-Umea     2-0 Balinge
-Malmo        2-2 Kristianstad/Wa
-Kopparsberg/L.   5-0 Astrio
-Kenty                0-2 Oster
-Djurgarden           2-3 Alvsjo
+Date: 8/29/2000
+
+; Sundbyberg     ; 1-0; Hammarby
+
+Date: 8/30/2000
+
+; Umea    ; 2-0; Balinge
+; Malmo       ; 2-2; Kristianstad/Wa
+; Kopparsberg/L.  ; 5-0; Astrio
+; Kenty               ; 0-2; Oster
+; Djurgarden          ; 2-3; Alvsjo
 
 Round: 19 
-[Oct 7]
-Kristianstad/Wa 0-3 Alvsjo
-Malmo               2-0 Hammarby
-Sundbyberg          0-2 Oster
-Kopparsberg/L.      2-3 Kenty
-[Oct 8]
-Djurgarden      3-2 Balinge
-Umea                4-0 Astrio 
+Date: 10/7/2000
 
-Round: 20 [Oct 14]
-Astrio        1-3 Malmo
-Balinge           2-2 Kristianstad/Wa
-Alvsjo                2-2 Kopparsberg/Landvetter
-Hammarby              1-2 Djurgarden
-Kenty                     2-2 Sundbyberg
-Oster                             1-5 Umea
+; Kristianstad/Wa; 0-3; Alvsjo
+; Malmo              ; 2-0; Hammarby
+; Sundbyberg         ; 0-2; Oster
+; Kopparsberg/L.     ; 2-3; Kenty
+
+Date: 10/8/2000
+
+; Djurgarden     ; 3-2; Balinge
+; Umea               ; 4-0; Astrio 
+
+Round: 20 
+Date: 10/14/2000
+
+; Astrio       ; 1-3; Malmo
+; Balinge          ; 2-2; Kristianstad/Wa
+; Alvsjo               ; 2-2; Kopparsberg/Landvetter
+; Hammarby             ; 1-2; Djurgarden
+; Kenty                    ; 2-2; Sundbyberg
+; Oster                            ; 1-5; Umea
 
 Round: 21 
-[Oct 21]
-Kristianstad/Wa 3-3 Hammarby
-Umea                5-0 Kenty                  
-Djurgarden          4-0 Astrio
-Malmo                   5-0 Oster                 
-Balinge                     2-2 Alvsjo
-[Oct 22]
-Sundbyberg      2-5 Kopparsberg/Landvetter 
+Date: 10/21/2000
 
-Round: 22 [Oct 29]
-Astrio          1-2 Kristianstad/Wa
-Hammarby        1-0 Balinge
-Kenty           0-2 Malmo
-Kopparsberg/L.  2-2 Umea
-Alvsjo          5-0 Sundbyberg
-Oster           1-9 Djurgarden
+; Kristianstad/Wa; 3-3; Hammarby
+; Umea               ; 5-0; Kenty                  
+; Djurgarden         ; 4-0; Astrio
+; Malmo                  ; 5-0; Oster                 
+; Balinge                    ; 2-2; Alvsjo
+
+Date: 10/22/2000
+
+; Sundbyberg     ; 2-5; Kopparsberg/Landvetter 
+
+Round: 22 
+Date: 10/29/2000
+
+; Astrio         ; 1-2; Kristianstad/Wa
+; Hammarby       ; 1-0; Balinge
+; Kenty          ; 0-2; Malmo
+; Kopparsberg/L. ; 2-2; Umea
+; Alvsjo         ; 5-0; Sundbyberg
+; Oster          ; 1-9; Djurgarden
 
 
 * 1.Umeå                   22 16  5  1   58-17  53  Champions
@@ -256,9 +320,8 @@ Oster           1-9 Djurgarden
 *Hana Ljungberg         Umea    9
 
 
-Sweden (Women) Second Level 2000
-
-Division 1 Norra
+*Sweden (Women) Second Level 2000
+*Division 1 Norra
 
 * 1.Sunnanå SK             18 17  0  1   59-10  51  Promoted 
 * 2.Rågsveds IF            18 11  3  4   51-16  36 
