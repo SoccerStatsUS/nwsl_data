@@ -1,7 +1,9 @@
 BlockSource: http://www.rsssf.com/tablesi/italwom02.html
 Season: 2001-2002
 
-Round 1 [Sep 15] 
+Round: 1 
+Date: 9/15/2001
+
 Agliana A.   - Bardolino      1-2 
 Foroni       - Gravina       13-0 
 LA Piazza    - RL Lazio       0-4 
@@ -10,7 +12,9 @@ Milan        - Fiammamonza    2-1
 Tavagnacco   - Atl.Oristano   1-1 
 Torres TS    - Torino         2-0 
 
-Round 2 [Sep 22]
+Round: 2 
+Date: 9/22/2001
+
 Atl.Oristano - Milan          2-3 
 Bardolino    - Ludos          8-0 
 Como 2000    - Foroni         0-3 
@@ -19,40 +23,54 @@ Gravina      - Tavagnacco     2-2
 RL Lazio     - Agliana A.     6-0 
 Torino       - LA Piazza      0-1 
 
-Round 3
-[Sep 29] 
+Round: 3
+
+Date: 9/29/2001
+
 Foroni       - Bardolino      2-0 
 LA Piazza    - Agliana A.     0-2 
 Ludos        - RL Lazio       0-2 
 Milan        - Gravina        0-0 
 Tavagnacco   - Como 2000      1-1 
 Torino       - Fiammamonza    1-4 
-[Oct 17]
+
+Date: 10/17/2001
+
 Torres TS    - Atl.Oristano   1-1 
 
-Round 4
-[Oct 13]
+Round: 4
+
+Date: 10/13/2001
+
 Agliana A.   - Ludos          2-2 
 Bardolino    - Tavagnacco     3-0 
 Como 2000    - Milan          0-1 
 Fiammamonza  - LA Piazza      3-1 
 Gravina      - Torres TS      1-3 
 RL Lazio     - Foroni         1-1 
-[Nov 24]
+
+Date: 11/24/2001
+
 Atl.Oristano - Torino         0-0 
 
-Round 5
-[Oct 20] 
+Round: 5
+
+Date: 10/20/2001
+
 Fiammamonza  - Atl.Oristano   2-1 
 Foroni       - Agliana A.     3-0 
 LA Piazza    - Ludos          0-1 
 Tavagnacco   - RL Lazio       0-3 
 Torino       - Gravina        2-0 
 Torres TS    - Como 2000      1-1 
-[Dec 5]
+
+Date: 12/5/2001
+
 Milan        - Bardolino      0-6 
 
-Round 6 [Oct 27] 
+Round: 6 
+Date: 10/27/2001
+
 Agliana A.   - Tavagnacco     2-2 
 Atl.Oristano - LA Piazza      0-2 
 Bardolino    - Torres TS      1-1 
@@ -61,7 +79,9 @@ Gravina      - Fiammamonza    1-2
 Ludos        - Foroni         0-2 
 RL Lazio     - Milan          3-0 
 
-Round 7 [Nov 3] 
+Round: 7 
+Date: 11/3/2001
+
 Atl.Oristano - Gravina        1-2 
 Fiammamonza  - Como 2000      3-0 
 LA Piazza    - Foroni         0-1 
@@ -70,7 +90,9 @@ Tavagnacco   - Ludos          0-1
 Torino       - Bardolino      1-1 
 Torres TS    - RL Lazio       0-0 
 
-Round 8 [Nov 10] 
+Round: 8 
+Date: 11/10/2001
+
 Agliana A.   - Torres TS      2-5 
 Bardolino    - Fiammamonza    3-1 
 Como 2000    - Atl.Oristano   1-1 
@@ -79,7 +101,9 @@ Gravina      - LA Piazza      1-0
 Ludos        - Milan          0-2 
 RL Lazio     - Torino         5-1
  
-Round 9 [Dec 1] 
+Round: 9 
+Date: 12/1/2001
+
 Atl.Oristano - Bardolino      0-4 
 Fiammamonza  - RL Lazio       1-3 
 Gravina      - Como 2000      2-2 
@@ -88,7 +112,9 @@ Milan        - Foroni         0-2
 Torino       - Agliana A.     1-1 
 Torres TS    - Ludos          8-0 
 
-Round 10 [Dec 8] 
+Round: 10 
+Date: 12/8/2001
+
 Agliana A.   - Fiammamonza    1-2 
 Bardolino    - Gravina        2-1 
 Como 2000    - LA Piazza      1-1 
@@ -97,30 +123,40 @@ Ludos        - Torino         2-2
 RL Lazio     - Atl.Oristano   8-0 
 Tavagnacco   - Milan          2-1 
 
-Round 11
-[Dec 15] 
+Round: 11
+
+Date: 12/15/2001
+
 Atl.Oristano - Agliana A.     2-4 
 Torres TS    - Tavagnacco     2-1 
 Gravina      - RL Lazio       0-7 
 LA Piazza    - Milan          1-0 
-[Dec 29]
+
+Date: 12/29/2001
+
 Torino       - Foroni         0-3
 Como 2000    - Bardolino      0-5 
 Fiammamonza  - Ludos          4-0 
 
  
-Round 12
-[Jan 5] 
+Round: 12
+
+Date: 1/5/2002
+
 Foroni       - Fiammamonza    1-0 
 LA Piazza    - Bardolino      0-1 
 Ludos        - Atl.Oristano   3-1 
 Milan        - Torres TS      0-0 
 RL Lazio     - Como 2000     13-0 
 Tavagnacco   - Torino         1-2 
-[Feb 2]
+
+Date: 2/2/2002
+
 Agliana A.   - Gravina 
 
-Round 13 [Jan 12] 
+Round: 13 
+Date: 1/12/2002
+
 Atl.Oristano - Foroni         0-4 
 Bardolino    - RL Lazio       1-2 
 Como 2000    - Agliana A.     2-2 
@@ -129,7 +165,9 @@ Gravina      - Ludos          2-0
 Torino       - Milan          0-1 
 Torres TS    - LA Piazza      2-0 
 
-Round 14 [Jan 19]
+Round: 14 
+Date: 1/19/2002
+
 Bardolino    - Agliana A.     4-0 
 Gravina      - Foroni         0-5 
 RL Lazio     - LA Piazza      8-0 
@@ -138,7 +176,9 @@ Fiammamonza  - Milan          1-0
 Atl.Oristano - Tavagnacco     1-0 
 Torino       - Torres TS      1-3 
 
-Round 15 [Jan 26]
+Round: 15 
+Date: 1/26/2002
+
 Milan        - Atl.Oristano   3-2 
 Ludos        - Bardolino      1-1 
 Foroni       - Como 2000      4-1 
@@ -147,7 +187,9 @@ Tavagnacco   - Gravina        3-0
 Agliana A.   - RL Lazio       1-5 
 LA Piazza    - Torino         1-1 
 
-Round 16 [Feb 9]
+Round: 16 
+Date: 2/9/2002
+
 Bardolino    - Foroni         0-3 
 Agliana A.   - LA Piazza      1-0 
 RL Lazio     - Ludos          7-1 
@@ -156,7 +198,9 @@ Como 2000    - Tavagnacco     1-2
 Fiammamonza  - Torino         2-0 
 Atl.Oristano - Torres TS      1-1 
 
-Round 17 [Feb 16]
+Round: 17 
+Date: 2/16/2002
+
 Ludos        - Agliana A.     3-3 
 Torino       - Atl.Oristano   0-2 a tavolino
 Tavagnacco   - Bardolino      1-4 
@@ -165,7 +209,9 @@ LA Piazza    - Fiammamonza    1-2
 Torres TS    - Gravina        4-1 
 Foroni       - RL Lazio       0-0 
 
-Round 18 [Feb 23]
+Round: 18 
+Date: 2/23/2002
+
 Atl.Oristano - Fiammamonza    2-3 
 Agliana A.   - Foroni         0-5 
 Ludos        - LA Piazza      2-1 
@@ -174,7 +220,9 @@ RL Lazio     - Tavagnacco     4-0
 Gravina      - Torino         0-2 
 Como 2000    - Torres TS      0-3 
 
-Round 19 [Mar 2]
+Round: 19 
+Date: 3/2/2002
+
 Tavagnacco   - Agliana A.     1-1 
 LA Piazza    - Atl.Oristano   2-0 
 Torres TS    - Bardolino      3-0 
@@ -183,7 +231,9 @@ Fiammamonza  - Gravina        1-1
 Foroni       - Ludos          7-0 
 Milan        - RL Lazio       0-2 
 
-Round 20 [Mar 9]
+Round: 20 
+Date: 3/9/2002
+
 Gravina      - Atl.Oristano   2-2 
 Como 2000    - Fiammamonza    1-4 
 Foroni       - LA Piazza      5-0 
@@ -192,7 +242,9 @@ Ludos        - Tavagnacco     1-2
 Bardolino    - Torino         5-0 
 RL Lazio     - Torres TS      1-0 
 
-Round 21 [Mar 16]
+Round: 21 
+Date: 3/16/2002
+
 Torres TS    - Agliana A.     2-0 
 Fiammamonza  - Bardolino      0-0 
 Atl.Oristano - Como 2000      0-1 
@@ -201,7 +253,9 @@ LA Piazza    - Gravina        3-0
 Milan        - Ludos          5-1 
 Torino       - RL Lazio       0-3 
 
-Round 22 [Apr 6]
+Round: 22 
+Date: 4/6/2002
+
 Bardolino    - Atl.Oristano   3-0 
 RL Lazio     - Fiammamonza    6-1 
 Como 2000    - Gravina        2-1 
@@ -210,17 +264,23 @@ Foroni       - Milan          1-0
 Agliana A.   - Torino         0-0 
 Ludos        - Torres TS      2-0 
 
-Round 23 [Apr 13]
+Round: 23 
+Date: 4/13/2002
+
 Fiammamonza  - Agliana A.     3-1 
 Gravina      - Bardolino      0-4 
 LA Piazza    - Como 2000      1-2 
 Torres TS    - Foroni         2-4 
 Torino       - Ludos          1-1 
 Atl.Oristano - RL Lazio       0-6 
-[May 1]
+
+Date: 5/1/2002
+
 Milan        - Tavagnacco     1-2 
 
-Round 24 [Apr 20]
+Round: 24 
+Date: 4/20/2002
+
 Agliana A.   - Atl.Oristano   5-0 
 Bardolino    - Como 2000      3-0 
 Ludos        - Fiammamonza    1-1 
@@ -229,7 +289,9 @@ Milan        - LA Piazza      2-0
 Foroni       - Torino         7-0 
 Tavagnacco   - Torres TS      2-3 
 
-Round 25 [Apr 27]
+Round: 25 
+Date: 4/27/2002
+
 Gravina      - Agliana A.     0-0 
 Fiammamonza  - Foroni         0-1 
 Bardolino    - LA Piazza      6-0 
@@ -238,7 +300,9 @@ Torres TS    - Milan          1-2
 Como 2000    - RL Lazio       0-5 
 Torino       - Tavagnacco     1-0 
 
-Round 26 [May 4]
+Round: 26 
+Date: 5/4/2002
+
 Foroni       - Atl.Oristano   3-0 
 RL Lazio     - Bardolino      3-0 
 Agliana A.   - Como 2000      3-1 
@@ -263,12 +327,16 @@ LA Piazza    - Torres TS      1-1
 *Atletico Oristano     15   26   3  6 17   21-64 Relegated
 
 Play-off for the title:
-[May 11]
+
+Date: 5/11/2002
+
 RL Lazio  2-2 Foroni  [aet, Lazio won on penalties]
 Lazio champions
 
 Play-off for staying in Serie A:
-[May 11]
+
+Date: 5/11/2002
+
 Como 2000 3-2 Gravina
 Gravina relegated
 
