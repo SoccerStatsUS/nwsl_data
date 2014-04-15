@@ -153,7 +153,7 @@ Date: 5/22/2004
 Date: 5/23/2004
 
 ; Karlslund         ; 1-1;  Stattena
-  Elin Magnusson 1, Åsa Stenberg 53
+  Elin Magnusson 1; Åsa Stenberg 53
 
 ; Mallbacken        ; 1-0;  Sunnanå
   Linda Wallin 88;
@@ -166,7 +166,7 @@ Date: 5/24/2004
 Date: 5/25/2004
 
 ; Malmö             ; 1-1;  Djurgården/Älvsjö
-  Denise Reddy 47, Venus James 19
+  Denise Reddy 47; Venus James 19
 
 Round: 7
 Date: 5/31/2004
@@ -181,7 +181,7 @@ Date: 5/31/2004
   Marlene Sjöberg 55; Nilla Fischer 3, Heidi Kackur 11, Heidi Kackur 75, Therese Lundin 14, Frida Nordin 26, Sara Larsson 42, Anna Mörstam 82
 
 ; Själevad          ; 1-1;  Sunnanå
-  Jennie Dahlberg 10, Åsa Berglund 90
+  Jennie Dahlberg 10; Åsa Berglund 90
 
 ; Stattena          ; 1-4;  Djurgården/Älvsjö
   Anna Nilsson 22; Jane Törnqvist 39, Jane Törnqvist 59, Malin Nyqvist 66, Marjike Callebaut 90
@@ -241,7 +241,7 @@ Round: 10
 Date: 6/16/2004
 
 ; Djurgården/Älvsjö ; 6-0;  Hammarby
-  Jan Törnqvist 27, Kristin Bengtsson 43, Kristin Bengtsson 48, Kristin Bengtsson 55, Victoria Svensson 63, Venus James 72
+  Jan Törnqvist 27, Kristin Bengtsson 43, Kristin Bengtsson 48, Kristin Bengtsson 55, Victoria Svensson 63, Venus James 72;
 
 ; Linköping         ; 2-1;  Karlslund
   Maria Karlsson 25, Therese Sandström 65; Lisa Dahlkvist 40
@@ -261,7 +261,7 @@ Round: 11
 Date: 6/19/2004
 
 ; Djurgården/Älvsjö ; 1-1;  Kopparberg
-  Ann-Marie Norlin 61, Lotta Schelin 28
+  Ann-Marie Norlin 61; Lotta Schelin 28
 
 ; Karlslund         ; 2-1;  Mallbacken
   Emili Brodin 14, Louise Östman 41; Charlotte Nygren 85
@@ -280,7 +280,7 @@ Date: 6/20/2004
 Date: 6/21/2004
 
 ; Umeå              ; 9-0;  Själevad
-  Jessica Juhlin 22, Laura Kalmari 36, Laura Kalmari 47, Laura Kalmari 72, Laura Kalmari 79, Anna Sjöström 57, Sofia Eriksson 60, Marta 68, Emma Lindqvist 76
+  Jessica Juhlin 22, Laura Kalmari 36, Laura Kalmari 47, Laura Kalmari 72, Laura Kalmari 79, Anna Sjöström 57, Sofia Eriksson 60, Marta 68, Emma Lindqvist 76;
 
 Round: 12
 Date: 6/29/2004
@@ -350,7 +350,7 @@ Date: 7/18/2004
 ;  Yolanda Odenyo 40
 
 ; Umeå              ; 8-0;  Stattena
-  Marta 5, Laura Kalmari 8, Laura Kalmari 23, Frida Östberg 9, Malin Moström 30, Malin Moström (pk) 37, Malin Moström 39, Anna Paulson 54
+  Marta 5, Laura Kalmari 8, Laura Kalmari 23, Frida Östberg 9, Malin Moström 30, Malin Moström (pk) 37, Malin Moström 39, Anna Paulson 54;
 
 ; Hammarby          ; 0-1;  Själevad
 ;  Emma Jonsson 59
@@ -376,7 +376,7 @@ Date: 9/5/2004
   Elin Ekblom 14, Elin Ekblom 25, Christina Forssell 50, Salina Olsson 82;
 
 ; Umeå              ; 9-0;  Mallbacken
-  Hanna Ljungberg 3, Hanna Ljungberg 6, Hanna Ljungberg 44, Malin Moström 11, Malin Moström 45, Malin Moström 86, Maria Nordbrandt 12, Anna Sjöström 17, Sofia Eriksson 39
+  Hanna Ljungberg 3, Hanna Ljungberg 6, Hanna Ljungberg 44, Malin Moström 11, Malin Moström 45, Malin Moström 86, Maria Nordbrandt 12, Anna Sjöström 17, Sofia Eriksson 39;
 
 Round: 16
 Date: 9/8/2004
@@ -394,7 +394,7 @@ Date: 9/8/2004
   Birgitta Stiernberg 55;
 
 ; Malmö             ; 4-1;  Kopparberg
-  Frida Nordin 5, Heidi Kackur 22, Therese Lundin 46, Malin Andersson 59
+  Frida Nordin 5, Heidi Kackur 22, Therese Lundin 46, Malin Andersson 59;
 
 ; Sunnanå           ; 3-0;  Själevad
   Lina Johansson 3, Madelaine Edlund 35, Mirjam Marklund 54;
@@ -406,7 +406,7 @@ Date: 9/11/2004
 ; Kristin Bengtsson 20, Kristin Bengtsson 35, Victoria Svensson 90pk
 
 ; Umeå              ; 5-0;  Karlslund
-  Marta 39, Marta 72, Marta 81, Malin Moström 53, Laura Kalmari 64
+  Marta 39, Marta 72, Marta 81, Malin Moström 53, Laura Kalmari 64;
 
 Date: 9/12/2004
 
@@ -511,11 +511,11 @@ Date: 10/16/2004
 
 Date: 10/17/2004
 
-; Bälinge           ; 0-2;  Sj‡levad
+; Bälinge           ; 0-2;  Sjalevad
 ;  Anja Steen 9, Karin Lindström 19
 
 ; Karlslund         ; 3-1;  Linköping
-  Sandra Persson 50, Christie Welsh 78, Elin Magnusson 90. Maria Aronsson 53
+  Sandra Persson 50, Christie Welsh 78, Elin Magnusson 90; Maria Aronsson 53
 
 Round: 22
 Date: 10/24/2004

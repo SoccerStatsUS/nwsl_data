@@ -71,7 +71,7 @@ Date: 4/26/2003
 ; Marlene Sjöberg 12, Kristin Bengtsson 14, Kristin Bengtsson 50, Marit Björstedt 21, Marit Björstedt 55
 
 ; Stattena           ; 1-1;  Karlslund
-  Anna Nilsson 32, Marie Hammarström 82
+  Anna Nilsson 32; Marie Hammarström 82
 
 ; Djurgården/Älvsjö  ; 2-0;  Hammarby
   Ulrika Björn 17, Ulrika Björn 69;
@@ -131,7 +131,7 @@ Date: 5/10/2003
 Date: 5/11/2003
 
 ; Mallbacken         ; 1-1;  Sunnanå
-  Madelaine Edlund 38, Therese Persson 55
+  Madelaine Edlund 38; Therese Persson 55
 
 ; Öster              ; 0-4;  Umeå
 ;  Laura Kalmari 53, Malin Moström 55, Emma Lindqvist 72, Hanna Marklund 90
@@ -139,7 +139,7 @@ Date: 5/11/2003
 Date: 5/12/2003
 
 ; Bälinge            ; 1-1;  Karlslund
-  Mona Najib 84, Caroline Näfver 38
+  Mona Najib 84; Caroline Näfver 38
 
 Round: 6
 Date: 5/21/2003
@@ -363,7 +363,7 @@ Round: 15
 Date: 8/1/2003
 
 ; Umeå               ; 7-0;  K/Landvetter
-  Hanna Ljungberg 4, Hanna Ljungberg 34, Hanna Ljungberg 65, Malin Moström 19, Malin Moström 26, Sofia Eriksson 22, Linda Dahlqvist 79
+  Hanna Ljungberg 4, Hanna Ljungberg 34, Hanna Ljungberg 65, Malin Moström 19, Malin Moström 26, Sofia Eriksson 22, Linda Dahlqvist 79;
 
 Date: 8/2/2003
 
@@ -418,7 +418,7 @@ Date: 8/16/2003
 Date: 8/17/2003
 
 ; Bälinge            ; 7-0;  Stattena
-  Ann Westermark 21, Therese Sandström 24, Therese Sandström 62, Josefine Öqvist 51, Josefine Öqvist 57, Linda Blom 63, Yolanda Odenyo 64
+  Ann Westermark 21, Therese Sandström 24, Therese Sandström 62, Josefine Öqvist 51, Josefine Öqvist 57, Linda Blom 63, Yolanda Odenyo 64;
 
 ; Mallbacken         ; 0-2;  K/Landvetter
 ;  Lotta Schelin 40, Marit Björstedt 85
@@ -429,7 +429,7 @@ Date: 8/18/2003
   Wictoria Svensson 12, Wictoria Svensson 85, Sara Johanssen 19, Sara Johanssen 71, Ulrika Björn 23, Elin Flyborg 60, Elin Flyborg 90, Jane Törnqvist 74; own goal 3
 
 ; Trion              ; 1-1;  Öster
-  Josefine Andersson 1, Ann Arvidsson 90
+  Josefine Andersson 1; Ann Arvidsson 90
 
 ; Malmö              ; 5-0;  Sunnanå
   Heidi Kackur 28, Heidi Kackur 35, Jenny Engwall 44, Mia Westerblad 49, Mia Westerblad 90;
@@ -458,7 +458,7 @@ Date: 8/24/2003
 
 Date: 9/3/2003
 
-Hammarby            1-3  Malmö
+; Hammarby           ; 1-3;  Malmö
 Salina Olsson 69; Heidi Kackur 4, Therese Sjögran 56, Mia Westerblad 68
 
 Round: 19
@@ -500,7 +500,7 @@ Date: 10/16/2003
   Caroline Marklund 3; Carina Hölmberg 8, Yolanda Odenyo 64, Josefine Öqvist 66
 
 ; Umeå               ; 5-0;  Mallbacken
-  Maria Nordbrand 4, Emma Lindqvist 42, Emma Lindqvist 64, Laura Kalmari 47, Lotta Runesson 90
+  Maria Nordbrand 4, Emma Lindqvist 42, Emma Lindqvist 64, Laura Kalmari 47, Lotta Runesson 90;
 
 ; Öster              ; 0-1;  Malmö
 ;  Heidi Kackur 60
@@ -512,7 +512,7 @@ Date: 10/19/2003
   Josefine Öqvist 7, Linda Blomm 11; Lisa Ek 31, Annelie Norén 33
 
 ; Djurgården/Älvsjö  ; 1-1;  Umeå
-  Sara Johansson 81, Hanna Ljungberg 52
+  Sara Johansson 81; Hanna Ljungberg 52
 
 ; Trion              ; 0-2;  Sunnanå
 ;  Lina Johansson 25, Nina Muntner 49

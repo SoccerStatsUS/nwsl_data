@@ -19,7 +19,7 @@ Round: 2
 22/10/2000 1100;       1. FC Saarbrücken ;  2-1 ; VfL Wolfsburg    ;       200
 22/10/2000 1100;         1. FFC Frankfurt ;  3-0 ; FSV Frankfurt   ;       1000
 22/10/2000 1100;           FCR 2001 Duisburg ;  0-7 ; FFC Brauweiler Pulheim 2000  ;       612
-22/10/2000 1100;             FFC Flaesheim;H 1-4 ; illen - FC Bayern München;  640
+22/10/2000 1100;             FFC Flaesheim-Hillen; 1-4 ; FC Bayern München;  640
 22/10/2000 1400;               1. FFC Turbine Potsdam ;  2-0 ; FFC Heike Rheine ;  620
 22/10/2000 1400;                 Sportfreunde Siegen ;  1-2 ; SC 07 Bad Neuenahr;  120
 
@@ -47,7 +47,7 @@ Round: 4
 Round: 5
 
 19/11/2000 1400;       FC Bayern München ;  2-1 ; 1. FC Saarbrücken;       150
-19/11/2000 1400;         FFC Flaesheim;H 0-0 ; illen - 1. FFC Turbine Potsdam      ;       120
+19/11/2000 1400;         FFC Flaesheim-Hillen; 0-0 ; 1. FFC Turbine Potsdam      ;       120
 19/11/2000 1400;           FFC Heike Rheine ;  1-3 ; FCR 2001 Duisburg             ;       200
 19/11/2000 1400;             FSV Frankfurt ;  1-7 ; FFC Brauweiler Pulheim 2000    ;       200
 19/11/2000 1400;               Sportfreunde Siegen ;  0-6 ; 1. FFC Frankfurt       ;       100
@@ -67,7 +67,7 @@ Round: 6
 Round: 7
 
 03/12/2000 1100;       1. FFC Turbine Potsdam ;  1-1 ; 1. FFC Frankfurt    ;       420
-03/12/2000 1100;         FFC Flaesheim;H 3-0 ; illen - 1. FC Saarbrücken   ;       170
+03/12/2000 1100;         FFC Flaesheim-Hillen; 3-0 ; 1. FC Saarbrücken   ;       170
 03/12/2000 1100;           FFC Heike Rheine ;  2-5 ; VfL Wolfsburg         ;       100
 03/12/2000 1400;             FC Bayern München ;  3-5 ; FFC Brauweiler Pulheim 2000        ;       250
 03/12/2000 1400;               FSV Frankfurt ;  3-2 ; SC 07 Bad Neuenahr      ;    100
@@ -90,7 +90,7 @@ Round: 9
 17/12/2000 1100;         1. FFC Turbine Potsdam ;  1-1 ; FCR 2001 Duisburg         ;       410
 17/12/2000 1100;           FFC Heike Rheine ;  1-1 ; SC 07 Bad Neuenahr            ;       150
 17/12/2000 1400;             FC Bayern München ;  1-2 ; FSV Frankfurt              ;       120
-11/02/2001 1100;               FFC Flaesheim;H 1-0 ; illen - FFC Brauweiler Pulheim 2000           ;       200
+11/02/2001 1100;               FFC Flaesheim-Hillen; 1-0 ; FFC Brauweiler Pulheim 2000           ;       200
 11/02/2001 1400;                 Sportfreunde Siegen ;  2-2 ; VfL Wolfsburg;               60
 
 
@@ -109,7 +109,7 @@ Round: 11
 25/02/2001 1100;       1. FFC Frankfurt ;  5-1 ; FFC Brauweiler Pulheim 2000       ;       350
 25/02/2001 1400;         1. FC Saarbrücken ;  0-3 ; FCR 2001 Duisburg  ;   200
 25/02/2001 1400;           FC Bayern München ;  4-2 ; SC 07 Bad Neuenahr   ;       100
-25/02/2001 1400;             FFC Flaesheim;H 1-1 ; illen - FSV Frankfurt   ;       350
+25/02/2001 1400;             FFC Flaesheim-Hillen; 1-1 ; FSV Frankfurt   ;       350
 25/03/2001 1400;               1. FFC Turbine Potsdam ;  5-0 ; VfL Wolfsburg   ;   220
 14/04/2001 1500;                 Sportfreunde Siegen ;  2-0 ; FFC Heike Rheine ;   100
 
@@ -119,7 +119,7 @@ Round: 12
 11/03/2001 1100;       1. FFC Frankfurt ;  6-0 ; VfL Wolfsburg     ;       400
 11/03/2001 1100;         1. FFC Turbine Potsdam ;  1-1 ; FSV Frankfurt ;   620
 11/03/2001 1100;           FCR 2001 Duisburg ;  2-2 ; SC 07 Bad Neuenahr   ;       400
-11/03/2001 1100;             FFC Flaesheim;H 3-0 ; illen - FFC Heike Rheine;       180
+11/03/2001 1100;             FFC Flaesheim-Hillen; 3-0 ; FFC Heike Rheine;       180
 11/03/2001 1400;               1. FC Saarbrücken ;  2-3 ; FFC Brauweiler Pulheim 2000      ;       150
 11/03/2001 1400;                 Sportfreunde Siegen ;  2-3 ; FC Bayern München ;  250
 
@@ -138,7 +138,7 @@ Round: 14
 
 01/04/2001 1100;       1. FFC Frankfurt ;  3-1 ; FFC Heike Rheine  ;       350
 01/04/2001 1100;         FCR 2001 Duisburg ;  0-0 ; VfL Wolfsburg  ;       563
-01/04/2001 1100;           FFC Flaesheim;H 0-0 ; illen - Sportfreunde Siegen       ;       200
+01/04/2001 1100;           FFC Flaesheim-Hillen; 0-0 ; Sportfreunde Siegen       ;       200
 01/04/2001 1400;             1. FC Saarbrücken ;  0-0 ; FSV Frankfurt;     200
 01/04/2001 1400;               1. FFC Turbine Potsdam ;  4-1 ; FC Bayern München   ;       800
 01/04/2001 1400;                 SC 07 Bad Neuenahr ;  1-0 ; FFC Brauweiler Pulheim 2000           ;       360
@@ -150,7 +150,7 @@ Round: 15
 16/04/2001 1100;         VfL Wolfsburg ;  3-2 ; FFC Brauweiler Pulheim 2000        ;       133
 16/04/2001 1400;           FC Bayern München ;  0-5 ; 1. FFC Frankfurt;    300
 16/04/2001 1400;             FSV Frankfurt ;  0-2 ; FCR 2001 Duisburg ;    200
-01/05/2001 1100;               FFC Flaesheim;H 0-1 ; illen - SC 07 Bad Neuenahr    ;       300
+01/05/2001 1100;               FFC Flaesheim-Hillen; 0-1 ; SC 07 Bad Neuenahr    ;       300
 01/05/2001 1400;                 Sportfreunde Siegen ;  0-6 ; 1. FFC Turbine Potsdam   ;   80
 
 
@@ -169,7 +169,7 @@ Round: 17
 29/04/2001 1100;       1. FFC Turbine Potsdam ;  7-0 ; SC 07 Bad Neuenahr  ;       200
 29/04/2001 1100;         FFC Heike Rheine ;  1-4 ; FFC Brauweiler Pulheim 2000 ;   150
 29/04/2001 1400;           FC Bayern München ;  3-4 ; FCR 2001 Duisburg  ; 150
-29/04/2001 1400;             FFC Flaesheim;H 3-3 ; illen - 1. FFC Frankfurt  ;     250
+29/04/2001 1400;             FFC Flaesheim-Hillen; 3-3 ; 1. FFC Frankfurt  ;     250
 29/04/2001 1400;               FSV Frankfurt ;  1-1 ; VfL Wolfsburg          ;     100
 29/04/2001 1400;                 Sportfreunde Siegen ;  3-0 ; 1. FC Saarbrücken  ; 100
 
@@ -188,7 +188,7 @@ Round: 19
 
 13/05/2001 1100;       1. FFC Frankfurt ;  5-0 ; SC 07 Bad Neuenahr;       500
 13/05/2001 1100;         1. FFC Turbine Potsdam ;  6-0 ; 1. FC Saarbrücken         ;       280
-13/05/2001 1100;           FFC Flaesheim;H 2-1 ; illen - FCR 2001 Duisburg         ;       300
+13/05/2001 1100;           FFC Flaesheim-Hillen; 2-1 ; FCR 2001 Duisburg         ;       300
 13/05/2001 1100;             FFC Heike Rheine ;  1-1 ; FSV Frankfurt               ;       100
 13/05/2001 1400;               FC Bayern München ;  2-1 ; VfL Wolfsburg            ;       80
 13/05/2001 1400;                 Sportfreunde Siegen ;  0-2 ; FFC Brauweiler Pulheim 2000          ;       50
@@ -210,7 +210,7 @@ Round: 21
 03/06/2001 1400;         1. FFC Frankfurt ;  4-0 ; FCR 2001 Duisburg       ;       800
 03/06/2001 1400;           1. FFC Turbine Potsdam ;  2-0 ; FFC Brauweiler Pulheim 2000     ;       300
 03/06/2001 1400;             FC Bayern München ;  1-1 ; FFC Heike Rheine ;         100
-03/06/2001 1400;               FFC Flaesheim;H 3-0 ; illen - VfL Wolfsburg   ;     240
+03/06/2001 1400;               FFC Flaesheim-Hillen; 3-0 ; VfL Wolfsburg   ;     240
 03/06/2001 1400;                 Sportfreunde Siegen ;  1-1 ; FSV Frankfurt  ;     150
 
 

@@ -2,65 +2,61 @@ BlockSource: http://www.rsssf.com/tablesz/zwed-wom2013.html#damall
 Competition: Damallsvenskan
 Season: 2013
 
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; notes
 
-* 1.Rosengård (Malmö)       22  17  4  1  55-14  55
-* 2.Tyresö FF               22  14  6  2  71-24  48
-* 3.Linköpings FC           22  14  4  4  46-25  46
-* 4.Göteborg FC             22   9  6  7  33-31  33
-* 5.Umeå IK                 22   9  4  9  31-29  31 
-* 6.KIF Örebro DFF          22   7  8  7  37-35  29    
-* 7.Piteå IF                22   7  6  9  31-32  27
-* 8.Vittsjö GIK             22   7  6  9  32-34  27
-* 9.Kristianstads DFF       22   7  3 12  38-43  24
-*10.Jitex BK                22   5  7 10  20-37  22
-*--------------------------------------------------
-*11.Mallbackens IF          22   3  7 12  17-40  16  Relegated    
-*12.Sunnanå SK              22   0  5 17  15-82   5  Relegated
-*
+
+ 1; Rosengård (Malmö)      ; 22;  17;  4;  1;  55; 14;  55;
+ 2; Tyresö FF              ; 22;  14;  6;  2;  71; 24;  48;
+ 3; Linköpings FC          ; 22;  14;  4;  4;  46; 25;  46;
+ 4; Göteborg FC            ; 22;   9;  6;  7;  33; 31;  33;
+ 5; Umeå IK                ; 22;   9;  4;  9;  31; 29;  31; 
+ 6; KIF Örebro DFF         ; 22;   7;  8;  7;  37; 35;  29;    
+ 7; Piteå IF               ; 22;   7;  6;  9;  31; 32;  27;
+ 8; Vittsjö GIK            ; 22;   7;  6;  9;  32; 34;  27;
+ 9; Kristianstads DFF      ; 22;   7;  3; 12;  38; 43;  24;
+10; Jitex BK               ; 22;   5;  7; 10;  20; 37;  22;
+
+11; Mallbackens IF         ; 22;   3;  7; 12;  17; 40;  16;  Relegated    
+12; Sunnanå SK             ; 22;   0;  5; 17;  15; 82;   5;  Relegated
+
 *NB: LdB Malmö renamed Rosengård 
 
+BlockSource: http://www.rsssf.com/tablesz/zwed-wom2012.html
+Season: 2012
 
-BlockSource: http://www.rsssf.com/tablesz/zwed-wom2013.html#damall
-Competition: Damallsvenskan
-Season: 2013
+ 1; Tyresö FF              ; 22;  18;  1;  3;  65; 12;  55;  Champions
+ 2; LdB FC Malmö           ; 22;  18;  1;  3;  61; 24;  55;    
+ 3; Linköpings FC          ; 22;  11;  6;  5;  50; 34;  39;    
+ 4; Göteborg FC            ; 22;  12;  2;  8;  48; 25;  38;    
+ 5; Kristianstads DFF      ; 22;  11;  2;  9;  40; 37;  35;    
+ 6; Vittsjö GIK            ; 22;   9;  3; 10;  37; 42;  30;    
+ 7; Umeå IK                ; 22;   7;  5; 10;  27; 47;  26;    
+ 8; Piteå IF               ; 22;   8;  1; 13;  35; 42;  25;    
+ 9; Jitex BK               ; 22;   6;  5; 11;  26; 36;  23;    
+10; KIF Örebro DFF         ; 22;   7;  1; 14;  26; 52;  22;
 
+11; Djurgårdens DFF        ; 22;   6;  1; 15;  21; 55;  19;  Relegated    
+12; AIK                    ; 22;   3;  4; 15;  16; 46;  13;  Relegated   
 
-* 1.Rosengård (Malmö)       22  17  4  1  55-14  55
-* 2.Tyresö FF               22  14  6  2  71-24  48
-* 3.Linköpings FC           22  14  4  4  46-25  46
-* 4.Göteborg FC             22   9  6  7  33-31  33
-* 5.Umeå IK                 22   9  4  9  31-29  31 
-* 6.KIF Örebro DFF          22   7  8  7  37-35  29    
-* 7.Piteå IF                22   7  6  9  31-32  27
-* 8.Vittsjö GIK             22   7  6  9  32-34  27
-* 9.Kristianstads DFF       22   7  3 12  38-43  24
-*10.Jitex BK                22   5  7 10  20-37  22
-*--------------------------------------------------
-*11.Mallbackens IF          22   3  7 12  17-40  16  Relegated    
-*12.Sunnanå SK              22   0  5 17  15-82   5  Relegated
-*
-*NB: LdB Malmö renamed Rosengård 
-
+*Promoted: Mallbacken, Sunnanå
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom2011.html
-Competition: Damallsvenskan
 Season: 2011
 
+ 1; LdB FC Malmö           ; 22; 15 ; 4 ; 3; 52; 19 ; 49;  Champions     
+ 2; Göteborg FC            ; 22; 15 ; 3 ; 4; 50; 13 ; 48;    
+ 3; Umeå IK                ; 22; 13 ; 5 ; 4; 45; 21 ; 44;    
+ 4; Tyresö FF              ; 22; 13 ; 4 ; 5; 49; 20 ; 43;    
+ 5; KIF Örebro DFF         ; 22; 11 ; 6 ; 5; 39; 28 ; 39;    
+ 6; Linköpings FC          ; 22;  9 ; 8 ; 5; 30; 22 ; 35;    
+ 7; Kristianstads DFF      ; 22; 10 ; 4 ; 8; 37; 27 ; 34;    
+ 8; Djurgårdens DFF        ; 22;  8 ; 1 ;13; 22; 42 ; 25;    
+ 9; Jitex BK               ; 22;  5 ; 4 ;13; 32; 43 ; 19;    
+10; Piteå IF               ; 22;  4 ; 5 ;13; 22; 44 ; 17;         
 
-* 1.LdB FC Malmö            22 15  4  3 52-19  49  Champions     
-* 2.Göteborg FC             22 15  3  4 50-13  48    
-* 3.Umeå IK                 22 13  5  4 45-21  44    
-* 4.Tyresö FF               22 13  4  5 49-20  43    
-* 5.KIF Örebro DFF          22 11  6  5 39-28  39    
-* 6.Linköpings FC           22  9  8  5 30-22  35    
-* 7.Kristianstads DFF       22 10  4  8 37-27  34    
-* 8.Djurgårdens DFF         22  8  1 13 22-42  25    
-* 9.Jitex BK                22  5  4 13 32-43  19    
-*10.Piteå IF                22  4  5 13 22-44  17         
-*------------------------------------------------
-*11.Hammarby IF DFF         22  1  5 16  7-52   8  Relegated    
-*12.Dalsjöfors GoIF         22  1  5 16  9-63   8  Relegated    
+11; Hammarby IF DFF        ; 22;  1 ; 5 ;16;  7; 52 ;  8;  Relegated    
+12; Dalsjöfors GoIF        ; 22;  1 ; 5 ;16;  9; 63 ;  8;  Relegated    
  
 *Promoted: Vittsjö, AIK
 
@@ -68,265 +64,242 @@ Season: 2011
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom2010.html
 Season: 2010
-Competition: Damallsvenskan
 
+ 1; LdB FC Malmö           ; 22; 19 ; 2 ; 1; 66; 18;  59;  Champions    
+ 2; Göteborg FC            ; 22; 14 ; 6 ; 2; 59; 18;  48;     
+ 3; Linköpings FC          ; 22; 11 ; 7 ; 4; 39; 15;  40;    
+ 4; Tyresö FF              ; 22; 12 ; 4 ; 6; 41; 26;  40;     
+ 5; KIF Örebro DFF         ; 22;  9 ; 6 ; 7; 31; 27;  33;     
+ 6; Jitex BK               ; 22; 10 ; 3 ; 9; 32; 39;  33;     
+ 7; Umeå IK                ; 22;  8 ; 3 ;11; 25; 40;  27;     
+ 8; Djurgården             ; 22;  6 ; 4 ;12; 24; 34;  22;     
+ 9; Kristianstads DFF      ; 22;  5 ; 5 ;12; 32; 48;  20;     
+10; Hammarby IF DFF        ; 22;  5 ; 3 ;14; 22; 37;  18;     
 
-* 1.LdB FC Malmö            22 19  2  1 66-18  59  Champions    
-* 2.Göteborg FC             22 14  6  2 59-18  48     
-* 3.Linköpings FC           22 11  7  4 39-15  40    
-* 4.Tyresö FF               22 12  4  6 41-26  40     
-* 5.KIF Örebro DFF          22  9  6  7 31-27  33     
-* 6.Jitex BK                22 10  3  9 32-39  33     
-* 7.Umeå IK                 22  8  3 11 25-40  27     
-* 8.Djurgården              22  6  4 12 24-34  22     
-* 9.Kristianstads DFF       22  5  5 12 32-48  20     
-*10.Hammarby IF DFF         22  5  3 14 22-37  18     
-*------------------------------------------------
-*11.Sunnanå SK              22  4  5 13 18-53  17  Relegated
-*12.AIK                     22  3  4 15 16-50  13  Relegated
-
+11; Sunnanå SK             ; 22;  4 ; 5 ;13; 18; 53;  17;  Relegated
+12; AIK                    ; 22;  3 ; 4 ;15; 16; 50;  13;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom09.html
 Season: 2009
-Competition: Damallsvenskan
 
-* 1.Linköpings FC           22 15  4  3 45-11  49  Champions
-* 2.Umeå IK                 22 15  3  4 53-22  48
-* 3.LdB FC Malmö            22 14  3  5 60-16  45
-* 4.Kopparbergs/ Göteborg   22 14  3  5 46-21  45
-* 5.KIF Örebro DFF          22 13  3  6 34-25  42
-* 6.Djurgården              22 13  2  7 53-29  41
-* 7.Sunnanå SK              22 10  2 10 28-27  32
-* 8.AIK                     22  7  3 12 29-38  24
-* 9.Hammarby IF DFF         22  6  3 13 29-38  21
-*10.Kristianstads DFF       22  6  0 16 32-61  18
-*------------------------------------------------
-*11.Piteå IF                22  2  3 17 16-59   9  Relegated
-*12.Stattena IF             22  1  3 18 14-92   6  Relegated
 
+ 1; Linköpings FC          ; 22; 15;  4;  3; 45; 11;  49;  Champions
+ 2; Umeå IK                ; 22; 15;  3;  4; 53; 22;  48;
+ 3; LdB FC Malmö           ; 22; 14;  3;  5; 60; 16;  45;
+ 4; Kopparbergs/ Göteborg  ; 22; 14;  3;  5; 46; 21;  45;
+ 5; KIF Örebro DFF         ; 22; 13;  3;  6; 34; 25;  42;
+ 6; Djurgården             ; 22; 13;  2;  7; 53; 29;  41;
+ 7; Sunnanå SK             ; 22; 10;  2; 10; 28; 27;  32;
+ 8; AIK                    ; 22;  7;  3; 12; 29; 38;  24;
+ 9; Hammarby IF DFF        ; 22;  6;  3; 13; 29; 38;  21;
+10; Kristianstads DFF      ; 22;  6;  0; 16; 32; 61;  18;
+
+11; Piteå IF               ; 22;  2;  3; 17; 16; 59;   9;  Relegated
+12; Stattena IF            ; 22;  1;  3; 18; 14; 92;   6;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom08.html
 Season: 2008
-Competition: Damallsvenskan
 
-* 1.Umeå IK                 22 18  3  1 80-17  57  Champions
-* 2.Linköpings FC           22 17  2  3 54-19  53  
-* 3.LdB FC Malmö            22 16  3  3 62-22  51  
-* 4.AIK Solna               22 14  3  5 49-18  45  
-* 5.Djurgårdens DFF         22  9  6  7 38-29  33  
-* 6.Göteborg FC             22 10  0 12 45-38  30  
-* 7.KIF Örebro              22  9  3 10 23-31  30  
-* 8.Hammarby IF DFF         22  7  4 11 23-41  25  
-* 9.Kristianstads DFF       22  6  2 14 23-54  20
-*10.Sunnanå SK (Skellefteå) 22  5  4 13 27-37  19  
-*------------------------------------------------
-*11.Umeå Södra FF           22  2  3 17 13-73   9  Relegated
-*12.Bälinge IF (Uppsala)    22  0  5 17  9-67   5  Relegated
+ 1; Umeå IK                ; 22; 18;  3;  1; 80; 17;  57;  Champions
+ 2; Linköpings FC          ; 22; 17;  2;  3; 54; 19;  53;  
+ 3; LdB FC Malmö           ; 22; 16;  3;  3; 62; 22;  51;  
+ 4; AIK Solna              ; 22; 14;  3;  5; 49; 18;  45;  
+ 5; Djurgårdens DFF        ; 22;  9;  6;  7; 38; 29;  33;  
+ 6; Göteborg FC            ; 22; 10;  0; 12; 45; 38;  30;  
+ 7; KIF Örebro             ; 22;  9;  3; 10; 23; 31;  30;  
+ 8; Hammarby IF DFF        ; 22;  7;  4; 11; 23; 41;  25;  
+ 9; Kristianstads DFF      ; 22;  6;  2; 14; 23; 54;  20;
+10; Sunnanå SK (Skellefteå); 22;  5;  4; 13; 27; 37;  19;  
 
+11; Umeå Södra FF          ; 22;  2;  3; 17; 13; 73;   9;  Relegated
+12; Bälinge IF (Uppsala)   ; 22;  0;  5; 17;  9; 67;   5;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom07.html
 Season: 2007
-Competition: Damallsvenskan
 
-* 1.Umeå IK                 22 20  0  2 81-19  60  Champions
-* 2.Djurgårdens DFF         22 16  3  3 51-20  51  
-* 3.LdB FC Malmö            22 14  3  5 54-17  45  
-* 4.Göteborg FC             22 12  2  8 54-47  38  
-* 5.Sunnanå SK (Skellefteå) 22  9  8  5 36-25  35  
-* 6.Linköpings FC           22 10  5  7 40-30  35  
-* 7.KIF Örebro              22  8  6  8 28-32  30  
-* 8.Hammarby IF DFF         22  6  3 13 27-46  21  
-* 9.Bälinge IF              22  5  4 13 29-42  19  
-*10.AIK Solna               22  3  6 13 10-45  15  
-*------------------------------------------------
-*11.Falköpings KIK          22  4  2 16 17-65  14  Relegated
-*12.QBIK Karlstad           22  1  6 15 16-55   9  Relegated
+ 1; Umeå IK                ; 22; 20;  0;  2; 81; 19;  60;  Champions
+ 2; Djurgårdens DFF        ; 22; 16;  3;  3; 51; 20;  51;  
+ 3; LdB FC Malmö           ; 22; 14;  3;  5; 54; 17;  45;  
+ 4; Göteborg FC            ; 22; 12;  2;  8; 54; 47;  38;  
+ 5; Sunnanå SK (Skellefteå); 22;  9;  8;  5; 36; 25;  35;  
+ 6; Linköpings FC          ; 22; 10;  5;  7; 40; 30;  35;  
+ 7; KIF Örebro             ; 22;  8;  6;  8; 28; 32;  30;  
+ 8; Hammarby IF DFF        ; 22;  6;  3; 13; 27; 46;  21;  
+ 9; Bälinge IF             ; 22;  5;  4; 13; 29; 42;  19;  
+10; AIK Solna              ; 22;  3;  6; 13; 10; 45;  15;  
 
+11; Falköpings KIK         ; 22;  4;  2; 16; 17; 65;  14;  Relegated
+12; QBIK Karlstad          ; 22;  1;  6; 15; 16; 55;   9;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom06.html
 Season: 2006
-Competition: Damallsvenskan
 
-* 1.Umeå IK                          22 21  1  0  74-11  64 Champions
-* 2.Djurgården/Älvsjö (Stockholm)    22 13  4  5  61-23  43
-* 3.Linköpings FC                    22 12  5  5  43-25  41
-* 4.Malmö FF DFF                     22 11  7  4  41-23  40
-* 5.Kopparberg/Göteborg              22 10  5  7  44-36  35
-* 6.KIF örebro DFF                   22  8  5  9  33-33  29
-* 7.Hammarby IF DFF (Stockholm)      22  8  5  9  34-43  29
-* 8.Sunnanå SK (Skellefteå)          22  8  3 11  26-33  27
-* 9.Bälinge IF (Upplands Bälinge)    22  4  7 11  16-41  19  [+]
-*10.QBIK (Karlstad)                  22  2  9 11  18-51  15
-*----------------------------------------------------------
-*11.Jitex BK (Mölndal)               22  2  7 13  17-59  13  [+] Relegated
-*12.Mallbackens IF (Lysvik)          22  3  2 17  15-44  11      Relegated
+ 1; Umeå IK                         ; 22; 21;  1;  0;  74; 11;  64; Champions
+ 2; Djurgården/Älvsjö (Stockholm)   ; 22; 13;  4;  5;  61; 23;  43;
+ 3; Linköpings FC                   ; 22; 12;  5;  5;  43; 25;  41;
+ 4; Malmö FF DFF                    ; 22; 11;  7;  4;  41; 23;  40;
+ 5; Kopparberg/Göteborg             ; 22; 10;  5;  7;  44; 36;  35;
+ 6; KIF örebro DFF                  ; 22;  8;  5;  9;  33; 33;  29;
+ 7; Hammarby IF DFF (Stockholm)     ; 22;  8;  5;  9;  34; 43;  29;
+ 8; Sunnanå SK (Skellefteå)         ; 22;  8;  3; 11;  26; 33;  27;
+ 9; Bälinge IF (Upplands Bälinge)   ; 22;  4;  7; 11;  16; 41;  19;  [+]
+10; QBIK (Karlstad)                 ; 22;  2;  9; 11;  18; 51;  15;
+
+11; Jitex BK (Mölndal)              ; 22;  2;  7; 13;  17; 59;  13;  [+] Relegated
+12; Mallbackens IF (Lysvik)         ; 22;  3;  2; 17;  15; 44;  11;      Relegated
 
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom05.html
 Season: 2005
-Competition: Damallsvenskan
 
-* 1.Umeå IK              22  21  1  0  94-11  64  Champions
-* 2.Malmö FF DFF         22  18  2  2  72-16  56
-* 3.Djurgården/Älvsjö    22  13  3  6  41-21  42
-* 4.Linköpings FC        22  11  3  8  41-28  36
-* 5.Kopparbergs/Göteborg 22   9  5  8  38-32  32
-* 6.Sunnanå SK           22   9  3 10  36-37  30
-* 7.KIF Örebro IF DFF    22   8  6  8  35-43  30  [*]
-* 8.Mallbackens IF       22   6  4 12  28-49  22
-* 9.Hammarby IF DFF      22   5  5 12  26-43  20
-*10.QBIK                 22   5  1 16  19-60  16  [Karlstad]
-*-----------------------------------------------
-*11.AIK Solna            22   4  3 15  17-59  15  Relegated [Stockholm]
-*12.Själevads IK         22   3  4 15  19-67  13  Relegated
-*
+ 1; Umeå IK             ; 22;  21;  1;  0;  94; 11;  64;  Champions
+ 2; Malmö FF DFF        ; 22;  18;  2;  2;  72; 16;  56;
+ 3; Djurgården/Älvsjö   ; 22;  13;  3;  6;  41; 21;  42;
+ 4; Linköpings FC       ; 22;  11;  3;  8;  41; 28;  36;
+ 5; Kopparbergs/Göteborg; 22;   9;  5;  8;  38; 32;  32;
+ 6; Sunnanå SK          ; 22;   9;  3; 10;  36; 37;  30;
+ 7; KIF Örebro IF DFF   ; 22;   8;  6;  8;  35; 43;  30;  [*]
+ 8; Mallbackens IF      ; 22;   6;  4; 12;  28; 49;  22;
+ 9; Hammarby IF DFF     ; 22;   5;  5; 12;  26; 43;  20;
+10; QBIK                ; 22;   5;  1; 16;  19; 60;  16;  [Karlstad]
+
+11; AIK Solna           ; 22;   4;  3; 15;  17; 59;  15;  Relegated [Stockholm]
+12; Själevads IK        ; 22;   3;  4; 15;  19; 67;  13;  Relegated
+
 *[*] Karlslund IF DFF were renamed KIF Örebro IF DFF
 
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom04.html
 Season: 2004
-Competition: Damallsvenskan
 
-* 1.Djurgården/Älvsjö        22 19  2  1  74-23 59  Champions
-* 2.Umeå IK                  22 19  1  2 106-17 58
-* 3.Malmö FF                 22 15  4  3  67-23 49
-* 4.Kopparbergs/Göteborg FC  22 10  4  8  29-33 34
-* 5.Hammarby IF DFF          22 10  3  9  44-42 33
-* 6.Linköpings FC            22  8  4 10  28-37 28  [former BK Kenty]
-* 7.Karlslunds IF DFF        22  7  3 12  32-54 24
-* 8.Mallbackens IF           22  6  4 12  17-41 22
-* 9.Sunnanå SK               22  5  5 12  30-47 20
-*10.Själevads IK             22  5  5 12  19-49 20
-*-------------------------------------------------
-*11.Bälinge IF               22  4  7 11  23-55 17  Relegated
-*12.Stattena IF              22  1  4 17  13-61  7  Relegated
+ 1; Djurgården/Älvsjö       ; 22; 19;  2;  1;  74; 23; 59;  Champions
+ 2; Umeå IK                 ; 22; 19;  1;  2; 106; 17; 58;
+ 3; Malmö FF                ; 22; 15;  4;  3;  67; 23; 49;
+ 4; Kopparbergs/Göteborg FC ; 22; 10;  4;  8;  29; 33; 34;
+ 5; Hammarby IF DFF         ; 22; 10;  3;  9;  44; 42; 33;
+ 6; Linköpings FC           ; 22;  8;  4; 10;  28; 37; 28;  [former BK Kenty]
+ 7; Karlslunds IF DFF       ; 22;  7;  3; 12;  32; 54; 24;
+ 8; Mallbackens IF          ; 22;  6;  4; 12;  17; 41; 22;
+ 9; Sunnanå SK              ; 22;  5;  5; 12;  30; 47; 20;
+10; Själevads IK            ; 22;  5;  5; 12;  19; 49; 20;
 
+11; Bälinge IF              ; 22;  4;  7; 11;  23; 55; 17;  Relegated
+12; Stattena IF             ; 22;  1;  4; 17;  13; 61;  7;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom03.html
 Season: 2003
-Competition: Damallsvenskan
 
-* 1. Djurgården/Älvsjö      22 19  1  2  94-25  58  Champions
-* 2. Umeå IK                22 18  3  1  70-10  57
-* 3. Malmö FF               22 17  1  4  64-16  52
-* 4. Hammarby IF DFF        22 13  3  6  54-35  42
-* 5. Bälinge IF             22 10  6  6  50-27  36
-* 6. Kopparbergs/Landvetter 22  9  5  8  49-43  32
-* 7. Sunnanå SK             22  6  5 11  33-52  23
-* 8. Karlslunds IF DFF      22  4  7 11  30-53  19
-* 9. Mallbackens IF         22  4  7 11  22-47  19
-*10. Stattena IF            22  4  4 14  22-63  16
-*-------------------------------------------------
-*11. Östers IF              22  2  3 17  20-69   9  Relegated
-*12. IF Trion               22  2  3 17  16-84   9  Relegated
+ 1;  Djurgården/Älvsjö      ;22 ;19 ; 1 ; 2 ; 94;25; 58;  Champions
+ 2;  Umeå IK                ;22 ;18 ; 3 ; 1 ; 70;10; 57;
+ 3;  Malmö FF               ;22 ;17 ; 1 ; 4 ; 64;16; 52;
+ 4;  Hammarby IF DFF        ;22 ;13 ; 3 ; 6 ; 54;35; 42;
+ 5;  Bälinge IF             ;22 ;10 ; 6 ; 6 ; 50;27; 36;
+ 6;  Kopparbergs/Landvetter ;22 ; 9 ; 5 ; 8 ; 49;43; 32;
+ 7;  Sunnanå SK             ;22 ; 6 ; 5 ;11 ; 33;52; 23;
+ 8;  Karlslunds IF DFF      ;22 ; 4 ; 7 ;11 ; 30;53; 19;
+ 9;  Mallbackens IF         ;22 ; 4 ; 7 ;11 ; 22;47; 19;
+10;  Stattena IF            ;22 ; 4 ; 4 ;14 ; 22; 63; 16;
+
+11;  Östers IF              ;22 ; 2 ; 3 ;17 ; 20;69 ;  9;  Relegated
+12;  IF Trion               ;22 ; 2 ; 3 ;17 ; 16;84 ;  9;  Relegated
 
 *Note: Djurgårdens IF DFF merged with Älvsjö AIK FF during the offseason.
 
 
-
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom02.html
 Season: 2002
-Competition: Damallsvenskan
 
-* 1.Umeå IK                 22 20  1  1 104-15  61  Champions
-* 2.Malmö FF                22 18  4  0  81- 9  58
-* 3.Kopparbergs/Landvetter  22 10  7  5  28-24  37
-* 4.Älvsjö AIK FF           22 10  6  6  60-32  36
-* 5.Djurgårdens IF DFF      22 10  5  7  41-31  35
-* 6.Hammarby IF DFF         22  8  4 10  45-51  28
-* 7.Bälinge IF              22  7  7  8  21-39  28
-* 8.IF Trion                22  5  5 12  18-42  20
-* 9.Mallbackens IF          22  5  5 12  21-47  20
-*10.Sunnanå SK              22  4  6 12  26-54  18
-*- - - - - - - - - - - - - - - - - - - - - - - - -
-*11.Alviks IK               22  4  3 15  21-65  15  Relegated
-*12.BK Kenty FF             22  4  1 17  16-73  13  Relegated
+ 1; Umeå IK                ; 22; 20;  1;  1; 104; 15;  61;  Champions
+ 2; Malmö FF               ; 22; 18;  4;  0;  81;  9;  58;
+ 3; Kopparbergs/Landvetter ; 22; 10;  7;  5;  28; 24;  37;
+ 4; Älvsjö AIK FF          ; 22; 10;  6;  6;  60; 32;  36;
+ 5; Djurgårdens IF DFF     ; 22; 10;  5;  7;  41; 31;  35;
+ 6; Hammarby IF DFF        ; 22;  8;  4; 10;  45; 51;  28;
+ 7; Bälinge IF             ; 22;  7;  7;  8;  21; 39;  28;
+ 8; IF Trion               ; 22;  5;  5; 12;  18; 42;  20;
+ 9; Mallbackens IF         ; 22;  5;  5; 12;  21; 47;  20;
+10; Sunnanå SK             ; 22;  4;  6; 12;  26; 54;  18;
 
+11; Alviks IK              ; 22;  4;  3; 15;  21; 65;  15;  Relegated
+12; BK Kenty FF            ; 22;  4;  1; 17;  16; 73;  13;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom01.html
 Season: 2001
-Competition: Damallsvenskan
 
-* 1.Umeå IK                22 19  3  0  80- 8  60  Champions
-* 2.Malmö FF               22 16  4  2  66-18  52
-* 3.Älvsjö AIK FF          22 15  3  4  69-30  48
-* 4.Djurgårdens IF         22 12  4  6  45-33  40
-* 5.Kopparbergs/Landvetter 22 11  5  6  55-31  38
-* 6.Mallbackens IF         22  8  4 10  31-40  28
-* 7.Bälinge IF             22  7  6  9  35-44  27
-* 8.Sunnanå SK             22  6  3 13  26-50  21
-* 9.Hammarby IF            22  5  4 13  31-53  19
-*------------------------------------------------
-*10.Kristianstad/Wä        22  4  5 13  17-44  17  Relegated
-*11.Holmalunds IF Alingsås 22  2  5 15  21-70  11  Relegated
-*12.Östers IF Växjö        22  3  2 17  14-69  11  Relegated
+ 1; Umeå IK               ; 22; 19;  3;  0;  80; 8;  60;  Champions
+ 2; Malmö FF              ; 22; 16;  4;  2;  66;18;  52;
+ 3; Älvsjö AIK FF         ; 22; 15;  3;  4;  69;30;  48;
+ 4; Djurgårdens IF        ; 22; 12;  4;  6;  45;33;  40;
+ 5; Kopparbergs/Landvetter; 22; 11;  5;  6;  55;31;  38;
+ 6; Mallbackens IF        ; 22;  8;  4; 10;  31;40;  28;
+ 7; Bälinge IF            ; 22;  7;  6;  9;  35;44;  27;
+ 8; Sunnanå SK            ; 22;  6;  3; 13;  26;50;  21;
+ 9; Hammarby IF           ; 22;  5;  4; 13;  31;53;  19;
 
+10; Kristianstad/Wä       ; 22;  4;  5; 13;  17;44;  17;  Relegated
+11; Holmalunds IF Alingsås; 22;  2;  5; 15;  21;70;  11;  Relegated
+12; Östers IF Växjö       ; 22;  3;  2; 17;  14;69;  11;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom00.html
 Season: 2000
-Competition: Damallsvenskan
 
-* 1.Umeå                   22 16  5  1   58-17  53  Champions
-* 2.Malmö                  22 16  4  2   58-14  52
-* 3.Älvsjö                 22 15  5  2   71-19  50
-* 4.Djurgården             22 14  4  4   56-26  46
-* 5.Kopparbergs/Landvetter 22 10  4  8   45-34  34
-* 6.Öster                  22  8  2 12   27-57  26
-* 7.Hammarby               22  7  2 13   44-45  23
-* 8.Bälinge                22  6  5 11   35-42  23
-* 9.Kristianstad/Wä        22  5  8  9   29-51  23
-*-------------------------------------------------
-*10.Kenty                  22  4  6 12   22-48  18  Relegated
-*11.Sundbyberg             22  4  3 15   21-49  15  Relegated
-*12.Astrio                 22  3  0 19   22-86   9  Relegated
+ 1; Umeå                  ; 22; 16;  5;  1;   58; 17;  53;  Champions
+ 2; Malmö                 ; 22; 16;  4;  2;   58; 14;  52;
+ 3; Älvsjö                ; 22; 15;  5;  2;   71; 19;  50;
+ 4; Djurgården            ; 22; 14;  4;  4;   56; 26;  46;
+ 5; Kopparbergs/Landvetter; 22; 10;  4;  8;   45; 34;  34;
+ 6; Öster                 ; 22;  8;  2; 12;   27; 57;  26;
+ 7; Hammarby              ; 22;  7;  2; 13;   44; 45;  23;
+ 8; Bälinge               ; 22;  6;  5; 11;   35; 42;  23;
+ 9; Kristianstad/Wä       ; 22;  5;  8;  9;   29; 51;  23;
 
+10; Kenty                 ; 22;  4;  6; 12;   22; 48;  18;  Relegated
+11; Sundbyberg            ; 22;  4;  3; 15;   21; 49;  15;  Relegated
+12; Astrio                ; 22;  3;  0; 19;   22; 86;   9;  Relegated
 
 
 BlockSource: http://www.rsssf.com/tablesz/zwed-wom99.html
 Season: 1999
-Competition: Damallsvenskan
 
-* 1.Älvsjö AIK FF          22 19  2  1   78-13  59  Champions
-* 2.Umeå IK                22 15  3  4   49-22  48    
-* 3.Malmö FF               22 13  5  4   71-25  44    
-* 4.Djurgårdens IF DFF     22 14  1  7   58-27  43
-* 5.Bälinge IF             22 10  4  8   42-45  34    
-* 6.Landvetter IF          22  9  4  9   44-38  31    
-* 7.Hammarby IF DFF        22  9  3 10   44-47  30    
-* 8.Kristianstad/Wä        22  8  3 11   33-56  27    
-* 9.Östers IF              22  5  7 10   31-48  22
-*-------------------------------------------------
-*10.Sunnanå SK             22  3  6 13   29-54  15  Relegated
-*11.Ornäs BK               22  3  3 16   32-78  12  Relegated 
-*12.Tyresö FF              22  3  1 18   30-88  10  Relegated
+ 1; Älvsjö AIK FF         ; 22; 19;  2;  1;   78; 13;  59;  Champions
+ 2; Umeå IK               ; 22; 15;  3;  4;   49; 22;  48;    
+ 3; Malmö FF              ; 22; 13;  5;  4;   71; 25;  44;    
+ 4; Djurgårdens IF DFF    ; 22; 14;  1;  7;   58; 27;  43;
+ 5; Bälinge IF            ; 22; 10;  4;  8;   42; 45;  34;    
+ 6; Landvetter IF         ; 22;  9;  4;  9;   44; 38;  31;    
+ 7; Hammarby IF DFF       ; 22;  9;  3; 10;   44; 47;  30;    
+ 8; Kristianstad/Wä       ; 22;  8;  3; 11;   33; 56;  27;    
+ 9; Östers IF             ; 22;  5;  7; 10;   31; 48;  22;
+
+10; Sunnanå SK            ; 22;  3;  6; 13;   29; 54;  15;  Relegated
+11; Ornäs BK              ; 22;  3;  3; 16;   32; 78;  12;  Relegated 
+12; Tyresö FF             ; 22;  3;  1; 18;   30; 88;  10;  Relegated
 
 *Promoted: Kenty, Sundbyberg, Astrio
 
 
-
 BlockSource: http://www.rsssf.com/tablesz/zwedwomen98.html
 Season: 1998
-Competition: Damallsvenskan
 
-* 1.Älvsjö AIK FF     22 18  2  2 79-22  56
-* 2.Malmö FF          22 16  2  4 60-25  50
-* 3.Bälinge IF        22 14  4  4 48-26  46
-* 4.Hammarby IF       22 10  5  7 55-27  35
-* 5.Sunnanå SK        22  8  7  7 33-33  31
-* 6.Umeå IK           22  8  6  8 46-40  30
-* 7.Landvetter IF     22  8  4 10 38-47  28
-* 8.Djurgårdens IF D  22  7  5 10 38-38  26
-* 9.Wä IF             22  6  7  9 22-46  25
-*------------------------------------------
-*10.Öxabäck-Mark IF   22  7  3 12 36-50  24
-*11.BK Kenty          22  2  6 14 18-63  12
-*12.Gideonsbergs IF   22  2  1 19 18-74   7
+ 1; Älvsjö AIK FF    ; 22; 18;  2;  2; 79; 22;  56;
+ 2; Malmö FF         ; 22; 16;  2;  4; 60; 25;  50;
+ 3; Bälinge IF       ; 22; 14;  4;  4; 48; 26;  46;
+ 4; Hammarby IF      ; 22; 10;  5;  7; 55; 27;  35;
+ 5; Sunnanå SK       ; 22;  8;  7;  7; 33; 33;  31;
+ 6; Umeå IK          ; 22;  8;  6;  8; 46; 40;  30;
+ 7; Landvetter IF    ; 22;  8;  4; 10; 38; 47;  28;
+ 8; Djurgårdens IF D ; 22;  7;  5; 10; 38; 38;  26;
+ 9; Wä IF            ; 22;  6;  7;  9; 22; 46;  25;
+
+10; Öxabäck-Mark IF  ; 22;  7;  3; 12; 36; 50;  24;
+11; BK Kenty         ; 22;  2;  6; 14; 18; 63;  12;
+12; Gideonsbergs IF  ; 22;  2;  1; 19; 18; 74;   7;
