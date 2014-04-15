@@ -21,318 +21,388 @@ Season: 1999-2000
 *[-1] Bologna, Gravina and GEAS 1 point deducted for not showing up at 1 match
 *[-2] Verona 2 points deducted
 
-Round: 1 [Oct 2]
-Pisa              8-0 Torino      
-Autelelli Picenum 1-1 Agliana         
-Foroni            0-1 Verona 
-Geas              1-1 Bardolino 
-Lazio            10-1 Gravina Catania      
-Sarzana           0-3 Milan          
-Torres Fo.S.      8-0 Attilia Nuoro     
-Tradate Abbiate   2-3 Bologna       
+Round: 1 
+Date: 10/2/1999
 
-Round: 2 [Oct 9]
-Agliana           1-0 Geas   
-Attilia Nuoro     0-3 Foroni   
-Bologna           0-0 Sarzana       
-Bardolino         1-2 Torres Fo.S.      
-Gravina Catania   5-2 Pisa         
-Milan             2-1 Autelelli Picenum
-Torino            2-3 Tradate Abbiate   
-Verona            0-1 Lazio              
+; Pisa             ; 8-0; Torino      
+; Autelelli Picenum; 1-1; Agliana         
+; Foroni           ; 0-1; Verona 
+; Geas             ; 1-1; Bardolino 
+; Lazio           ; 10-1; Gravina Catania      
+; Sarzana          ; 0-3; Milan          
+; Torres Fo.S.     ; 8-0; Attilia Nuoro     
+; Tradate Abbiate  ; 2-3; Bologna       
+
+Round: 2 
+Date: 10/9/1999
+
+; Agliana          ; 1-0; Geas   
+; Attilia Nuoro    ; 0-3; Foroni   
+; Bologna          ; 0-0; Sarzana       
+; Bardolino        ; 1-2; Torres Fo.S.      
+; Gravina Catania  ; 5-2; Pisa         
+; Milan            ; 2-1; Autelelli Picenum
+; Torino           ; 2-3; Tradate Abbiate   
+; Verona           ; 0-1; Lazio              
 
 Round: 3
-[Oct 16]
-Pisa              2-0 Verona   
-Autelelli Picenum 6-0 Bologna   
-Bardolino         3-0 Agliana        
-Geas              2-0 Milan    
-Sarzana           1-1 Torino      
-Torres Fo.S.      7-1 Foroni        
-Tradate Abbiate   2-1 Gravina Catania  
-[Oct 17]
-Lazio             6-0 Attilia Nuoro       
+Date: 10/16/1999
 
-Round: 4 [Oct 23]
-Agliana           2-1 Torres Fo.S.    
-Attilia Nuoro     3-5 Pisa             
-Bologna           1-2 Geas  
-Foroni            1-0 Lazio    
-Gravina Catania   5-1 Sarzana    
-Milan             1-0 Bardolino      
-Torino            1-3 Autelelli Picenum 
-Verona            5-2 Tradate Abbiate    
+; Pisa             ; 2-0; Verona   
+; Autelelli Picenum; 6-0; Bologna   
+; Bardolino        ; 3-0; Agliana        
+; Geas             ; 2-0; Milan    
+; Sarzana          ; 1-1; Torino      
+; Torres Fo.S.     ; 7-1; Foroni        
+; Tradate Abbiate  ; 2-1; Gravina Catania  
 
-Round: 5 [Oct 30]
-Agliana           0-2 Milan     
-Pisa              2-1 Foroni     
-Autelelli Picenum 4-1 Gravina Catania     
-Bardolino         0-0 Bologna        
-Geas              3-0 Torino              
-Sarzana           1-1 Verona    
-Torres Fo.S.      4-2 Lazio        
-Tradate Abbiate   3-3 Attilia Nuoro    
+Date: 10/17/1999
+
+; Lazio            ; 6-0; Attilia Nuoro       
+
+Round: 4 
+Date: 10/23/1999
+
+; Agliana          ; 2-1; Torres Fo.S.    
+; Attilia Nuoro    ; 3-5; Pisa             
+; Bologna          ; 1-2; Geas  
+; Foroni           ; 1-0; Lazio    
+; Gravina Catania  ; 5-1; Sarzana    
+; Milan            ; 1-0; Bardolino      
+; Torino           ; 1-3; Autelelli Picenum 
+; Verona           ; 5-2; Tradate Abbiate    
+
+Round: 5 
+Date: 10/30/1999
+
+; Agliana          ; 0-2; Milan     
+; Pisa             ; 2-1; Foroni     
+; Autelelli Picenum; 4-1; Gravina Catania     
+; Bardolino        ; 0-0; Bologna        
+; Geas             ; 3-0; Torino              
+; Sarzana          ; 1-1; Verona    
+; Torres Fo.S.     ; 4-2; Lazio        
+; Tradate Abbiate  ; 3-3; Attilia Nuoro    
 
 Round: 6 
-[Nov 6]
-Attilia Nuoro     0-1 Sarzana          
-Bologna           0-3 Agliana 
-Foroni            2-0 Tradate Abbiate
-Gravina Catania   2-1 Geas      
-Lazio             1-3 Pisa    
-Torino            0-1 Bardolino       
-Verona            1-1 Autelelli Picenum 
-[Nov 24]
-Milan             2-0 Torres Fo.S.
+Date: 11/6/1999
 
-Round: 7 [Nov 13]
-Agliana           7-0 Torino       
-Autelelli Picenum 6-0 Attilia Nuoro    
-Bardolino         5-1 Gravina Catania       
-Geas              2-2 Verona        
-Milan             3-0 Bologna        
-Sarzana           3-2 Foroni  
-Torres Fo.S.      3-0 Pisa       
-Tradate Abbiate   4-3 Lazio         
+; Attilia Nuoro    ; 0-1; Sarzana          
+; Bologna          ; 0-3; Agliana 
+; Foroni           ; 2-0; Tradate Abbiate
+; Gravina Catania  ; 2-1; Geas      
+; Lazio            ; 1-3; Pisa    
+; Torino           ; 0-1; Bardolino       
+; Verona           ; 1-1; Autelelli Picenum 
 
-Round: 8 [Nov 20]
-Pisa              0-0 Tradate Abbiate
-Attilia Nuoro     1-1 Geas
-Bologna           0-6 Torres Fo.S.
-Foroni            0-7 Autelelli Picenum
-Gravina Catania   0-2 Agliana
-Lazio             2-2 Sarzana
-Torino            1-6 Milan
-Verona            0-2 Bardolino         
+Date: 11/24/1999
+
+; Milan            ; 2-0; Torres Fo.S.
+
+Round: 7 
+Date: 11/13/1999
+
+; Agliana          ; 7-0; Torino       
+; Autelelli Picenum; 6-0; Attilia Nuoro    
+; Bardolino        ; 5-1; Gravina Catania       
+; Geas             ; 2-2; Verona        
+; Milan            ; 3-0; Bologna        
+; Sarzana          ; 3-2; Foroni  
+; Torres Fo.S.     ; 3-0; Pisa       
+; Tradate Abbiate  ; 4-3; Lazio         
+
+Round: 8 
+Date: 11/20/1999
+
+; Pisa             ; 0-0; Tradate Abbiate
+; Attilia Nuoro    ; 1-1; Geas
+; Bologna          ; 0-6; Torres Fo.S.
+; Foroni           ; 0-7; Autelelli Picenum
+; Gravina Catania  ; 0-2; Agliana
+; Lazio            ; 2-2; Sarzana
+; Torino           ; 1-6; Milan
+; Verona           ; 0-2; Bardolino         
 
 Round: 9 
-[Nov 27]
-Agliana           2-0 Verona
-Autelelli Picenum 2-2 Lazio
-Bardolino         3-0 Attilia Nuoro
-Geas              0-0 Foroni
-Milan             6-0 Gravina Catania
-Sarzana           0-2 Pisa
-Torres Fo.S.     10-0 Tradate Abbiate
-[Dec 8]
-Bologna           1-2 Torino
+Date: 11/27/1999
 
-Round: 10 [Dec 4]
-Pisa              2-3 Autolelli Picenum 
-Attilia Nuoro     2-3 Agliana Aircargo 
-Foroni            0-0 Bardolino 
-Gravina           5-1 Bologna 
-Ruco Line Lazio   4-1 Geas Ambrosiana 
-Torino            1-4 Torre FO.S. 
-Tradate           2-1 Sarzana 
-Verona            0-3 Milan 
+; Agliana          ; 2-0; Verona
+; Autelelli Picenum; 2-2; Lazio
+; Bardolino        ; 3-0; Attilia Nuoro
+; Geas             ; 0-0; Foroni
+; Milan            ; 6-0; Gravina Catania
+; Sarzana          ; 0-2; Pisa
+; Torres Fo.S.    ; 10-0; Tradate Abbiate
 
-Round: 11 [Dec 11]
-Agliana           3-1 Foroni 
-Autolelli Picenum 3-0 Tradate 
-Bardolino         2-0 Lazio
-Bologna           2-1 Verona 
-Geas Ambrosiana   3-1 Pisa 
-Milan             4-1 Attilia Nuoro 
-Torino            1-3 Gravina
-Torres            6-0 Sarzana 
+Date: 12/8/1999
 
-Round: 12 [Dec 19]
-Bologna           4-0 Attilia Nuoro 
-Foroni            1-2 Milan
-Gravina CT        0-3 Torres   
-Pisa              2-1 Bardolino
-Ruco Line Lazio   2-1 Agliana 
-Sarzana           4-1 Autolelli Picenum 
-Tradate           2-2 Geas S.S.G.
-Verona            3-2 Torino 
+; Bologna          ; 1-2; Torino
 
-Round: 13 [Jan 8]
-Bologna           1-4 Foroni 
-Agliana           0-0 Pisa 
-Gravina           6-1 Verona
-Bardolino         7-1 Tradate 
-Milan             1-2 Lazio 
-Torres            2-0 Autolelli Picenum 
-Torino            1-1 Attilia Nuoro 
-Geas              0-1 Sarzana 
+Round: 10 
+Date: 12/4/1999
 
-Round: 14 [Jan 15]
-Pisa              0-3 Milan 
-Attilia Nuoro     5-2 Gravina Catania 
-Autolelli Picenum 6-0 Geas 
-Foroni            4-1 Torino
-Ruco Line Lazio   4-0 Bologna 
-Sarzana           1-0 Bardolino 
-Tradate Abbiate   0-4 Air Cargo Agliana 
-Verona            1-6 Torres Fo.S.
+; Pisa             ; 2-3; Autolelli Picenum 
+; Attilia Nuoro    ; 2-3; Agliana Aircargo 
+; Foroni           ; 0-0; Bardolino 
+; Gravina          ; 5-1; Bologna 
+; Ruco Line Lazio  ; 4-1; Geas Ambrosiana 
+; Torino           ; 1-4; Torre FO.S. 
+; Tradate          ; 2-1; Sarzana 
+; Verona           ; 0-3; Milan 
 
-Round: 15 [Jan 22]
-Agliana           1-1 Sarzana
-Bologna           1-2 Pisa
-Bardolino         1-1 Autolelli Picenum
-Gravina           0-4 Foroni
-Milan             5-0 Tradate
-Torino            1-0 Lazio
-Torres            awd Geas S.S.G.              [awarded 2-0]
-Verona            1-1 Attilia Nuoro
+Round: 11 
+Date: 12/11/1999
+
+; Agliana          ; 3-1; Foroni 
+; Autolelli Picenum; 3-0; Tradate 
+; Bardolino        ; 2-0; Lazio
+; Bologna          ; 2-1; Verona 
+; Geas Ambrosiana  ; 3-1; Pisa 
+; Milan            ; 4-1; Attilia Nuoro 
+; Torino           ; 1-3; Gravina
+; Torres           ; 6-0; Sarzana 
+
+Round: 12 
+Date: 12/19/1999
+
+; Bologna          ; 4-0; Attilia Nuoro 
+; Foroni           ; 1-2; Milan
+; Gravina CT       ; 0-3; Torres   
+; Pisa             ; 2-1; Bardolino
+; Ruco Line Lazio  ; 2-1; Agliana 
+; Sarzana          ; 4-1; Autolelli Picenum 
+; Tradate          ; 2-2; Geas S.S.G.
+; Verona           ; 3-2; Torino 
+
+Round: 13 
+Date: 1/8/2000
+
+; Bologna          ; 1-4; Foroni 
+; Agliana          ; 0-0; Pisa 
+; Gravina          ; 6-1; Verona
+; Bardolino        ; 7-1; Tradate 
+; Milan            ; 1-2; Lazio 
+; Torres           ; 2-0; Autolelli Picenum 
+; Torino           ; 1-1; Attilia Nuoro 
+; Geas             ; 0-1; Sarzana 
+
+Round: 14 
+Date: 1/15/2000
+
+; Pisa             ; 0-3; Milan 
+; Attilia Nuoro    ; 5-2; Gravina Catania 
+; Autolelli Picenum; 6-0; Geas 
+; Foroni           ; 4-1; Torino
+; Ruco Line Lazio  ; 4-0; Bologna 
+; Sarzana          ; 1-0; Bardolino 
+; Tradate Abbiate  ; 0-4; Air Cargo Agliana 
+; Verona           ; 1-6; Torres Fo.S.
+
+Round: 15 
+Date: 1/22/2000
+
+; Agliana          ; 1-1; Sarzana
+; Bologna          ; 1-2; Pisa
+; Bardolino        ; 1-1; Autolelli Picenum
+; Gravina          ; 0-4; Foroni
+; Milan            ; 5-0; Tradate
+; Torino           ; 1-0; Lazio
+*; Torres            awd Geas S.S.G.              [awarded; 2-0]
+; Verona;           ; 1-1; Attilia Nuoro
 
 Round: 16 
-[Jan 29]
-Torino            0-1 Pisa
-Agliana           2-1 Autolelli Picenum
-Verona            0-2 Foroni
-Bardolino         3-1 Geas
-Gravina           1-7 Lazio
-Milan             3-2 Sarzana
-Attilia Nuoro     0-5 Torres Fo.S.
-[Feb 9]
-Bologna           2-2 Tradate
 
-Round: 17 [Feb 5]
-Geas              2-1 Air Cargo Agliana
-Foroni            1-0 Attilia Nuoro
-Sarzana           2-3 Bologna
-Torres            2-0 Bardolino
-Pisa              awd Gravina Catania          [awarded 2-0]
-Autolelli Picenum 1-2 Milan
-Tradate Abbiate   3-1 Torino
-Ruco Line Lazio   1-0 Verona   
+Date: 1/29/2000
 
-Round: 18 [Feb 12]
-Agliana           0-0 Bardolino 
-Attilia Nuoro     0-5 Lazio 
-Bologna           1-1 Autolelli Picenum 
-Foroni            0-2 Torres Fo.S. 
-Gravina CT        2-1 Tradate 
-Milan             1-0 GEAS
-Torino            0-3 Sarzana
-Verona            1-4 Pisa 
+; Torino           ; 0-1; Pisa
+; Agliana          ; 2-1; Autolelli Picenum
+; Verona           ; 0-2; Foroni
+; Bardolino        ; 3-1; Geas
+; Gravina          ; 1-7; Lazio
+; Milan            ; 3-2; Sarzana
+; Attilia Nuoro    ; 0-5; Torres Fo.S.
+
+Date: 2/9/2000
+
+; Bologna          ; 2-2; Tradate
+
+Round: 17 
+Date: 2/5/2000
+
+; Geas             ; 2-1; Air Cargo Agliana
+; Foroni           ; 1-0; Attilia Nuoro
+; Sarzana          ; 2-3; Bologna
+; Torres           ; 2-0; Bardolino
+*Pisa              awd Gravina Catania          [awarded 2-0]
+; Autolelli Picenum; 1-2; Milan
+; Tradate Abbiate  ; 3-1; Torino
+; Ruco Line Lazio  ; 1-0; Verona   
+
+Round: 18 
+Date: 2/12/2000
+
+; Agliana          ; 0-0; Bardolino 
+; Attilia Nuoro    ; 0-5; Lazio 
+; Bologna          ; 1-1; Autolelli Picenum 
+; Foroni           ; 0-2; Torres Fo.S. 
+; Gravina CT       ; 2-1; Tradate 
+; Milan            ; 1-0; GEAS
+; Torino           ; 0-3; Sarzana
+; Verona           ; 1-4; Pisa 
 
 Round: 19
-[Feb 19]
-Torres Fo.S.      3-0 Agliana     
-Pisa              4-0 Attilia Nuoro           [5-0?]
-Geas              2-2 Bologna
-Ruco Line Lazio   1-0 Foroni
-Bardolino         1-0 Milan
-Autolelli Picenum 2-0 Torino
-Tradate           0-0 Verona  
-[Mar 1]
-Sarzana           1-2 Gravina Catania
+Date: 2/19/2000
 
-Round: 20 [Feb 26]
-Milan             2-1 Agliana
-Foroni            1-4 Pisa
-Gravina CT        2-2 Autolelli Picenum
-Bologna           0-1 Bardolino
-Torino            0-2 GEAS
-Verona            1-1 Sarzana
-Ruco Line Lazio   0-5 Torres Fo.S.
-Attilia Nuoro     1-2 Tradate
+; Torres Fo.S.     ; 3-0; Agliana     
+; Pisa             ; 4-0; Attilia Nuoro           
+*[5-0?]
+; Geas             ; 2-2; Bologna
+; Ruco Line Lazio  ; 1-0; Foroni
+; Bardolino        ; 1-0; Milan
+; Autolelli Picenum; 2-0; Torino
+; Tradate          ; 0-0; Verona  
+
+Date: 3/1/2000
+
+; Sarzana          ; 1-2; Gravina Catania
+
+Round: 20 
+Date: 2/26/2000
+
+; Milan            ; 2-1; Agliana
+; Foroni           ; 1-4; Pisa
+; Gravina CT       ; 2-2; Autolelli Picenum
+; Bologna          ; 0-1; Bardolino
+; Torino           ; 0-2; GEAS
+; Verona           ; 1-1; Sarzana
+; Ruco Line Lazio  ; 0-5; Torres Fo.S.
+; Attilia Nuoro    ; 1-2; Tradate
 
 Round: 21
-[Mar 4]
-Tradate           0-2 Foroni
-Pisa              4-2 Lazio
-Torres Fo.S.      2-0 Milan
-Autolelli Picenum 3-1 Verona
-[Mar 30]
-Geas              1-1 Gravina Catania
-Sarzana           2-2 Attilia Nuoro
-[Apr 8]
-Agliana           3-1 Bologna
-Bardolino         2-1 Torino
+Date: 3/4/2000
 
-Round: 22 [Mar 11]
-Torino            1-2 Agliana
-Attilia Nuoro     2-4 Autolelli Picenum
-Gravina CT        1-0 Bardolino
-Verona            0-1 GEAS
-Bologna           1-5 Milan
-Foroni            5-0 Sarzana
-Pisa              1-2 Torres Fo.S.
-Ruco Line Lazio   6-0 Tradate
+; Tradate          ; 0-2; Foroni
+; Pisa             ; 4-2; Lazio
+; Torres Fo.S.     ; 2-0; Milan
+; Autolelli Picenum; 3-1; Verona
 
-Round: 23 [Mar 18]
-Tradate Abbiate   1-5 Pisa
-GEAS              3-1 Attilia Nuoro  
-Torres Fo.S.      8-3 Bologna
-Autelelli Picenum 2-1 Foroni
-Agliana           3-1 Gravina Catania
-Sarzana           2-3 Lazio
-Milan             4-1 Torino
-Bardolino         awd Verona                   [awarded 2-0]
+Date: 3/30/2000
 
-Round: 24 [Mar 25]
-Attilia Nuoro     0-5 Bardolino
-Foroni            2-1 GEAS
-Gravina CT        1-2 Milan
-Lazio             0-2 Autolelli Picenum
-Pisa              4-1 Sarzana
-Torino            2-3 Bologna
-Tradate Abbiate   1-7 Torres Fo.S.
-Verona            0-3 Agliana
+; Geas             ; 1-1; Gravina Catania
+; Sarzana          ; 2-2; Attilia Nuoro
 
-Round: 25 [Apr 1]
-Autolelli Picenum 1-1 Pisa 
-Agliana           3-1 Attilia Nuotro
-Bardolino         0-0 Foroni
-Bologna           0-0 Gravina CT
-GEAS              1-1 Lazio
-Torres Fo.S.      4-0 Torino
-Sarzana           1-1 Tradate Abbiate
-Milan             8-0 Verona
+Date: 4/8/2000
 
-Round: 26 [Apr 15]
-Foroni            3-0 Agliana
-Tradate Abbiate   0-1 Autolelli Picenum
-Verona            1-2 Bologna
-Lazio             1-1 Bardolino
-Pisa              1-2 Geas
-Attilia Nuoro     1-9 Milan
-Gravina Ct        3-1 Torino
-Sarzana           2-5 Torres Fo.S.
+; Agliana          ; 3-1; Bologna
+; Bardolino        ; 2-1; Torino
 
-Round: 27 [Apr 29]
-Bardolino         0-4 Pisa
-Attilia Nuoro     2-0 Bologna              [awarded?]
-Milan             2-1 Foroni
-Torres Fo.S.      7-1 Gravina Ct
-Agliana           1-1 Lazio
-Autolelli Picenum 2-0 Sarzana
-Geas              0-0 Tradate Abbiate
-Torino            4-0 Verona
+Round: 22 
+Date: 3/11/2000
 
-Round: 28 [May 6]
-Pisa              1-2 Agliana
-Foroni            3-0 Bologna
-Tradate Abbiate   0-3 Bardolino
-Sarzana           0-2 Geas
-Verona            1-7 Gravina Ct
-Lazio             1-1 Milan
-Attilia Nuoro     2-3 Torino
-Autolelli Picenum 0-2 Torres Fo.S.
+; Torino           ; 1-2; Agliana
+; Attilia Nuoro    ; 2-4; Autolelli Picenum
+; Gravina CT       ; 1-0; Bardolino
+; Verona           ; 0-1; GEAS
+; Bologna          ; 1-5; Milan
+; Foroni           ; 5-0; Sarzana
+; Pisa             ; 1-2; Torres Fo.S.
+; Ruco Line Lazio  ; 6-0; Tradate
+
+Round: 23 
+Date: 3/18/2000
+
+; Tradate Abbiate  ; 1-5; Pisa
+; GEAS             ; 3-1; Attilia Nuoro  
+; Torres Fo.S.     ; 8-3; Bologna
+; Autelelli Picenum; 2-1; Foroni
+; Agliana          ; 3-1; Gravina Catania
+; Sarzana          ; 2-3; Lazio
+; Milan            ; 4-1; Torino
+*Bardolino         awd Verona                   [awarded 2-0]
+
+Round: 24 
+Date: 3/25/2000
+
+; Attilia Nuoro    ; 0-5; Bardolino
+; Foroni           ; 2-1; GEAS
+; Gravina CT       ; 1-2; Milan
+; Lazio            ; 0-2; Autolelli Picenum
+; Pisa             ; 4-1; Sarzana
+; Torino           ; 2-3; Bologna
+; Tradate Abbiate  ; 1-7; Torres Fo.S.
+; Verona           ; 0-3; Agliana
+
+Round: 25 
+Date: 4/1/2000
+
+; Autolelli Picenum; 1-1; Pisa 
+; Agliana          ; 3-1; Attilia Nuotro
+; Bardolino        ; 0-0; Foroni
+; Bologna          ; 0-0; Gravina CT
+; GEAS             ; 1-1; Lazio
+; Torres Fo.S.     ; 4-0; Torino
+; Sarzana          ; 1-1; Tradate Abbiate
+; Milan            ; 8-0; Verona
+
+Round: 26 
+Date: 4/15/2000
+
+; Foroni           ; 3-0; Agliana
+; Tradate Abbiate  ; 0-1; Autolelli Picenum
+; Verona           ; 1-2; Bologna
+; Lazio            ; 1-1; Bardolino
+; Pisa             ; 1-2; Geas
+; Attilia Nuoro    ; 1-9; Milan
+; Gravina Ct       ; 3-1; Torino
+; Sarzana          ; 2-5; Torres Fo.S.
+
+Round: 27 
+Date: 4/29/2000
+
+; Bardolino        ; 0-4; Pisa
+; Attilia Nuoro    ; 2-0; Bologna              
+*[awarded?]
+; Milan            ; 2-1; Foroni
+; Torres Fo.S.     ; 7-1; Gravina Ct
+; Agliana          ; 1-1; Lazio
+; Autolelli Picenum; 2-0; Sarzana
+; Geas             ; 0-0; Tradate Abbiate
+; Torino           ; 4-0; Verona
+
+Round: 28 
+Date: 5/6/2000
+
+; Pisa             ; 1-2; Agliana
+; Foroni           ; 3-0; Bologna
+; Tradate Abbiate  ; 0-3; Bardolino
+; Sarzana          ; 0-2; Geas
+; Verona           ; 1-7; Gravina Ct
+; Lazio            ; 1-1; Milan
+; Attilia Nuoro    ; 2-3; Torino
+; Autolelli Picenum; 0-2; Torres Fo.S.
 
 Round: 29
-Milan             3-0 Pisa
-Gravina Catania   5-2 Attilia Nuoro
-Geas              1-6 Autolelli Picenum
-Torino            0-2 Foroni
-Bologna           3-2 Lazio
-Bardolino         5-0 Sarzana
-Agliana           2-0 Tradate Abbiate
-Torres Fo.S.      2-0 Verona
+Date: 
+; Milan            ; 3-0; Pisa
+; Gravina Catania  ; 5-2; Attilia Nuoro
+; Geas             ; 1-6; Autolelli Picenum
+; Torino           ; 0-2; Foroni
+; Bologna          ; 3-2; Lazio
+; Bardolino        ; 5-0; Sarzana
+; Agliana          ; 2-0; Tradate Abbiate
+; Torres Fo.S.     ; 2-0; Verona
 
-Round: 30 [May 27]
-Attilio Nuoro     4-1 Verona
-Autolelli Picenum 0-3 Bardolino
-Foroni            5-2 Gravina Ct
-Geas              0-3 Torres Fo.S.
-Lazio             2-0 Torino
-Pisa              4-0 Bologna
-Sarzana           0-0 Agliana
-Tradate Abbiate   0-7 Milan
+Round: 30 
+Date: 5/27/2000
+
+; Attilio Nuoro    ; 4-1; Verona
+; Autolelli Picenum; 0-3; Bardolino
+; Foroni           ; 5-2; Gravina Ct
+; Geas             ; 0-3; Torres Fo.S.
+; Lazio            ; 2-0; Torino
+; Pisa             ; 4-0; Bologna
+; Sarzana          ; 0-0; Agliana
+; Tradate Abbiate  ; 0-7; Milan
   
 
 * 1.Torres Fo.S.       30 28  0  2 123-18  84  Champions
