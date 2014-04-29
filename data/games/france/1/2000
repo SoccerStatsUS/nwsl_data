@@ -35,14 +35,14 @@ Date: 12/17/2000
 Round: 2 
 Date: 9/16/2000
 
-;; St-Brieuc;       2-0 La Roche
+; St-Brieuc;       2-0; La Roche
 
 Date: 9/17/2000
 
 ; Cormelles      ; 1-3; Montpellier
 ; Schiltigheim   ; 1-1; Soyaux ASJ
 ; Juvisy FCF     ; 2-1; Lyon FCF
-;; St-Memmie;       6-2 Quimper 2000
+; St-Memmie;       6-2; Quimper 2000
 ; Marseille FC   ; 0-2; TOAFC Toulouse
 
 Round: 3 
@@ -65,13 +65,13 @@ Date: 10/1/2000
 ; Juvisy FCF     ; 3-1; La Roche
 ; Cormelles      ; 6-4; Quimper 2000
 ; Schiltigheim   ; 2-1; Montpellier
-;; St-Memmie;       3-0 St-Brieuc FF
+; St-Memmie;       3-0; St-Brieuc FF
 ; Marseille FC   ; 0-2; Lyon FCF
 
 Round: 5 
 Date: 10/7/2000
 
-;; St-Brieuc; FF    4-1 Cormelles 
+; St-Brieuc FF;    4-1; Cormelles 
 
 Date: 10/8/2000
 
@@ -91,13 +91,13 @@ Date: 10/22/2000
 ; Juvisy FCF     ; 2-1; St-Brieuc FF
 ; Schiltigheim   ; 4-1; Quimper 2000
 ; TOAFC Toulouse ; 1-0; Montpellier
-;; St-Memmie;       4-1 Cormelles
+; St-Memmie;       4-1; Cormelles
 ; Marseille FC   ; 3-4; La Roche
 
 Round: 7 
 Date: 11/4/2000
 
-;; St-Brieuc; FF    2-1 Schiltigheim 
+; St-Brieuc FF;    2-1; Schiltigheim 
 
 Date: 11/5/2000
 
@@ -124,7 +124,7 @@ Date: 11/12/2000
 
 Date: 5/1/2001
 
-;; St-Memmie;       2-5 Juvisy FCF
+; St-Memmie;       2-5; Juvisy FCF
 
 Round: 9 
 Date: 11/26/2000
@@ -132,7 +132,7 @@ Date: 11/26/2000
 ; La Roche    ; 1-3; Lyon FCF
 ; Juvisy FCF  ; 7-2; Schiltigheim
 ; Quimper 2000; 3-5; Soyaux ASJ
-;; St-Brieuc; FF 2-2 TOAFC Toulouse
+; St-Brieuc FF; 2-2; TOAFC Toulouse
 ; Montpellier ; 0-1; St-Memmie
 ; Cormelles   ; 7-5; Marseille FC
 
@@ -140,7 +140,7 @@ Round: 10
 Date: 12/3/2000
 
 ; Lyon FCF; 2-0; Quimper 2000
-;; St-Memmie;    3-1 Schiltigheim
+; St-Memmie;    3-1; Schiltigheim
 ; Montpellier ; 0-3; La Roche
 ; Soyaux ASJ  ; 0-0; St-Brieuc FF
 ; TOAFC Toulouse  ; 5-1; Cormelles
@@ -149,14 +149,14 @@ Date: 12/3/2000
 Round: 11 
 Date: 12/9/2000
 
-;; St-Brieuc; FF    1-2 Lyon FCF 
+; St-Brieuc FF;    1-2; Lyon FCF 
 
 Date: 12/10/2000
 
 ; Cormelles      ; 4-1; Soyaux ASJ
 ; Juvisy FCF     ; 1-1; TOAFC Toulouse
 ; Schiltigheim   ; 5-1; Marseille FC
-;; St-Memmie;       0-4 La Roche
+; St-Memmie;       0-4; La Roche
 
 Date: 1/21/2001
 
@@ -178,7 +178,7 @@ Date: 3/18/2001
 Round: 13 
 Date: 2/3/2005
 
-;; St-Brieuc; FF    4-4 Quimper 2000 
+; St-Brieuc FF;    4-4; Quimper 2000 
 
 Date: 2/4/2005
 
@@ -186,13 +186,13 @@ Date: 2/4/2005
 ; Cormelles      ; 1-3; La Roche
 ; Schiltigheim   ; 1-3; Lyon
 ; Marseille FC   ; 1-7; Soyaux ASJ
-;; St-Memmie; 1-3 TOAFC Toulouse
+; St-Memmie; 1-3; TOAFC Toulouse
 
 Round: 14 
 Date: 2/11/2005
 
 ; Montpellier  ; 0-2; Schiltigheim
-;; St-Brieuc; FF  3-1 St-Memmie
+; St-Brieuc FF;  3-1; St-Memmie
 ; Quimper 2000 ; 3-5; Cormelles
 ; La Roche     ; 0-0; Juvisy FCF
 ; Soyaux ASJ   ; 0-0; TOAFC Toulouse
@@ -205,7 +205,7 @@ Date: 2/25/2005
 ; Schiltigheim   ; 1-3; La Roche
 ; Marseille FC   ; 4-6; Montpellier
 ; TOAFC Toulouse ; 3-2; Lyon
-;; St-Memmie;       5-1 Soyaux ASJ
+; St-Memmie;       5-1; Soyaux ASJ
 
 Date: 5/1/2001
 
@@ -214,7 +214,7 @@ Date: 5/1/2001
 Round: 16 
 Date: 3/4/2001
 
-;; St-Brieuc; FF  0-4 Juvisy FCF
+; St-Brieuc FF;  0-4; Juvisy FCF
 ; Lyon         ; 5-0; Soyaux ASJ
 ; Quimper 2000 ; 0-0; Schiltigheim
 ; Montpellier  ; 1-0; TOAFC Toulouse
@@ -229,13 +229,13 @@ Date: 3/11/2001
 ; Schiltigheim     ; 6-2; St-Brieuc FF
 ; Soyaux ASJ       ; 1-1; Montpellier
 ; Juvisy FCF       ; 5-1; Cormelles
-;; St-Memmie;         3-0 Lyon
+; St-Memmie;         3-0; Lyon
 
 Round: 18 
 Date: 3/25/2001
 
 ; La Roche       ; 0-4; Soyaux ASJ
-;; St-Brieuc; FF    9-3 Marseille FC
+; St-Brieuc FF;    9-3; Marseille FC
 ; Montpellier    ; 1-4; Lyon
 ; Juvisy FCF     ; 1-1; St-Memmie
 
@@ -254,7 +254,7 @@ Date: 4/1/2001
 ; Soyaux ASJ   ; 3-0; Quimper 2000
 ; Lyon         ; 3-4; La Roche
 ; TOAFC Toulouse   ; 3-1; St-Brieuc FF
-;; St-Memmie;         1-4 Montpellier
+; St-Memmie;         1-4; Montpellier
 ; Schiltigheim     ; 0-3; Juvisy FCF
 
 Round: 20 
@@ -262,7 +262,7 @@ Date: 4/22/2001
 
 ; La Roche; 2-0; Montpellier
 ; Quimper 2000; 1-3; Lyon
-;; St-Brieuc; FF 2-0 Soyaux ASJ
+; St-Brieuc FF; 2-0; Soyaux ASJ
 ; Cormelles; 1-4; TOAFC Toulouse
 ; Schiltigheim ; 1-1; St-Memmie
 ; Juvisy FCF   ; 6-0; Marseille FC
@@ -284,11 +284,11 @@ Round: 22
 Date: 5/6/2001
 
 ; Quimper 2000 ; 1-6; La Roche
-;; St-Brieuc; FF  1-2 Montpellier
+; St-Brieuc FF;  1-2; Montpellier
 ; Cormelles; 4-4; Lyon
 ; Juvisy FCF   ; 7-1; Soyaux ASJ
 ; Schiltigheim ; 1-4; TOAFC Toulouse
-;; St-Memmie;     4-1 Marseille FC
+; St-Memmie;     4-1; Marseille FC
 
 * 1.Juvisy FCF          22 17  3  2 72-26  76  Playoff
 * 2.TOAFC Toulouse      22 16  5   1 62-17  75  Playoff
@@ -308,9 +308,9 @@ Date: 5/6/2001
 *NB: Marseille 2 pts deducted 
 *Promoted: Paris St-Germain, Caluire and Tours 
 
-Championship Playoff:
+*Championship Playoff:
 
-Play-off for Championship
+*Play-off for Championship
 
 * 1.TOAFC Toulouse       3  3  0  0  6- 0  13  [ 1]  Champions
 * 2.La Roche                     3  1  1  1  2- 3   7

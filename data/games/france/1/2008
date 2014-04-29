@@ -57,13 +57,13 @@ Date: 8/31/2008
 ; FC Condé          ; 0-1; ASJ Soyaux
 ;  Marjolaine Bernard 90+3
 
-; FCF; Hénin-Beaumont; 0-3 FCF Juvisy
+; FCF Hénin-Beaumont; 0-3; FCF Juvisy
 ;  Corinne Lebailly 28, Gaétane Thiney 53, Julia Dany 88
 
-;; Paris-SG;           4-0 FC Vendenheim
+; Paris-SG;           4-0; FC Vendenheim
   Ingrid Boyeldieu 51, Ingrid Boyeldieu 70, Caroline Pizzala 53, Caroline Pizzala 79;
 
-;; Saint-Brieuc;       0-1 FF Nord Allier
+; Saint-Brieuc;       0-1; FF Nord Allier
 ;  Julie Berger 70
 
 ; Toulouse FC       ; 0-5; Olympique Lyonnais
@@ -81,7 +81,7 @@ Date: 9/7/2008
 ; Olympique Lyonnais; 2-1; Montpellier HSC
   Katia Cilene Teixeira Da Silva 30, Katia Cilene Teixeira Da Silva 82; Elodie Ramos 70
 
-; RC; Saint-Etienne;   4-1 FC Condé
+; RC Saint-Etienne;   4-1; FC Condé
   Kheira Hamraoui 18, Kheira Hamraoui 22, Kheira Hamraoui 46, Madeleine Michèle Ngono-Mani 41; Cindy Jeanson 20
 
 ; ASJ Soyaux        ; 0-3; FCF Hénin-Beaumont
@@ -93,12 +93,12 @@ Date: 9/7/2008
 Round: 4 
 Date: 9/13/2008
 
-;; Saint-Brieuc;       1-3 ASJ Soyaux
+; Saint-Brieuc;       1-3; ASJ Soyaux
   Charlotte Amaury 63; Natacha Brandy 50, Emilie Dupuis 81, Charlotte Bilbault (pk) 90+2
 
 Date: 9/14/2008
 
-; FCF; Hénin-Beaumont; 5-4 RC Saint-Etienne
+; FCF Hénin-Beaumont; 5-4; RC Saint-Etienne
   Pauline Crammer 5, Pauline Crammer 80, Ludivine Bultel 20, Ludivine Bultel 75, Candie Herbert 61; Kheira Hamraoui 11, Pauline Court 50, Ludivine Bruet 52, Delphine Blanc 85
  
 ; Olympique Lyonn. ; 12-0; FC Vendenheim
@@ -107,7 +107,7 @@ Date: 9/14/2008
 ; Montpellier HSC   ; 6-1; FC Condé
   Elodie Ramos 4, Elodie Ramos 55, Charlotte Lozé 49, Charlotte Lozé 60, Charlotte Lozé 89, Marie-Laure Delie 85; Virginie Couillard 47
 
-;; Paris-SG;           0-2 FCF Juvisy
+; Paris-SG;           0-2; FCF Juvisy
 ;  Sandrine Soubeyrand 83, Corinne Lebailly 84
 
 ; Toulouse FC       ; 1-0; FF Nord Allier
@@ -116,7 +116,7 @@ Date: 9/14/2008
 Round: 5
 Date: 9/20/2008
 
-; RC; Saint-Etienne;   5-1 Saint-Brieuc
+; RC Saint-Etienne;   5-1; Saint-Brieuc
   Kheira Hamraoui 11, Kheira Hamraoui 41, Kheira Hamraoui 46, Marjorie Beal 74, Kelly Gadea 77; Eugénie Le Sommer 79
 
 Date: 9/21/2008
@@ -144,16 +144,16 @@ Date: 10/5/2008
 
 ; Olympique Lyonnais; 0-0; FCF Juvisy
 
-;; Paris-SG;           0-0 RC Saint-Etienne
+; Paris-SG;           0-0; RC Saint-Etienne
 
-;; Saint-Brieuc;       1-2 FC Condé
+; Saint-Brieuc;       1-2; FC Condé
   Eugénie Le Sommer 47; Anne-Sophie Pain 14, Laura Pichonnier 64
 
 ; Toulouse FC       ; 2-2; ASJ Soyaux
   Fanny Tenret 59, Fanny Tenret 63; Laura Bardet 9, Charlotte Bilbault (pk) 76
 
 ; FC Vendenheim     ; 0-4; FF Nord Allier
-  Anne Sirot 10, Anne Sirot 30, Anne Sirot 75, Cynthia Gueheo-Djetou 42
+;  Anne Sirot 10, Anne Sirot 30, Anne Sirot 75, Cynthia Gueheo-Djetou 42
 
 Round: 7 
 Date: 10/12/2008
@@ -161,7 +161,7 @@ Date: 10/12/2008
 ; FC Condé          ; 5-1; Paris-SG
   Julie Morel 6, Julie Morel 39, Julie Morel 73, Laura Pichonnier 37, Virginie Couillard 61; Ingrid Boyeldieu 36
 
-; FCF; Hénin-Beaumont; 1-2 Saint-Brieuc
+; FCF Hénin-Beaumont; 1-2; Saint-Brieuc
   Candie Herbert 46; Eugénie Le Sommer 11, Isabelle Le Denmat 33
 
 ; FCF Juvisy        ; 2-1; FC Vendenheim
@@ -170,7 +170,7 @@ Date: 10/12/2008
 ; FF Nord Allier    ; 0-1; Montpellier HSC
 ;  Marie-Laure Delie 51
 
-; RC; Saint-Etienne;   0-2 Toulouse FC
+; RC Saint-Etienne;   0-2; Toulouse FC
 ;  Delphine Chatelin 22, Fanny Tenret 63
 
 Date: 10/26/2008
@@ -192,7 +192,7 @@ Date: 10/19/2008
 ; Olympique Lyonnais; 6-3; RC Saint-Etienne
   Katia Cilene Teixeira Da Silva 23, Katia Cilene Teixeira Da Silva 68, Katia Cilene Teixeira Da Silva 83, Katia Cilene Teixeira Da Silva 90+3, Elodie Thomis 39, Camille Abily 58; Kheira Hamraoui 9, Maéva Clemaron 74, Aurélie Naud 79
 
-;; Paris-SG;           3-5 FCF Hénin-Beaumont
+; Paris-SG;           3-5; FCF Hénin-Beaumont
   Ingrid Boyeldieu 3, Ingrid Boyeldieu 20, Madina Frarma 68; Candie Herbert 4, Marie Gosse 18, Rachel Saïdi 25, Rachel Saïdi 30, Laurie Dacquigny 90+3
 
 ; Toulouse FC       ; 7-1; FC Condé
@@ -207,16 +207,16 @@ Date: 11/2/2008
 ; FC Condé          ; 0-9; Olympique Lyonnais
 ; Charlotta Schelin 2, Charlotta Schelin 20, Katia Cilene Teixeira Da Silva 25, Katia Cilene Teixeira Da Silva 39, Camille Abily 31, Sandrine Brétigny 57, Sandrine Brétigny 82, Elodie Thomis 63,Shirley Cruz-Trana 85
 
-; FCF; Hénin-Beaumont; 2-2 Toulouse FC
+; FCF Hénin-Beaumont; 2-2; Toulouse FC
   Marie Gosse 45, Julie Deveber 90+3; Marie-Pierre Castera 34, Marie-Pierre Castera 36
 
 *FCF Juvisy         awd Montpellier HSC       [awarded 3-0; originally
 *  [Peggy Provost 14;                          1-2, Montpellier fielded
 *   Elodie Ramos 17, Marine Pervier 44]        ineligible player]
 
-;; Saint-Brieuc;       0-0 Paris-SG
+; Saint-Brieuc;       0-0; Paris-SG
 
-; RC; Saint-Etienne;   3-2 FC Vendenheim
+; RC Saint-Etienne;   3-2; FC Vendenheim
   Marjorie Beal 24, Marjorie Beal 31, Madeleine Michèle Ngono Mani 80; Angélique Remetter 49, Joanna Schwartz 53
 
 ; ASJ Soyaux        ; 1-3; FF Nord Allier
@@ -248,7 +248,7 @@ Date: 1/4/2009
 Round: 11 
 Date: 1/10/2009
 
-;; Saint-Brieuc;       0-5 Olympique Lyonnais
+; Saint-Brieuc;       0-5; Olympique Lyonnais
 ;  Katia Cilene Teixeira Da Silva 22, Charlotta Schelin 37, Louisa Necib 51, Louisa Necib 88, Camille Abily 68
 
 Date: 1/11/2009
@@ -261,13 +261,13 @@ Date: 2/1/2009
 ; FC Condé          ; 0-3; FF Nord Allier
 ;  Anne Sirot 25, Cynthia Gueheo-Djetou 75, Julie Berger 78
 
-; FCF; Hénin-Beaumont; 1-1 FC Vendenheim
+; FCF Hénin-Beaumont; 1-1; FC Vendenheim
   Aurélie Desmaretz 80; Anaïs Schreiber 67
 
-;; Paris-SG;           2-0 Toulouse FC
+; Paris-SG;           2-0; Toulouse FC
   Stéphanie Hoffele 52, Laure Lepailleur 78;
 
-; RC; Saint-Etienne;   2-2 FCF Juvisy
+; RC Saint-Etienne;   2-2; FCF Juvisy
   Delphine Blanc 49, Kelly Gadea 86; Nelly Guilbert 63, Laetitia Tonazzi 70
 
 Round: 12 
@@ -284,7 +284,7 @@ Date: 1/18/2009
 
 Date: 2/22/2009
 
-; RC; Saint-Etienne;   2-4 Montpellier HSC 
+; RC Saint-Etienne;   2-4; Montpellier HSC 
   Madeleine Michèle Ngono Mani, Kelly Gadea 42; Hoda Lattaf 5, Marie-Laure Delie 31, Ludivine Diguelman 62, Elodie Ramos 89
 
 Date: 3/29/2009
@@ -299,18 +299,18 @@ Date: 4/12/2009
 Round: 13 
 Date: 1/24/2009
 
-; FCF; Hénin-Beaumont; 3-2 ASJ Soyaux
-  Aurélie Desmaretz 49, Candie Herbert 67, 80; Marjolaine Bernard 6, Emilie Dupuis 38
+; FCF Hénin-Beaumont; 3-2; ASJ Soyaux
+  Aurélie Desmaretz 49, Candie Herbert 67, Candie Herbert 80; Marjolaine Bernard 6, Emilie Dupuis 38
 
 Date: 1/25/2009
 
 ; Montpellier HSC   ; 1-2; Olympique Lyonnais 
   Elodie Ramos 62; Shirley Cruz-Trana 12, Camille Abily 82
 
-;; Paris-SG;           3-0 FF Nord Allier
+; Paris-SG;           3-0; FF Nord Allier
   Caroline Pizzala 44, Caroline Pizzala (pk) 71, Caroline Pizzala (pk) 74;
  
-;; Saint-Brieuc;       0-3 FCF Juvisy
+; Saint-Brieuc;       0-3; FCF Juvisy
 ; Laetitia Tonazzi 23, Laetitia Tonazzi 26, Laetitia Tonazzi 45
  
 
@@ -336,7 +336,7 @@ Date: 2/8/2009
 ; FF Nord Allier    ; 1-1; Toulouse FC 
   Cynthia Gueheo-Djetou 24; Fanny Tenret 64
 
-; RC; Saint-Etienne;   2-1 FCF Hénin-Beaumont
+; RC Saint-Etienne;   2-1; FCF Hénin-Beaumont
   Delphine Blanc 9, Madeleine Michèle Ngono-Mani 27; Pauline Crammer 57
 
 ; ASJ Soyaux        ; 0-1; Saint-Brieuc 
@@ -348,11 +348,11 @@ Date: 2/8/2009
 Round: 15 
 Date: 2/28/2009
 
-;; Saint-Brieuc;       0-0 RC Saint-Etienne
+; Saint-Brieuc;       0-0; RC Saint-Etienne
 
 Date: 3/1/2009
 
-; FCF; Hénin-Beaumont; 4-2 FC Condé
+; FCF Hénin-Beaumont; 4-2; FC Condé
   Candie Herbert 17, Candie Herbert 22, Candie Herbert 60, Gwendoline Rossi 44; Julie Deveber (og) 46, Virginie Couillard 58
 
 ; Olympique Lyonnais; 6-0; FF Nord Allier
@@ -361,7 +361,7 @@ Date: 3/1/2009
 ; Montpellier HSC   ; 3-1; FC Vendenheim 
   Elodie Ramos 3, Charlotte Lozé 15, Nadia Bouteldja (og) 48;  Angélique Remetter 65
 
-;; Paris-SG;           1-0 ASJ Soyaux 
+; Paris-SG;           1-0; ASJ Soyaux 
   Nonna Debonne 64;
 
 ; Toulouse FC       ; 1-3; FCF Juvisy
@@ -373,7 +373,7 @@ Date: 3/22/2009
 ; FC Condé          ; 0-1; Saint-Brieuc 
 ; Camille Raulet 64
 
-; FCF; Hénin-Beaumont; 1-3 Montpellier HSC
+; FCF Hénin-Beaumont; 1-3; Montpellier HSC
   Pauline Crammer 36; Charlotte Lozé (pk) 47, Hoda Lattaf 52, Elodie Ramos 67
  
 ; FCF Juvisy        ; 1-4; Olympique Lyonnais
@@ -382,7 +382,7 @@ Date: 3/22/2009
 ; FF Nord Allier    ; 4-0; FC Vendenheim 
   Anne Sirot 51, Anne Sirot 66, Cynthia Gueheo-Djetou 88, Julie Berger 90+1;
 
-; RC; Saint-Etienne;   2-0 Paris-SG
+; RC Saint-Etienne;   2-0; Paris-SG
   Marina Makanza 22, Kheira Hamraoui 41;
 
 ; ASJ Soyaux        ; 1-1; Toulouse FC
@@ -394,10 +394,10 @@ Date: 4/5/2009
 ; Montpellier HSC   ; 3-0; FF Nord Allier 
   Marie-Laure Delie 25, Marie-Laure Delie 30, Marie-Laure Delie 77;
 
-;; Paris-SG;           4-0 FC Condé
+; Paris-SG;           4-0; FC Condé
   Cindy Thomas 7, Cindy Thomas 69, Cindy Thomas 85, Candice Prévost 22;
 
-;; Saint-Brieuc;       4-2 FCF Hénin-Beaumont
+; Saint-Brieuc;       4-2; FCF Hénin-Beaumont
   Eugenie Le Sommer 35, Eugenie Le Sommer (pk) 79, Camille Raulet 47, Marine Blin 90; Pauline Crammer 17, Candie Herbert (pk) 86
  
 ; Toulouse FC       ; 3-1; RC Saint-Etienne 
@@ -409,12 +409,12 @@ Date: 4/5/2009
 Date: 5/17/2009
 
 ; Olympique Lyonnais; 7-0; ASJ Soyaux
-  Katia Cilene Teixeira Da Silva 16, Katia Cilene Teixeira Da Silva 52, Elodie Thomis 33, Charlotta Schelin 41, Charlotta Schelin 49, Charlotta Schelin 56, Louisa Necib 62
+  Katia Cilene Teixeira Da Silva 16, Katia Cilene Teixeira Da Silva 52, Elodie Thomis 33, Charlotta Schelin 41, Charlotta Schelin 49, Charlotta Schelin 56, Louisa Necib 62;
  
 Round: 18 
 Date: 4/18/2009
 
-; FCF; Hénin-Beaumont; 2-0 Paris-SG
+; FCF Hénin-Beaumont; 2-0; Paris-SG
   Julie Debever 41, Pauline Crammer 70;
  
 Date: 4/19/2009
@@ -425,10 +425,10 @@ Date: 4/19/2009
 ; FCF Juvisy        ; 1-1; FF Nord Allier 
   Elodie Crétier 66; Sarah Chalabi 80
 
-;; Saint-Brieuc;       0-3 Montpellier HSC
+; Saint-Brieuc;       0-3; Montpellier HSC
 ; Elodie Ramos (pk) 25, Marie-Laure Delie 41, Hoda Lattaf 55
   
-; RC; Saint-Etienne;   1-4 Olympique Lyonnais
+; RC Saint-Etienne;   1-4; Olympique Lyonnais
   Kelly Gadea 66; Elodie Thomis 13, Charlotta Schelin 88, Katia Cilene Teixeira Da Silva 89, Shirley Cruz-Trana 90+3
     
 ; ASJ Soyaux        ; 0-0; FC Vendenheim 
@@ -444,7 +444,7 @@ Date: 5/3/2009
 ; Olympique Lyonnais; 4-1; FC Condé
   Elodie Thomis 9, Elodie Thomis 76, Elodie Thomis 90+3, Wendie Renard 44; Julie Morel 90+1
 
-;; Paris-SG;           1-1 Saint-Brieuc 
+; Paris-SG;           1-1; Saint-Brieuc 
   Nora Coton-Pelagie 21; Eugénie Le Sommer (pk) 70
 
 ; Toulouse FC       ; 2-4; FCF Hénin-Beaumont  
@@ -456,10 +456,10 @@ Date: 5/3/2009
 Round: 20 
 Date: 5/9/2009
 
-; FCF; Hénin-Beaumont; 0-5 Olympique Lyonnais
+; FCF Hénin-Beaumont; 0-5; Olympique Lyonnais
 ; Amandine Henry (pk) 34, Louisa Necib 39, Louisa Necib 67, Katia Cilene Teixeira Da Silva 74, Elodie Thomis 80
 
-;; Saint-Brieuc;       5-2 Toulouse FC 
+; Saint-Brieuc;       5-2; Toulouse FC 
   Camille Raulet 18, Isabelle Le Denmat 38, Isabelle Le Denmat 41, Salma Amani 58, Salma Amani 84; Manon Rouzies 42, Fanny Tenret 70
 
 
@@ -468,10 +468,10 @@ Date: 5/10/2009
 ; FC Condé          ; 3-0; FC Vendenheim 
   Virginie Couillard 15, Virginie Couillard 43, Julie Morel 39;
 
-;; Paris-SG;           1-1 Montpellier HSC
+; Paris-SG;           1-1; Montpellier HSC
   Candice Prévost 53; Marie-Laure Delie 56
 
-; RC; Saint-Etienne;   2-2 FF Nord Allier
+; RC Saint-Etienne;   2-2; FF Nord Allier
   Camille Catala 52, Marina Makanza 62; Emilie Gonssolin 20, Coralie Belin 51
 
 ; ASJ Soyaux        ; 2-3; FCF Juvisy
@@ -504,18 +504,18 @@ Date: 5/31/2009
 ; FC Condé          ; 1-2; FCF Juvisy
   Cindy Jeanson 66; Sandrine Soubeyrand 87, Sandrine Soubeyrand 90+1
  
-; FCF; Hénin-Beaumont; 3-1 FF Nord Allier
+; FCF Hénin-Beaumont; 3-1; FF Nord Allier
   Laurie Dacquigny 8, Rachel Saïd 44, Pauline Crammer 76; Caroline Dolo 24
   
 ; Montpellier HSC   ; 4-0; Toulouse FC 
   Marie-Laure Delie 16, Elodie Ramos 40, Elodie Ramos 47, Elodie Ramos 67;
  
-;; Paris-SG;           0-2 Olympique Lyonnais
+; Paris-SG;           0-2; Olympique Lyonnais
 ;  Charlotta Schelin 57, Ingvid Stensland 84
 
-*;; Saint-Brieuc;       awd FC Vendenheim         [awarded 3-0; Vendenheim dns]
+*; Saint-Brieuc;       awd FC Vendenheim         [awarded 3-0;; Vendenheim dns]
 
-; RC; Saint-Etienne;   4-2 ASJ Soyaux 
+; RC Saint-Etienne;   4-2; ASJ Soyaux 
   Madeleine Michèle Ngono Mani 68, Madeleine Michèle Ngono Mani 85; Marjorie Lacroix 62, Gladys Boilard 88
 
 

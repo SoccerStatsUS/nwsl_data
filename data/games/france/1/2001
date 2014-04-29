@@ -25,7 +25,7 @@ Date: 9/9/2001
 ; La Roche    ; 1-3; Lyon
   Charlotte Bouffandeau 74; Séverine Creuzet 21, Séverine Creuzet (pk) 60, Emmanuelle Sykora 46
 
-;; Saint-Memmie; 2-1 Saint-Brieuc
+; Saint-Memmie; 2-1; Saint-Brieuc
   Marinette Pichon (pk) 11, Marinette Pichon 55; Sandra Anger 14
 
 ; Paris       ; 0-0; Toulouse
@@ -45,12 +45,12 @@ Date: 9/15/2001
 ; Schiltigheim; 3-2; Tours
   Séverine Goulois 55, Séverine Goulois 66, Jeanne Haag (pk) 85; Laëtitia Brinet 5, Noémie Grillot 57
 
-;; Saint-Brieuc; 4-3 Lyon
+; Saint-Brieuc; 4-3; Lyon
   Sandra Anger 10, Sandra Anger 44, Isabelle Le Denmat 32, Isabelle Le Denmat 77; Séverine Creuzet 54, Séverine Creuzet 79, Sandrine Terrasse 86
 
 Date: 9/16/2001
 
-;; Saint-Memmie; 5-1 Caluire
+; Saint-Memmie; 5-1; Caluire
   Marinette Pichon 48, Marinette Pichon 55, Marinette Pichon 87, Gaëtane Thiney 73, Laëtitia Gravier 86; Sandrine Chalamel 15
 
 ; Soyaux      ; 3-2; Paris
@@ -60,7 +60,7 @@ Date: 9/16/2001
   Laurence Richoux 6, Stéphanie Mugneret-Beghé 27, Stéphanie Mugneret-Beghé 30, Laëtitia Tonazzi 67; Hoda Lattaf 13, Hoda Lattaf 32, Virginie Faisandier 33, Ludivine Diguelman 40
 
 ; Toulouse    ; 5-0; La Roche
-  Mélanie Briche 6, Mélanie Briche 8, Gaëlle Maugeais 43, Karine Pavailler 58, Gaëlle Blouin (pk) 81
+  Mélanie Briche 6, Mélanie Briche 8, Gaëlle Maugeais 43, Karine Pavailler 58, Gaëlle Blouin (pk) 81;
 
 Round: 3
 Date: 9/22/2001
@@ -91,7 +91,7 @@ Date: 9/29/2001
 ; Soyaux      ; 3-0; Lyon
   Candie Herbert 19, Candie Herbert 41, Adeline Vigné 75;
 
-;; Saint-Brieuc; 0-3 Toulouse
+; Saint-Brieuc; 0-3; Toulouse
 ;  Mélanie Briche 22, Gaëlle Blouin 27, Lilas Traïkia 79
 
 Date: 9/30/2001
@@ -105,7 +105,7 @@ Date: 9/30/2001
 ; Caluire     ; 0-3; Tours
 ;  Noémie Grillot 4, Claudette Brasseleur 53, Claudette Brasseleur 59
 
-;; Saint-Memmie; 3-4 Montpellier
+; Saint-Memmie; 3-4; Montpellier
   Déborah Jeannet 6, Marinette Pichon (pk) 45, Marinette Pichon 80; Agathe Calvié 12, Ludivine Diguelman 14, Hoda Lattaf 23, Hoda Lattaf 30
 
 Round: 5
@@ -118,7 +118,7 @@ Date: 10/7/2001
   Valérie Dodille 25; Sandrine Soubeyrand 44, Laëtitia Tonazzi 57, Laurence Richoux 90
 
 ; Montpellier ; 8-0; Caluire
-  Virginie Barbié 19, Virginie Barbié 59, Hoda Lattaf 23, Hoda Lattaf 38, Hoda Lattaf 50, Hoda Lattaf 83, Virginie Faisandier 44, Sarah M’Barek 79
+  Virginie Barbié 19, Virginie Barbié 59, Hoda Lattaf 23, Hoda Lattaf 38, Hoda Lattaf 50, Hoda Lattaf 83, Virginie Faisandier 44, Sarah M’Barek 79;
 
 ; Paris       ; 3-0; Saint-Memmie
   Ingrid Boyeldieu 26, Ingrid Boyeldieu 50, Béatrice Basse 39;
@@ -146,10 +146,10 @@ Date: 10/21/2001
 ; Caluire     ; 0-1; Paris
 ;  Florence Freyermuth 22
 
-;; Saint-Brieuc; 2-2 Soyaux
+; Saint-Brieuc; 2-2; Soyaux
   Véronique Chasles 20, Sonia Haziraj (pk) 90; Emilie Dos Santos 1, Aurore Rougeon 40
 
-;; Saint-Memmie; 5-1 La Roche
+; Saint-Memmie; 5-1; La Roche
   Déborah Jeannet 2, Déborah Jeannet 20, Elodie Jacq (og) 15, Marinette Pichon 44, Elise Bussaglia 89; Lydie Devaud (pk) 58
 
 Round: 7
@@ -192,10 +192,10 @@ Date: 11/11/2001
 ; Caluire     ; 0-1; Lyon
 ;  Carole Granjon 18
 
-;; Saint-Brieuc; 1-1 Juvisy
+; Saint-Brieuc; 1-1; Juvisy
   Mériame Ben Abdelwahab 44; Stéphanie Mugneret-Beghé 62
 
-;; Saint-Memmie; 3-1 Toulouse
+; Saint-Memmie; 3-1; Toulouse
   Déborah Jeannet 37, Marinette Pichon 61, Marinette Pichon 69; Sabrina Viguier 60
 
 Round: 9
@@ -208,7 +208,7 @@ Date: 11/25/2001
 ; Hoda Lattaf (pk) 22, Virginie Faisandier 72
 
 ; Toulouse    ; 9-0; Caluire
-  Karine Pavailler 10, Karine Pavailler 25, Karine Pavailler 29, Karine Pavailler 75, Elodie Woock 42, Caroline Bouscatel 50, Caroline Bouscatel 58, Caroline Bouscatel 88, Marie Cizac 90
+  Karine Pavailler 10, Karine Pavailler 25, Karine Pavailler 29, Karine Pavailler 75, Elodie Woock 42, Caroline Bouscatel 50, Caroline Bouscatel 58, Caroline Bouscatel 88, Marie Cizac 90;
 
 ; Paris       ; 0-2; Saint-Brieuc
 ; Sonia Haziraj 35, Sonia Haziraj 77
@@ -228,7 +228,7 @@ Date: 12/1/2001
 ; Tours       ; 1-3; Toulouse
   Noémie Grillot 43; Gaëlle Blouin 12, Mélanie Briche 30, Mélanie Briche 32
 
-;; Saint-Brieuc; 2-2 Schiltigheim
+; Saint-Brieuc; 2-2; Schiltigheim
   Sonia Haziraj 18, Sandra Anger 64; Elodie Ramos 41, Elodie Ramos 75
 
 Date: 12/2/2001
@@ -238,7 +238,7 @@ Date: 12/2/2001
 
 ; Paris       ; 0-0; La Roche
 
-;; Saint-Memmie; 0-3 Juvisy
+; Saint-Memmie; 0-3; Juvisy
 ;  Laëtitia Tonazzi 8, Valérie Jacques 85, Laurence Richoux 88
 
 Round: 11
@@ -259,7 +259,7 @@ Date: 12/9/2001
 ; Schiltigheim; 1-4; Saint-Memmie
   Stéphanie Trognon 41; Gaëtane Thiney 2, Marinette Pichon 15, Marinette Pichon 42, Marinette Pichon (pk) 58
 
-;; Saint-Brieuc; 0-2 La Roche
+; Saint-Brieuc; 0-2; La Roche
 ;  Sonia Bompastor 66, Alexandra Guiné 81
 
 Round: 12
@@ -285,7 +285,7 @@ Date: 1/19/2002
 Round: 13
 Date: 1/26/2002
 
-;; Saint-Brieuc; 4-0 Caluire
+; Saint-Brieuc; 4-0; Caluire
   Sophie Rissoan 43, Françoise Jézéquel 69, Sonia Haziraj 83, Sonia Haziraj 88;
 
 Date: 1/27/2002
@@ -293,7 +293,7 @@ Date: 1/27/2002
 ; Juvisy      ; 2-0; Paris
   Sandrine Soubeyrand 66, Laurence Richoux 86;
 
-;; Saint-Memmie; 1-1 Tours
+; Saint-Memmie; 1-1; Tours
   Marinette Pichon 68; Elodie Prat 83
 
 ; Soyaux      ; 2-0; La Roche
@@ -339,11 +339,11 @@ Date: 2/10/2002
 ; Caluire     ; 1-7; Montpellier
   Astrid Lagrevol 37; Béatrice Bulteau (og) 6, Virginie Faisandier 14, Hoda Lattaf 27, Hoda Lattaf 53, Hoda Lattaf 87, Sarah M’Barek 59, Julie Duriez 83
 
-;; Saint-Memmie; 1-4 Paris
+; Saint-Memmie; 1-4; Paris
   Marinette Pichon 48; Cindy Robinson 32, Cindy Robinson 39, Stéphanie Hoffele 73, Ingrid Boyeldieu 90
 
-;; Saint-Brieuc; 6-0 Tours
-  Séverine Lecouflé 28, Sonia Haziraj (pk) 37, Sonia Haziraj 45, Véronique Chasles 39, Sandra Anger 57, Patricia Giroux 90
+; Saint-Brieuc; 6-0; Tours
+  Séverine Lecouflé 28, Sonia Haziraj (pk) 37, Sonia Haziraj 45, Véronique Chasles 39, Sandra Anger 57, Patricia Giroux 90;
 
 ; Soyaux      ; 1-2; Toulouse
   Candie Herbert 55; Mélanie Briche 44, Sandrine Rouquet 84
@@ -366,7 +366,7 @@ Date: 2/24/2002
   Aurore Rougeon 86; Véronique Chasles 43, Séverine Lecouflé 73
 
 ; Paris       ; 6-0; Caluire
-  Ingrid Boyeldieu 2, Ingrid Boyeldieu 43, Ingrid Boyeldieu 72, Béatrice Basse 20, Béatrice Basse 67, Laure Dupont 89
+  Ingrid Boyeldieu 2, Ingrid Boyeldieu 43, Ingrid Boyeldieu 72, Béatrice Basse 20, Béatrice Basse 67, Laure Dupont 89;
 
 ; Lyon        ; 2-1; Schiltigheim
   Jeanne Haag (og) 20, Stéphanie Wendlinger (og) 56; Elodie Ramos 37
@@ -377,7 +377,7 @@ Date: 2/24/2002
 Round: 17
 Date: 3/3/2002
 
-;; Saint-Memmie; 2-4 Lyon
+; Saint-Memmie; 2-4; Lyon
   Stéphanie Morel 15, Flavie Périnet 77; Virginie Dessalle 4, Séverine Creuzet 26, Cécile Locatelli 35, Valérie Dodille 90
 
 ; Caluire     ; 1-3; La Roche
@@ -389,7 +389,7 @@ Date: 3/3/2002
 ; Juvisy      ; 2-1; Soyaux
   Virginie Bourdille 27, Laëtitia Tonazzi 90+1; Aurore Rougeon 37
 
-;; Saint-Brieuc; 3-0 Montpellier
+; Saint-Brieuc; 3-0; Montpellier
   Séverine Lecouflé 20, Séverine Lecouflé 90, Sonia Haziraj 49;
 
 Date: 3/10/2002
@@ -428,10 +428,10 @@ Date: 4/13/2002
 
 Date: 4/14/2002
 
-;; Saint-Brieuc; 2-2 Paris
+; Saint-Brieuc; 2-2; Paris
   Françoise Jézéquel (pk) 35, Sophie Rissoan 85; Ingrid Boyeldieu 30, Ingrid Boyeldieu 90+4
 
-;; Saint-Memmie; 0-0 Soyaux
+; Saint-Memmie; 0-0; Soyaux
 
 ; Schiltigheim; 0-3; Juvisy
 ; Laëtitia Tonazzi 7, Laëtitia Tonazzi 58, Virginie Bourdille 74
@@ -474,7 +474,7 @@ Date: 5/4/2002
 ; La Roche    ; 3-0; Saint-Brieuc
   Charlotte Bouffandeau 37, Charlotte Bouffandeau 66, Alexandra Guiné 77;
 
-;; Saint-Memmie; 0-0 Schiltigheim
+; Saint-Memmie; 0-0; Schiltigheim
 
 ; Caluire     ; 2-5; Juvisy
   Stéphanie Lambert (pk) 45, Farrah Nefjai 84; Sandra Chatoux 17, Virginie Bourdille 43, Virginie Bourdille 60, Nelly Guilbert 87, Isabelle Richant 89
@@ -488,7 +488,7 @@ Date: 5/4/2002
 Date: 5/19/2002
 
 ; Montpellier ; 1-0; Toulouse
-  Hoda Lattaf (pk) 19
+  Hoda Lattaf (pk) 19;
 
 Round: 22
 Date: 5/18/2002
@@ -498,7 +498,7 @@ Date: 5/18/2002
 
 Date: 5/26/2002
 
-;; Saint-Brieuc; 0-0 Saint-Memmie
+; Saint-Brieuc; 0-0; Saint-Memmie
 
 ; Juvisy      ; 3-0; Tours
   Lydie Perraudeau 11, Peggy Provost 40, Sandra Chatoux 80;
@@ -543,83 +543,82 @@ Date: 5/26/2002
 *   Aurore ROUGEON (Soyaux)
 
 
-Final Tournament
-                                               Pts Bonus
+*Final Tournament
+*                                               Pts Bonus
 * 1.Toulouse FC               3  3  0  0   8- 1 14    2  Champions, UEFA Women’s Cup
 * 2.Juvisy FCF                3  2  0  1   7- 6 12    3
 * 3.Lyon Féminin FC           3  1  0  2   3- 6  7    1
 * 4.Montpellier-Hérault SC    3  0  0  3   2- 7  3    0
 
-Round: 1
-[June 8, Toulouse (Stade des Fontaines)]
-  TOULOUSE – MONTPELLIER : 3-0 (2-0)
-  Referees: Karine Vives Solana; Thierry Laforge, Jérôme Bertocco
-  Scorers: Traïkia 3, Marie-Ange Kramo 45, Rouquet 60
-  Toulouse: C.Marty; Boyer, Viguier, Monicolle, Woock, Blouin, C.Bonnet (Maugeais 73),
-  M.A.Kramo, Traïkia, Pavailler (Saïdi 79), Rouquet (Briche 71). Coach: J?P.Bonnet
-  Montpellier: Hanous; Coste (Rigal 79), Sarran, Lacaze (Duriez 56), Lopès, Calvié
-  (Bresson 79), M'Barek, Barbié, Lattaf, Faisandier, Diguelman. Coach: S.Arnaud
-[June 9, Viry-Chatillon (Stade Georges Maquin)]
-  JUVISY   – LYON        : 3-2 (1-1)
-  Attendance: 300
-  Referees: Sabine Louiset; Mohamed Hachid, Brahima Coulibaly
-  Scorers: Jacques 2, Guilbert 65, Soubeyrand 85; Sykora 1* & 47
-  Juvisy: Perraudeau; Guilbert, Riéra, Soubeyrand, Provost, Guyennot, Mugneret-Beghé,
-  Cousset (Antonini 64), Bourdille (Chatoux 83), Jacques, Tonazzi. Coach: J-C. Daix
-  Lyon: Pégaz; Pelé (Burlat 90+1), Grangeon, Locatelli, Casseleux, Granjon (Dodille 77),
-  Perrot (Bruet 90+1), Dessalle, Sykora, Creuzet, Brétigny. Coach: F.Benstiti
-[*Sykora scored after just 5 seconds!]
-
-Round: 2
-[June 22, Lyon (Stade Georges Vuillermet)]
-  LYON     - MONTPELLIER : 1-0 (1-0)
-  Attendance: 100
-  Referees: Maude Barnay; Michel Dolmadjian, Eric Monteilhet
-  In the second half: Michel Dolmadjian; Eric Monteilhet, Damir Yvankic
-  Scorer: Creuzet 17
-  Lyon: Pégaz; Pelé (Casseleux 58), Grangeon, Locatelli, Burlat, Sykora, Dessalle,
-  Bruet, Granjon (Dodille 78), Brétigny (Perrot 81), Creuzet. Coach: F.Benstiti
-  Montpellier: Hanous; Coste, M’Barek, Lacaze (Dura 87), Diguelman, Bresson, Calvié,
-  Sarran (Tenim 82), Faisandier, Kubiak (Duriez 78), Lattaf. Coach: S.Arnaud
-[June 23, Viry-Chatillon (Stade Georges Maquin)]
-  JUVISY   - TOULOUSE    : 1-2 (1-0)
-  Attendance: 500
-  Referees: Sarah Girard-Fautrel; Yann Billaux, Saïd Basmih
-  Scorers: Guilbert 11; Woock 48, Soubeyrand (og) 58
-  Yellow cards: Mugneret-Beghé 36, Soubeyrand 64, Riéra 68; Boyer 90+4
-  Juvisy: Perraudeau; Guilbert, Riéra, Soubeyrand, Provost, Guyennot, Mugneret-Beghé,
-  Chatoux (Antonini 61), Bourdille, Jacques, Tonazzi (Soulet 90+4). Coach: J-C.Daix
-  Toulouse: C.Marty; Boyer, Viguier, Woock, Monicolle, M.A.Kramo, Blouin, C.Bonnet,
-  Pavailler, Traïkia, Rouquet (Maugeais 85). Coach: J-P.Bonnet
-
-Round: 3
-[June 30, La Grande Motte (Stade Jacques Robert)]
-  MONTPELLIER – JUVISY   : 2-3 (1-1)
-  Attendance: 70
-  Referees: Gilles Bastos; Stephan De Felice, Stephan Pignatelli
-  Scorers: Lattaf 15, Soubeyrand (og) 64; Provost 39, Jacques 47, Soubeyrand 86
-  Yellow cards: Lacaze 48; Bourdille 39, Soubeyrand 86
-  Red card: Daix (trainer) 42
-  Montpellier: Hanous; Coste (Rigal 62), Lopes, Lacaze, Diguelman, Bresson (Duriez 85),
-  Calvié, Sarran, Faisandier, Kubiak (Temim 76), Lattaf. Coach: S.Arnaud.
-  Juvisy: Capy; Guilbert, Riéra, Soubeyrand, Provost, Guyennot (Cousset 88), Mugneret-Beghé,
-  Perraudeau (Antonini 75), Bourdille (Chatoux 75), Jacques, Tonazzi. Coach: J-C. Daix
-[June 30, Toulouse (Stade des Fontaines)]
-  TOULOUSE – LYON        : 3-0 (0-0)
-  Referees: Sandra Renon; Nicolas Dedieu, Jean-Marc Palma
-  Scorers: Rouquet 67, 71, Blouin 75
-  Yellow cards: Viguier 30; Granjon 59
-  Toulouse: C.Marty; Boyer, Viguier, Woock, Monicolle, Blouin (Saïdi 74), C.Bonnet,
-  M.A.Kramo, Pavailler, Traïkia (Briche 70), Rouquet (Maugeais 74). Coach: J-P.Bonnet
-  Lyon: Pegaz; Burlat (Chevreton 46), Locatelli, Grangeon, Casseleux, Dessalle, Bruet,
-  Granjon, Sykora (Nigon 71), Creuzet, Brétigny (C.Morel 77). Coach: F.Benstiti.
-
-Final Table :
-                                               Pts Bonus
- 1.Toulouse FC               3  3  0  0   8- 1 14    2  Champions, UEFA Women’s Cup
- 2.Juvisy FCF                3  2  0  1   7- 6 12    3
- 3.Lyon Féminin FC           3  1  0  2   3- 6  7    1
- 4.Montpellier-Hérault SC    3  0  0  3   2- 7  3    0
+*Round: 1
+*[June 8, Toulouse (Stade des Fontaines)]
+*  TOULOUSE – MONTPELLIER : 3-0 (2-0)
+*  Referees: Karine Vives Solana; Thierry Laforge, Jérôme Bertocco
+*  Scorers: Traïkia 3, Marie-Ange Kramo 45, Rouquet 60
+*  Toulouse: C.Marty; Boyer, Viguier, Monicolle, Woock, Blouin, C.Bonnet (Maugeais 73),
+*  M.A.Kramo, Traïkia, Pavailler (Saïdi 79), Rouquet (Briche 71). Coach: J?P.Bonnet
+*  Montpellier: Hanous; Coste (Rigal 79), Sarran, Lacaze (Duriez 56), Lopès, Calvié
+*  (Bresson 79), M'Barek, Barbié, Lattaf, Faisandier, Diguelman. Coach: S.Arnaud
+*[June 9, Viry-Chatillon (Stade Georges Maquin)]
+*  JUVISY   – LYON        : 3-2 (1-1)
+*  Attendance: 300
+*  Referees: Sabine Louiset; Mohamed Hachid, Brahima Coulibaly
+*  Scorers: Jacques 2, Guilbert 65, Soubeyrand 85; Sykora 1* & 47
+*  Juvisy: Perraudeau; Guilbert, Riéra, Soubeyrand, Provost, Guyennot, Mugneret-Beghé,
+*  Cousset (Antonini 64), Bourdille (Chatoux 83), Jacques, Tonazzi. Coach: J-C. Daix
+*  Lyon: Pégaz; Pelé (Burlat 90+1), Grangeon, Locatelli, Casseleux, Granjon (Dodille 77),
+*  Perrot (Bruet 90+1), Dessalle, Sykora, Creuzet, Brétigny. Coach: F.Benstiti
+*[*Sykora scored after just 5 seconds!]
+*
+*Round: 2
+*[June 22, Lyon (Stade Georges Vuillermet)]
+*  LYON     - MONTPELLIER : 1-0 (1-0)
+*  Attendance: 100
+*  Referees: Maude Barnay; Michel Dolmadjian, Eric Monteilhet
+*  In the second half: Michel Dolmadjian; Eric Monteilhet, Damir Yvankic
+*  Scorer: Creuzet 17
+*  Lyon: Pégaz; Pelé (Casseleux 58), Grangeon, Locatelli, Burlat, Sykora, Dessalle,
+*  Bruet, Granjon (Dodille 78), Brétigny (Perrot 81), Creuzet. Coach: F.Benstiti
+*  Montpellier: Hanous; Coste, M’Barek, Lacaze (Dura 87), Diguelman, Bresson, Calvié,
+*  Sarran (Tenim 82), Faisandier, Kubiak (Duriez 78), Lattaf. Coach: S.Arnaud
+*[June 23, Viry-Chatillon (Stade Georges Maquin)]
+*  JUVISY   - TOULOUSE    : 1-2 (1-0)
+*  Attendance: 500
+*  Referees: Sarah Girard-Fautrel; Yann Billaux, Saïd Basmih
+*  Scorers: Guilbert 11; Woock 48, Soubeyrand (og) 58
+*  Yellow cards: Mugneret-Beghé 36, Soubeyrand 64, Riéra 68; Boyer 90+4
+*  Juvisy: Perraudeau; Guilbert, Riéra, Soubeyrand, Provost, Guyennot, Mugneret-Beghé,
+*  Chatoux (Antonini 61), Bourdille, Jacques, Tonazzi (Soulet 90+4). Coach: J-C.Daix
+*  Toulouse: C.Marty; Boyer, Viguier, Woock, Monicolle, M.A.Kramo, Blouin, C.Bonnet,
+*  Pavailler, Traïkia, Rouquet (Maugeais 85). Coach: J-P.Bonnet
+*
+*Round: 3
+*[June 30, La Grande Motte (Stade Jacques Robert)]
+*  MONTPELLIER – JUVISY   : 2-3 (1-1)
+*  Attendance: 70
+*  Referees: Gilles Bastos; Stephan De Felice, Stephan Pignatelli
+*  Scorers: Lattaf 15, Soubeyrand (og) 64; Provost 39, Jacques 47, Soubeyrand 86
+*  Yellow cards: Lacaze 48; Bourdille 39, Soubeyrand 86
+*  Red card: Daix (trainer) 42
+*  Montpellier: Hanous; Coste (Rigal 62), Lopes, Lacaze, Diguelman, Bresson (Duriez 85),
+*  Calvié, Sarran, Faisandier, Kubiak (Temim 76), Lattaf. Coach: S.Arnaud.
+*  Juvisy: Capy; Guilbert, Riéra, Soubeyrand, Provost, Guyennot (Cousset 88), Mugneret-Beghé,
+*  Perraudeau (Antonini 75), Bourdille (Chatoux 75), Jacques, Tonazzi. Coach: J-C. Daix
+*[June 30, Toulouse (Stade des Fontaines)]
+*  TOULOUSE – LYON        : 3-0 (0-0)
+*  Referees: Sandra Renon; Nicolas Dedieu, Jean-Marc Palma
+*  Scorers: Rouquet 67, 71, Blouin 75
+*  Yellow cards: Viguier 30; Granjon 59
+*  Toulouse: C.Marty; Boyer, Viguier, Woock, Monicolle, Blouin (Saïdi 74), C.Bonnet,
+*  M.A.Kramo, Pavailler, Traïkia (Briche 70), Rouquet (Maugeais 74). Coach: J-P.Bonnet
+*  Lyon: Pegaz; Burlat (Chevreton 46), Locatelli, Grangeon, Casseleux, Dessalle, Bruet,
+*  Granjon, Sykora (Nigon 71), Creuzet, Brétigny (C.Morel 77). Coach: F.Benstiti.
+*
+*                                               Pts Bonus
+* 1.Toulouse FC               3  3  0  0   8- 1 14    2  Champions, UEFA Women’s Cup
+* 2.Juvisy FCF                3  2  0  1   7- 6 12    3
+* 3.Lyon Féminin FC           3  1  0  2   3- 6  7    1
+* 4.Montpellier-Hérault SC    3  0  0  3   2- 7  3    0
 
 
 

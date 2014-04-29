@@ -21,14 +21,14 @@ Competition: Championnat Féminin National, Division 1
 Round: 1 
 Date: 9/4/2005
 
-;; Saint-Memmie; Olympique  1-4     ASJ Soyaux
+; Saint-Memmie Olympique ; 1-4;     ASJ Soyaux
   Julie Rampant 72; Corine Petit 20, Corine Petit 74, Marina Pascaud 33, Corinne Diacre 61
 
-;; Paris-SG;          2-1   Toulouse FC
+; Paris-SG;          2-1;   Toulouse FC
   Stéphanie Morel 10, Claire Ficadiere 35; Virginie Desalle (pk) 61
 
 ; CNFE FF               ; 4-1;    ESOF La Roche 
-  Charlotte Loze 13, Aurélie Mula 20, Amandine Henry (pk) 57, Jessica Houara 92
+  Charlotte Loze 13, Aurélie Mula 20, Amandine Henry (pk) 57, Jessica Houara 92;
 
 ; USCCO Compiègne        ; 1-1;     Olympique Lyonnais
   Marine Laignier 66; Sandrine Bretigny (pk) 41
@@ -36,7 +36,7 @@ Date: 9/4/2005
 ; FC Vendenheim         ; 0-5;      FCF Juvisy
 ; Amélie Coquet 1, Alexandra Guine 9, Marinette Pichon (pk) 45+1, Laetitia Tonazzi 47
  
-; FCF; Hénin-Beaumont;  0-7 Montpellier HSC
+; FCF Hénin-Beaumont;  0-7; Montpellier HSC
 ; Hoda Lattaf 8, Hoda Lattaf 63, Hoda Lattaf 70, Hoda Lattaf 88, Ludivine Diguelman 28, Sonia Bompastor 82, Sonia Bompastor 90
 
 Round: 2 
@@ -45,7 +45,7 @@ Date: 9/11/2005
 ; FCF Juvisy     ; 3-1;     USCCO Compiègne
   Marinette Pichon 6, Marinette Pichon 15, Marinette Pichon 60; Marine Laignier 23
 
-; FCF; Hénin-Beaumont;  2-0    FC Vendenheim
+; FCF Hénin-Beaumont;  2-0;    FC Vendenheim
   Ingrid Boyeldieu 5, Ludivine Bultel 16;
 
 ; Olympique Lyonnais ; 1-0;         Paris-SG
@@ -68,10 +68,10 @@ Date: 9/18/2005
 ; ESOF La Roche          ; 2-2;     ASJ Soyaux
   Adama Doumbouya 42, Anne Sirot 61; Candie Herbert 68, Emilie Dos Santos 94
  
-;; Saint-Memmie; Olympique   0-2    Olympique Lyonnais
+; Saint-Memmie Olympique  ; 0-2;    Olympique Lyonnais
 ;  Sandrine Bretigny 50, Delphine Blanc 61
 
-;; Paris-SG;             0-4 FCF Juvisy
+; Paris-SG;             0-4; FCF Juvisy
 ; Marinette Pichon 38, Elise Bussaglia 43, Virginie Bourdille-Mendes 76, Laetitia Tonazzi 83
 
 ; USCCO Compiègne        ; 1-0;     FCF Hénin-Beaumont
@@ -100,7 +100,7 @@ Date: 10/2/2005
 ; FCF Juvisy     ; 5-0;     Saint-Memmie Olympique
   Virginie Bourdille 3, Virginie Bourdille 58, Virginie Bourdille 83, Marinette Pichon (pk) 79, Laetitia Tonazzi 90;
 
-; FCF; Hénin-Beaumont;  3-1 Paris-SG        
+; FCF Hénin-Beaumont;  3-1; Paris-SG        
   Ludivine Bultel 45, Ludivine Bultel 88, Séverine Goulois 65; Candice Prevost 5
                                               
 ; Montpellier HSC       ; 4-0; ASJ Soyaux
@@ -115,10 +115,10 @@ Date: 10/9/2005
 ; CNFE FF                ; 2-6;   FCF Juvisy
   Elodie Cordier 51, Morgane Courteille 78; Marinette Pichon 5, Marinette Pichon 39, Marinette Pichon 79, Marinette Pichon 87, Laetitia Tonazzi 46, Nelly Guilbert 74
 
-;; Saint-Memmie; Olympique  2-3   FCF Hénin-Beaumont
+; Saint-Memmie Olympique ; 2-3;   FCF Hénin-Beaumont
   Gaëtane Thiney 57, Flavie Gruat 59; Nathalie Jarosz 3, Ingrid Boyeldieu 22, Christelle Berdin 72
 
-;; Paris-SG;            3-0 FC Vendenheim
+; Paris-SG;            3-0; FC Vendenheim
   Sarah Hamraoui 21, Candice Prevost 41, Candice Prevost 86;
 
 ; ESOF La Roche        ; 0-4;     Olympique Lyonnais
@@ -142,7 +142,7 @@ Date: 10/16/2005
 ; FCF Juvisy       ; 4-0;   ESOF La Roche 
   Virginie Bourdille-Mendes 5, Virginie Bourdille-Mendes 39, Nelly Guilbert 86, Marinette Pichon 90;
 
-; FCF; Hénin-Beaumont;           2-1    CNFE FF
+; FCF Hénin-Beaumont;           2-1;    CNFE FF
   Ingrid Boyeldieu 51, Ingrid Boyeldieu 55; Elodie Cordier 44
 
 Date: 3/1/2006
@@ -155,13 +155,13 @@ Date: 10/30/2005
 ; ESOF La Roche          ; 1-2;     FCF Hénin-Beaumont
   Alexandra Rey (pk) 23; Nathalie Jarosz 36, Julie Debever 63
 
-;; Saint-Memmie; Olympique  2-1      USCCO Compiègne
+; Saint-Memmie Olympique ; 2-1;      USCCO Compiègne
   Lucie Gatto, Gaëtane Thiney 47; Marine Laignier
 
 ; ASJ Soyaux             ; 0-2;    FCF Juvisy
 ; Marinette Pichon (pk) 49, Emilie Trimoreau 61
 
-;; Paris-SG;            1-2    Montpellier HSC
+; Paris-SG;            1-2;    Montpellier HSC
   Maryse Gobert 20; Sonia Bompastor 26, Ludivine Diguelman 75
 
 ; Toulouse FC         ; 0-0;   Olympique Lyonnais
@@ -177,7 +177,7 @@ Date: 11/12/2005
 
 Date: 11/13/2005
 
-;; Paris-SG;                3-2     Saint-Memmie Olympique
+; Paris-SG;                3-2;     Saint-Memmie Olympique
   Stéphanie Morel 77, Stéphanie Legrand 78, Nonna Debonne 94; Céline Leuck 32, Gaëtane Thiney 45
 
 ; USCCO Compiègne    ; 0-2;     CNFE FF
@@ -186,7 +186,7 @@ Date: 11/13/2005
 ; FCF Juvisy          ; 2-1; Toulouse FC
   Marinette Pichon 36, Marinette Pichon 83; Sabrina Viguier 94
 
-; FCF; Hénin-Beaumont;  1-1 ASJ Soyaux
+; FCF Hénin-Beaumont;  1-1; ASJ Soyaux
   Séverine Gaulois 48; Candie Herbert 45
 
 ; Montpellier HSC        ; 2-1;    Olympique Lyonnais
@@ -214,16 +214,16 @@ Date: 11/20/2005
 
 Date: 2/12/2006
 
-;; Saint-Memmie; Olympique  0-2     Montpellier HSC
+; Saint-Memmie Olympique ; 0-2;     Montpellier HSC
 ;  Laure Lepailleur 10, Camille Abily 18
 
 Round: 10
 Date: 11/27/2005
 
-;; Saint-Memmie; Olympique  0-5     CNFE FF
+; Saint-Memmie Olympique ; 0-5;     CNFE FF
 ; Amandine Henry 29, Charlotte Loze 39, Charlotte Loze (pk) 59, Flavie Lemaitre 63, Louisa Necib (pk) 90
 
-;; Paris-SG;        3-0     ESOF La Roche 
+; Paris-SG;        3-0;     ESOF La Roche 
   Aurélie Cousin (og) 10, Stéphanie Morel 53, Emilie Gassin 88;
 
 ; USCCO Compiègne        ; 2-2;       ASJ Soyaux
@@ -232,7 +232,7 @@ Date: 11/27/2005
 ; FC Vendenheim            ; 1-3;   Toulouse FC
   Sabrina Klughertz 37; Julia Dany 13, Julia Dany 26, Céline Escuberon 73
 
-; FCF; Hénin-Beaumont;   0-0 Olympique Lyonnais
+; FCF Hénin-Beaumont;   0-0; Olympique Lyonnais
 
 Date: 2/19/2006
 
@@ -272,13 +272,13 @@ Date: 12/11/2005
 ; FC Vendenheim         ; 1-0;       FCF Hénin-Beaumont
   Nadia Bouteldja 61;
 
-;; Paris-SG;           1-2  Olympique Lyonnais
+; Paris-SG;           1-2;  Olympique Lyonnais
   Stéphanie Morel 13 ; Simone Gomes Jatoba 19, Alix Faye-Chellali 22
 
 ; CNFE                 ; 0-1;      ASJ Soyaux
 ;  Emilie Dos Santos 37
 
-;; Saint-Memmie; Olympique  0-4     Toulouse FC
+; Saint-Memmie Olympique ; 0-4;     Toulouse FC
 ; Lilas Traikia 6, Lilas Traikia 40, Julie Peruzzetto 23, Marie-Ange Kramo 44
 
 Round: 13 
@@ -293,14 +293,14 @@ Date: 12/18/2005
   Sandrine Dusang 54, Sandrine Bretigny 66, Sandrine Bretigny 68, Sandrine Bretigny 91;
 
 ; FCF Juvisy        ; 5-0; Paris-SG
-  Marinette Pichon 22, Marinette Pichon 65, Marinette Pichon 75, Peggy Provost 69, Sandrine Soubeyrand 78
+  Marinette Pichon 22, Marinette Pichon 65, Marinette Pichon 75, Peggy Provost 69, Sandrine Soubeyrand 78;
 
 Date: 1/15/2006
 
 ; ASJ Soyaux             ; 6-0;     ESOF La Roche
-  Corinne Diacre 5, Candie Herbert 17, Candie Herbert 39, Corine Petit 25, Corine Petit 71, Ophélie Meilleroux 89
+  Corinne Diacre 5, Candie Herbert 17, Candie Herbert 39, Corine Petit 25, Corine Petit 71, Ophélie Meilleroux 89;
 
-; FCF; Hénin-Beaumont;    0-1       USCCO Compiègne
+; FCF Hénin-Beaumont;    0-1;       USCCO Compiègne
 ;  Stéphanie Lemaitre 45
 
 
@@ -318,7 +318,7 @@ Date: 1/8/2006
 ; CNFE FF               ; 1-0;   Olympique Lyonnais
   Louisa Necib 51;
 
-;; Saint-Memmie; Olympique  0-10    FCF Juvisy
+; Saint-Memmie Olympique ; 0-10;    FCF Juvisy
 ; Carole Clerget (og) 4, Peggy Provost 13, Laetitia Tonazzi 29, Laetitia Tonazzi 43, Sandrine Soubeyrand 40, Marinette Pichon 42, Marinette Pichon 57, Marinette Pichon 63, Virginie Bourdille-Mendes 70, Elise Bussaglia 86
 
 Date: 1/22/2006
@@ -326,7 +326,7 @@ Date: 1/22/2006
 ; USCCO Compiègne        ; 2-0;     FC Vendenheim
   Stéphanie Lemaitre 20, Marine Blin 90+1;
 
-;; Paris-SG;              2-0 FCF Hénin-Beaumont
+; Paris-SG;              2-0; FCF Hénin-Beaumont
   Sarah Hamaraoui 21, Laure Boulleau 69;
 
 Date: 5/25/2006
@@ -340,7 +340,7 @@ Date: 2/5/2006
 ; FCF Juvisy             ; 3-1;     CNFE FF
   Virginie Bourdille-Mendes 9, Virginie Bourdille-Mendes 33, Virginie Bourdille-Mendes 76; Amandine Henry (pk) 38
 
-; FCF; Hénin-Beaumont;           2-1    Saint-Memmie Olympique
+; FCF Hénin-Beaumont;           2-1;    Saint-Memmie Olympique
   Marie Cestari 26, Ingrid Boyeldieu 41; Lucie Gatto 54
 
 ; Toulouse FC         ; 1-0;    ASJ Soyaux
@@ -362,13 +362,13 @@ Date: 3/26/2006
 Round: 16 
 Date: 2/26/2006
 
-;; Paris-SG;                1-0     USCCO Compiègne
+; Paris-SG;                1-0;     USCCO Compiègne
   Laure Boulleau (pk) 47;
 
 ; ASJ Soyaux             ; 0-2;     Olympique Lyonnais
 ;  Sandrine Dusang 62, Shirley Cruz Trana 65
 
-;; Saint-Memmie; Olympique 0-2     FC Vendenheim
+; Saint-Memmie Olympique; 0-2;     FC Vendenheim
 ; Julie Bayol (pk) 23, Camille Flick 84
 
 ; ESOF La Roche        ; 0-2;     FCF Juvisy
@@ -385,7 +385,7 @@ Date: 3/30/2006
 Round: 17 
 Date: 3/19/2006
 
-; FCF; Hénin-Beaumont;      3-2     ESOF La Roche
+; FCF Hénin-Beaumont;      3-2;     ESOF La Roche
   Nathalie Jarosz 17, Ingrid Boyeldieu 48, Marie Gosse 49; Adama Doumbouya 37, Jessica Boimare 75
  
 ; USCCO Compiègne       ; 4-0;     Saint-Memmie Olympique
@@ -407,7 +407,7 @@ Date: 3/22/2006
 Round: 18 
 Date: 4/9/2006
 
-;; Saint-Memmie; Olympique  0-0     Paris-SG
+; Saint-Memmie Olympique ; 0-0;     Paris-SG
 
 ; CNFE FF                        ; 8-1;     USCCO Compiègne
   Charlotte Loze 21, Marie-Laure Delie 7, Marie-Laure Delie 58, Nora Cotin-Pélagie 28, Nora Cotin-Pélagie 48, Aurélie Mula 63, Aurélie Mula 78, Morgane Courteille 71; Delphine Boitelle 50
@@ -426,18 +426,18 @@ Date: 4/9/2006
 Round: 19 
 Date: 4/15/2006
 
-;; Paris-SG;                1-2     CNFE FF
+; Paris-SG;                1-2;     CNFE FF
   Maryse Gobert 25; Amandine Henry 74, Amandine Henry 81
 
 ; Montpellier HSC     ; 7-0;      Saint-Memmie Olympique
-  Elodie Ramos 29, Laure Lepailleur 37, Laure Lepailleur 90, Sonia Bompastor (pk) 57, Sonia Bompastor 80, Virginie Faisandier 62, Virginie Faisandier 67
+  Elodie Ramos 29, Laure Lepailleur 37, Laure Lepailleur 90, Sonia Bompastor (pk) 57, Sonia Bompastor 80, Virginie Faisandier 62, Virginie Faisandier 67;
 
 ; FC Vendenheim             ; 0-3;  ASJ Soyaux
 ; Marie Colombier 68, Marie Colombier 75, Corine Petit 77
 
 Date: 4/16/2006
 
-; FCF; Hénin-Beaumont;      2-1     Toulouse FC
+; FCF Hénin-Beaumont;      2-1;     Toulouse FC
   Ingrid Boyeldieu 47, Ingrid Boyeldieu 81; Lilas Traikia 34
 
 ; USCCO Compiègne        ; 2-2; ESOF La Roche
@@ -472,7 +472,7 @@ Date: 5/7/2006
 Round: 21
 Date: 5/20/2006
 
-;; Paris-SG;                0-2     ASJ Soyaux 
+; Paris-SG;                0-2;     ASJ Soyaux 
 ; Marie Colombier 89, Marie Colombier 90
 
 Date: 6/4/2006
@@ -480,7 +480,7 @@ Date: 6/4/2006
 ; CNFE FF                ; 1-3;     Montpellier HSC
   Amandine Henry 7; Hoda Lattaf 1, Sonia Bompastor (pk) 57, Elodie Ramos 90+1
 
-;; Saint-Memmie; Olympique  0-2     ESOF La Roche
+; Saint-Memmie Olympique ; 0-2;     ESOF La Roche
 ; Adama Doumbouya 1, Adama Doumbouya 46
 
 ; USCCO Compiègne      ; 0-0;       Toulouse FC
@@ -488,7 +488,7 @@ Date: 6/4/2006
 ; FC Vendenheim                  ; 0-5;      Olympique Lyonnais
 ; Aurélie Naud 16, Alix Faye-Chellali 76, Mélissa Amalfitano 78, Sandrine Brétigny 81, Shirley Cruz Trana 90+3
 
-; FCF; Hénin-Beaumont;   0-4 FCF Juvisy
+; FCF Hénin-Beaumont;   0-4; FCF Juvisy
 ; Marinette Pichon 33, Marinette Pichon 56, Laetita Tonazzi 62, Elise Bussaglia 78
 
 Round: 22 
@@ -512,7 +512,7 @@ Date: 6/11/2006
   Marinette Pichon 33, Marinette Pichon 44, Marinette Pichon 45, Sandrine Soubeyrand 41;
 
 ; Montpellier HSC        ; 6-0; FCF Hénin-Beaumont
-  Hoda Lattaf 35, Ludivine Diguelman 45+2, Sonia Bompastor 60, Sonia Bompastor 76, Elodie Ramos 63, Elodie Ramos 87
+  Hoda Lattaf 35, Ludivine Diguelman 45+2, Sonia Bompastor 60, Sonia Bompastor 76, Elodie Ramos 63, Elodie Ramos 87;
 
 
 

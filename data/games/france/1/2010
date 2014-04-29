@@ -27,7 +27,7 @@ Competition: Championnat Féminin
 Round: 1 
 Date: 9/4/2010
 
-;; Saint-Brieuc;          2-1 FF Nord Allier
+; Saint-Brieuc;          2-1; FF Nord Allier
   Alexandra Banner 83, Clarisse Le Bihan 85; Julie Berger 41
  
 Date: 9/5/2010
@@ -50,7 +50,7 @@ Date: 9/5/2010
 Round: 2 
 Date: 9/19/2010
 
-; FCF; Hénin-Beaumont;    0-1 Olympique Lyonnais
+; FCF Hénin-Beaumont;    0-1; Olympique Lyonnais
 ;  Eugénie Le Sommer 25
 
 ; FF Nord Allier       ; 0-1; Paris-SG
@@ -59,10 +59,10 @@ Date: 9/19/2010
 ; Rodez                ; 0-2; Montpellier HSC
 ;  Nora Hamou Maamar 18, Delphine Blanc (og) 20
 
-;; Saint-Brieuc;          0-3 FCF Juvisy
+; Saint-Brieuc;          0-3; FCF Juvisy
 ; Laetitia Tonazzi 20, Laetitia Tonazzi 28, Gaëtane Thiney 29
 
-; AS; Saint-Etienne;      4-0 ESOF La Roche
+; AS Saint-Etienne;      4-0; ESOF La Roche
   Camille Catala 50, Camille Catala 58, Camille Catala 66, Marjorie Beal 79;
 
 ; Toulouse FC          ; 1-2; Le Mans UC72
@@ -83,7 +83,7 @@ Date: 9/26/2010
 ; Olympique Lyonnais   ; 3-0; Saint-Brieuc
   Eugénie Le Sommer (pk) 12, Eugénie Le Sommer 40, Louisa Necib 16;
 
-;; Paris-SG;              3-0 Rodez
+; Paris-SG;              3-0; Rodez
   Jessica Houara 10, Katia Cilene Texeira Da Silva 40, Elise Bussaglia 55;
 
 ; Montpellier HSC      ; 0-1; AS Saint-Etienne
@@ -97,7 +97,7 @@ Date: 10/9/2001
 
 Date: 10/10/2001
 
-; FCF; Hénin-Beaumont;    4-1 ESOF La Roche
+; FCF Hénin-Beaumont;    4-1; ESOF La Roche
   Aurélie Desmaretz 3, Pauline Crammer 43, Pauline Crammer 52, Rachel Saïd 88; Adelaïde Bordron 53
  
 ; FCF Juvisy           ; 1-3; Olympique Lyonnais
@@ -106,10 +106,10 @@ Date: 10/10/2001
 ; FF Nord Allier       ; 1-2; Rodez
   Caroline Dolo 23; Marine Augis 54, Marine Augis 80
 
-;; Saint-Brieuc;          1-1 Le Mans UC72
+; Saint-Brieuc;          1-1; Le Mans UC72
   Salma Amani 13; Murielle Pannier 34
 
-; AS; Saint-Etienne;      0-1 Paris-SG
+; AS Saint-Etienne;      0-1; Paris-SG
 ;  Elise Bussaglia 66
 
 Round: 5 
@@ -129,7 +129,7 @@ Date: 10/17/2001
 ; Montpellier HSC      ; 4-0; FCF Hénin-Beaumont
   Hoda Lattaf 14, Hoda Lattaf 71, Marie-Laure Delie 28, Viviane Asseyi 73;
 
-;; Paris-SG;              1-0 Toulouse FC
+; Paris-SG;              1-0; Toulouse FC
   Elise Bussaglia 30;
 
 ; Rodez                ; 2-1; AS Saint-Etienne
@@ -143,7 +143,7 @@ Date: 10/30/2001
 
 Date: 10/31/2001
 
-; FCF; Hénin-Beaumont;    0-4 Paris-SG
+; FCF Hénin-Beaumont;    0-4; Paris-SG
 ; Katia Cilene Teixeira Da Silva 7, Jessica Houara 31, Charlotte Lozé 45, Zohra Ayachi 91
 
 ; FF Nord Allier       ; 1-0; AS Saint-Etienne
@@ -152,7 +152,7 @@ Date: 10/31/2001
 ; Olympique Lyonnais   ; 9-0; Le Mans UC72
   Charlotta Schelin 2, Charlotta Schelin 33, Camille Abily 10, Camille Abily 44, Ingvild Stensland 22, Elodie Thomis 57, Elodie Thomis 70, Isabell Lehn Herlovsen 60, Sonia Bompastor 61;
 
-;; Saint-Brieuc;          0-1 Montpellier HSC
+; Saint-Brieuc;          0-1; Montpellier HSC
 ;  Audrey Février (og) 22
 
 ; Toulouse FC          ; 2-1; Rodez
@@ -170,19 +170,19 @@ Date: 11/7/2010
 ; Montpellier HSC      ; 1-0; FCF Juvisy
   Hoda Lattaf 20;
 
-;; Paris-SG;              3-0 Saint-Brieuc
+; Paris-SG;              3-0; Saint-Brieuc
   Katia Cilene Teixeira Da Silva 23, Caroline Pizzala 45, Sabrina Delannoy 60;
 
 ; Rodez                ; 2-0; FCF Hénin-Beaumont
   Delphine Blanc 26, Flavie Lemaître 52;
 
-; AS; Saint-Etienne;      3-1 Toulouse FC
+; AS Saint-Etienne;      3-1; Toulouse FC
   Kheira Hamraoui 5, Kheira Hamraoui 30, Kheira Hamraoui 76; Flavie Brottier 78
 
 Round: 8 
 Date: 11/14/2010
 
-; FCF; Hénin-Beaumont;    1-0 AS Saint-Etienne
+; FCF Hénin-Beaumont;    1-0; AS Saint-Etienne
   Rachel Saïdi (pk) 74;
 
 ; Le Mans UC72         ; 2-1; ESOF La Roche
@@ -194,7 +194,7 @@ Date: 11/14/2010
 ; Olympique Lyonnais   ; 1-0; Montpellier HSC
   Charlotta Schelin 67;
 
-;; Saint-Brieuc;          1-1 Rodez
+; Saint-Brieuc;          1-1; Rodez
   Audrey Février 25; Flavie Lemaître 90+3
 
 Date: 12/15/2010
@@ -204,7 +204,7 @@ Date: 12/15/2010
 Round: 15 
 Date: 11/27/2010
 
-;; Saint-Brieuc;          4-0 ESOF La Roche         
+; Saint-Brieuc;          4-0; ESOF La Roche         
   Julie Morel 22, Alexandra Banner 50, Salma Amani 60, Salma Amani 86;
 
 Date: 11/28/2010
@@ -212,7 +212,7 @@ Date: 11/28/2010
 ; FCF Juvisy           ; 5-0; Le Mans UC72          
   Amélie Coquet 27, Amélie Coquet 55, Gaëtane Thiney 37, Gaëtane Thiney 52, Gaëtane Thiney 65;
  
-; AS; Saint-Etienne;      1-0 Rodez                 
+; AS Saint-Etienne;      1-0; Rodez                 
   Marjorie Beal 45;
 
 ; Toulouse FC          ; 1-4; Paris-SG              
@@ -225,7 +225,7 @@ Date: 12/15/2010
 
 Date: 1/26/2011
 
-; FCF; Hénin-Beaumont;    0-3 Montpellier HSC   
+; FCF Hénin-Beaumont;    0-3; Montpellier HSC   
 ; Stéphanie De Revière 33, Marie-Laure Delie 50, Viviane Asseyi 68
 
 Round: 9 
@@ -242,7 +242,7 @@ Date: 12/5/2010
 
 Date: 1/19/2011
 
-;; Paris-SG;              1-2 Olympique Lyonnais
+; Paris-SG;              1-2; Olympique Lyonnais
   Katia Teixeira Da Silva 50;  Lara Dickenmann 53, Elodie Thomis 82
 
 Date: 2/26/2011
@@ -252,7 +252,7 @@ Date: 2/26/2011
 
 Date: 2/27/2011
 
-; AS; Saint-Etienne;      2-0 Saint-Brieuc
+; AS Saint-Etienne;      2-0; Saint-Brieuc
   Déborah Taghavi 6, Kheira Hamraoui 59;
 
 Round: 10 
@@ -264,7 +264,7 @@ Date: 12/11/2010
 ; FF Nord Allier       ; 0-3; FCF Hénin-Beaumont    
 ;  Claire Lavogez 5, Aurélie Desmaretz 50, Pauline Crammer 64
 
-;; Saint-Brieuc;          1-1 Toulouse FC           
+; Saint-Brieuc;          1-1; Toulouse FC           
   Julie Morel 39; Marie-Ange Kramo 34
 
 Date: 12/12/2010
@@ -292,12 +292,12 @@ Date: 12/19/2010
 
 Date: 4/9/2011
 
-;; Paris-SG;              2-0 ESOF La Roche
+; Paris-SG;              2-0; ESOF La Roche
   Léa Rubio 1, Katia Cilene Teixeira Da Silva 44;
 
 Date: 4/10/2011
 
-; FCF; Hénin-Beaumont;    2-1 Saint-Brieuc
+; FCF Hénin-Beaumont;    2-1; Saint-Brieuc
   Rigoberte M'Bah 45, Charlotte Blanchard 61; Anaïs Ribeyra 83
 
 ; FF Nord Allier       ; 2-2; Montpellier HSC
@@ -305,7 +305,7 @@ Date: 4/10/2011
 
 Date: 5/8/2011
 
-; AS; Saint-Etienne;      0-6 Olympique Lyonnais
+; AS Saint-Etienne;      0-6; Olympique Lyonnais
 ; Camille Abily 43, Camille Abily 45, Lara Dickenmann 45+2, Sonia Bompastor 63, Amel Majri 90+2, Eugénie Le Sommer 90+3
 
 Round: 12 
@@ -323,20 +323,20 @@ Date: 1/9/2011
   Rumi Utsugi 20, Marie-Laure Delie 47; Delphine Blanc 69
 
 ; Olympique Lyonnais   ; 7-0; FCF Hénin-Beaumont    
-  Louisa Necib 12, Louisa Necib 55, Eugénie Le Sommer 29, Eugénie Le Sommer 52, Lara Dickenmann 44, Gwendoline Rossi (og) 47, Sandrine Brétigny 59
+  Louisa Necib 12, Louisa Necib 55, Eugénie Le Sommer 29, Eugénie Le Sommer 52, Lara Dickenmann 44, Gwendoline Rossi (og) 47, Sandrine Brétigny 59;
 
-;; Paris-SG;              2-1 FF Nord Allier        
+; Paris-SG;              2-1; FF Nord Allier        
   Caroline Pizzala 41, Sabrina Delannoy 72; Julie Berger 37
 
 Round: 13
 Date: 1/15/2011
 
-;; Saint-Brieuc;          1-4 Olympique Lyonnais    
+; Saint-Brieuc;          1-4; Olympique Lyonnais    
   Julie Morel 79; Lara Dickenmann 27, Eugénie Le Sommer 36, Eugénie Le Sommer 51, Charlootta Schelin 90+2
 
 Date: 1/16/2011
 
-; FCF; Hénin-Beaumont;    2-1 Le Mans UC72          
+; FCF Hénin-Beaumont;    2-1; Le Mans UC72          
   Claire Lavogez 13, Claire Lavogez 67; Murielle Pannier (pk) 89
 
 ; FF Nord Allier       ; 3-3; FCF Juvisy            
@@ -345,7 +345,7 @@ Date: 1/16/2011
 ; Rodez                ; 0-1; Paris-SG              
 ;  Elise Bussaglia 40
 
-; AS; Saint-Etienne;      0-1 Montpellier HSC       
+; AS Saint-Etienne;      0-1; Montpellier HSC       
 ;  Charlotte Bilbault (pk) 85
 
 ; Toulouse FC          ; 3-0; ESOF La Roche         
@@ -368,7 +368,7 @@ Date: 1/23/2011
 ; Olympique Lyonnais   ; 7-1; FCF Juvisy
   Amandine Henry 2, Lotta Schelin 10, Lotta Schelin 50, Louisa Necib 29, Louisa Necib 63, Sandrine Brétigny 78, Sandrine Brétigny 87; Laetitia Tonazzi 31
 
-;; Paris-SG;              1-0 AS Saint-Etienne 
+; Paris-SG;              1-0; AS Saint-Etienne 
   Elise Bussaglia (pk) 22;
 
 ; Rodez                ; 1-1; FF Nord Allier
@@ -377,12 +377,12 @@ Date: 1/23/2011
 Round: 19
 Date: 2/5/2011
 
-;; Saint-Brieuc;          0-1 AS Saint-Etienne      
+; Saint-Brieuc;          0-1; AS Saint-Etienne      
 ;  Kheira Hamraoui 26
 
 Date: 2/6/2011
 
-; FCF; Hénin-Beaumont;    1-0 Toulouse FC           
+; FCF Hénin-Beaumont;    1-0; Toulouse FC           
   Pauline Crammer (pk) 84;
 
 ; FCF Juvisy           ; 4-0; Rodez                 
@@ -393,7 +393,7 @@ Date: 2/6/2011
 
 ; FF Nord Allier       ; 2-2; ESOF La Roche         
   Cynthia Gueheo-Djetou 50, Solène Chauvet (og) 90+2; Mélissa Godart 41, Adeline Rousseau (pk) 74
-. 
+
 ; Olympique Lyonnais   ; 3-0; Paris-SG              
   Louisa Necib 49, Eugénie Le Sommer 84, Sandrine Brétigny 86;
 
@@ -411,22 +411,22 @@ Date: 2/13/2011
 ; Le Mans UC72         ; 0-4; Olympique Lyonnais    
 ; Camille Abily 19, Elodie Thomis 24, Amandine Henry 61, Louisa Necib 85
  
-;; Paris-SG;              1-2 FCF Hénin-Beaumont    
+; Paris-SG;              1-2; FCF Hénin-Beaumont    
   Elise Bussaglia 33; Rachel Saïdi 59, Laurie Dacquigny 69
   
 ; Rodez                ; 0-0; Toulouse FC           
 
-; AS; Saint-Etienne;      2-0 FF Nord Allier        
+; AS Saint-Etienne;      2-0; FF Nord Allier        
   Déborah Taghavi 45, Déborah Taghavi 84;
 
 Round: 17 
 Date: 3/20/2011
 
-; FCF; Hénin-Beaumont;    0-1 Rodez                 
+; FCF Hénin-Beaumont;    0-1; Rodez                 
 ;  Marine Augis 90
 
 ; FCF Juvisy           ; 3-1; Montpellier HSC       
-  Gaëtane Thiney 20, Julie Machart 51, 86; Marie-Laure Delie 30
+  Gaëtane Thiney 20, Julie Machart 51, Julie Machart 86; Marie-Laure Delie 30
  
 ; FF Nord Allier       ; 3-0; Le Mans UC72          
   Alexia Trevisan 7, Cynthia Gueheo-Djetou 78, Laura Bouillot 90+2;
@@ -434,7 +434,7 @@ Date: 3/20/2011
 ; Olympique Lyonnais  ; 10-0; ESOF La Roche         
   Eugénie Le Sommer 13, Camille Abily 15, Elodie Thomis 17, Sandrine Brétigny 22, Sandrine Brétigny 25, Sandrine Brétigny 72, Sandrine Brétigny 90, Sabrina Viguier 51, Louisa Necib 62, Amandine Henry 76;
 
-;; Saint-Brieuc;          0-3 Paris-SG              
+; Saint-Brieuc;          0-3; Paris-SG              
 ; Katia Cilene Teixeira Da Silva 16, Katia Cilene Teixeira Da Silva 36, Sabrina Delannoy 27
 
 ; Toulouse FC          ; 0-1; AS Saint-Etienne      
@@ -449,12 +449,12 @@ Date: 3/27/2011
 ; Montpellier HSC      ; 0-1; Olympique Lyonnais    
 ;  Wendie Renard 60
  
-;; Paris-SG;              3-1 FCF Juvisy            
+; Paris-SG;              3-1; FCF Juvisy            
   Caroline Pizzala 20, Katia Cilene Teixeira Da Silva 44, Jessica Houara 75; Gaëtane Thiney 38
  
 ; Rodez                ; 0-0; Saint-Brieuc          
 
-; AS; Saint-Etienne;      3-0 FCF Hénin-Beaumont    
+; AS Saint-Etienne;      3-0; FCF Hénin-Beaumont    
   Kheira Hamraoui 6, Kheira Hamraoui 71, Marjorie Beal 61;
    
 ; Toulouse FC          ; 1-3; FF Nord Allier        
@@ -468,15 +468,15 @@ Date: 4/23/2011
 
 Date: 4/24/2011
 
-; FCF; Hénin-Beaumont;    0-2 FF Nord Allier        
+; FCF Hénin-Beaumont;    0-2; FF Nord Allier        
 
 ; Montpellier HSC      ; 6-0; ESOF La Roche         
-  Marie-Laure Delie 24, Marie-Laure Delie 28, Rumi Utsugi 47, Stéphanie De Revière 61, Hoda Lattaf 70, Hoda Lattaf 84
+  Marie-Laure Delie 24, Marie-Laure Delie 28, Rumi Utsugi 47, Stéphanie De Revière 61, Hoda Lattaf 70, Hoda Lattaf 84;
  
-;; Paris-SG;              2-1 Le Mans UC72          
+; Paris-SG;              2-1; Le Mans UC72          
   Katia Cilene Teixeira Da Silva 30, Cindy Thomas 82; Makan Mouchou Traoré 1
  
-; AS; Saint-Etienne;      1-3 FCF Juvisy            
+; AS Saint-Etienne;      1-3; FCF Juvisy            
   Camille Catala 50; Nelly Guilbert 15, Laetitia Tonazzi 40, Virginie Bourdille-Mendes 54
 
 ; Toulouse FC          ; 0-1; Saint-Brieuc          
@@ -498,26 +498,26 @@ Date: 5/15/2011
   Marie-Laure Delie 16, Marie-Laure Delie 55, Elodie Ramos 64; Cynthia Gueheo-Djetou (pk) 45
 
 ; Olympique Lyonnais   ; 8-0; AS Saint-Etienne      
-  Eugénie Le Sommer 7, Louisa Necib 8, Louisa Necib 86, Louisa Necib 90, Camille Abily 17, Camille Abily 37, Sandrine Brétigny 46, Sandrine Brétigny 86
+  Eugénie Le Sommer 7, Louisa Necib 8, Louisa Necib 86, Louisa Necib 90, Camille Abily 17, Camille Abily 37, Sandrine Brétigny 46, Sandrine Brétigny 86;
 
-;; Saint-Brieuc;          0-0 FCF Hénin-Beaumont    
+; Saint-Brieuc;          0-0; FCF Hénin-Beaumont    
 
 Round: 22 
 Date: 5/29/2011
 
-; FCF; Hénin-Beaumont;    1-2 FCF Juvisy            
+; FCF Hénin-Beaumont;    1-2; FCF Juvisy            
   Mélodie Hurez 90+1; Laetitia Tonazzi 5, Laetitia Tonazzi 80
 
 ; FF Nord Allier       ; 0-2; Saint-Brieuc          
 ;  Sophie Rissoan 20, Salma Amani 88
   
-;; Paris-SG;              1-0 Montpellier HSC       
+; Paris-SG;              1-0; Montpellier HSC       
   Sabrina Delannoy (pk) 88;
  
 ; Rodez                ; 2-0; ESOF La Roche         
   Anne-Sophie Ginestet 50, Kenza Dali 80;
  
-; AS; Saint-Etienne;      0-0 Le Mans UC72          
+; AS Saint-Etienne;      0-0; Le Mans UC72          
 
 ; Toulouse FC          ; 1-5; Olympique Lyonnais    
   Audrey Cugat 84; Charlotta Schelin 21, Charlotta Schelin 23, Lara Dickenmann 33, Camille Abily 40, Sandrine Brétigny 55

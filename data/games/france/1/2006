@@ -21,7 +21,7 @@ Competition: Championnat Féminin National
      
 Round: 1 
 
-;; Saint-Brieuc;       2-1 ESOF La Roche
+; Saint-Brieuc;       2-1; ESOF La Roche
   Véronique Chasles 79, Livia Jean 87; Anne Sirot 7
 
 ; USCCO Compiègne   ; 3-0; Paris-SG
@@ -43,18 +43,18 @@ Date: 9/3/2006
 Round: 2 
 Date: 9/9/2006
 
-;; Paris-SG;           0-0 ASJ Soyaux
+; Paris-SG;           0-0; ASJ Soyaux
 
 Date: 9/10/2006
 
 ; ESOF La Roche     ; 3-2; USCCO Compiègne 
-  Anne Sirot 56, Adama Doumbouya 62, 77; Laetitia Mariani 10, Vanessa Mellarini 85
+  Anne Sirot 56, Adama Doumbouya 62, Adama Doumbouya 77; Laetitia Mariani 10, Vanessa Mellarini 85
 
-; FCF; Hénin-Beaumont; 3-3 CNFE FF
+; FCF Hénin-Beaumont; 3-3; CNFE FF
   Marie Gosse 48, Julie Debever 49, Pauline Crammer 85; Amandine Henry 6, Amandine Henry 13, Marie-Laure Delie 40
 
 ; Montpellier HSC   ; 5-0; Saint-Brieuc
-  Virginie Faisandier 7, Elodie Ramos 33, Elodie Ramos 67, Julie Lescanve (og) 35, Elodie Thomis 65
+  Virginie Faisandier 7, Elodie Ramos 33, Elodie Ramos 67, Julie Lescanve (og) 35, Elodie Thomis 65;
 
 ; Olympique Lyonnais; 0-1; FCF Juvisy
 ;  Laetitia Tonazzi 75
@@ -65,7 +65,7 @@ Date: 9/10/2006
 Round: 3
 Date: 9/16/2006
 
-;; Saint-Brieuc;       2-0 Toulouse FC
+; Saint-Brieuc;       2-0; Toulouse FC
   Séverine Craipeau 27, Véronique Chasles (pk) 73;
  
 Date: 9/17/2006
@@ -88,7 +88,7 @@ Date: 9/17/2006
 Round: 4
 Date: 10/7/2006
 
-;; Paris-SG;           0-4 CNFE FF 
+; Paris-SG;           0-4; CNFE FF 
 ; Chloé Mazaloubeaud 8, Amandine Henry 13, Amandine Henry 68, Elodie Cordier 30
 
 Date: 10/8/2006
@@ -96,7 +96,7 @@ Date: 10/8/2006
 ; Olympique Lyonnais; 7-1; FC Condé
   Sandrine Brétigny 14, Sandrine Brétigny 31, Sandrine Brétigny 55, Sandrine Brétigny 64, Hoda Lattaf 33, Hoda Lattaf 83, Sonia Bompastor 71; Julie Morel 74
 
-;; Saint-Brieuc;       6-0 USCCO Compiègne     
+; Saint-Brieuc;       6-0; USCCO Compiègne     
   Sophie Rissoan 2, Marine Masson 8, Marine Masson 67, Marine Masson 79, Marine Masson 90+2, Justine Boivin 25;
    
 ; ESOF La Roche     ; 0-2; FCF Juvisy
@@ -122,7 +122,7 @@ Date: 10/15/2006
 ; FC Condé          ; 1-1; Paris-SG
   Virginie Couillard 42; Aurélie Mula 75
 
-; FCF; Hénin-Beaumont; 0-9 Olympique Lyonnais
+; FCF Hénin-Beaumont; 0-9; Olympique Lyonnais
 ; Camille Abily 22, Camille Abily 32, Camille Abily 38, Sandrine Brétigny 41, Sandrine Brétigny 62, Hoda Lattaf 50, Hoda Lattaf 68, Aurélie Naud 75, Sonia Bompastor 79
 
 ; FCF Juvisy        ; 0-3; Montpellier HSC
@@ -142,10 +142,10 @@ Date: 10/22/2006
 ; USCCO Compiègne   ; 0-1; ASJ Soyaux   
 ; Claire Morel 60
   
-;; Paris-SG;           8-1 FCF Hénin-Beaumont
+; Paris-SG;           8-1; FCF Hénin-Beaumont
   Aurélie Mula 13, Aurélie Mula 30, Aurélie Mula 55, Aurélie Mula 65, Maryse Gobert 22, Candice Prevost 28, Candice Prevost 41, Laure Boulleau 88; Aurélie Desmaretz 90+2
 
-;; Saint-Brieuc;       0-1 FCF Juvisy
+; Saint-Brieuc;       0-1; FCF Juvisy
 ;  Marinette Pichon 86
 
 ; ESOF La Roche     ; 2-0; FC Condé
@@ -163,7 +163,7 @@ Date: 11/12/2006
 ; CNFE FF           ; 1-2; Saint-Brieuc
   Amandine Henry 7; Marine Masson 5, Marine Masson 12
  
-; FCF; Hénin-Beaumont; 2-3 ESOF La Roche
+; FCF Hénin-Beaumont; 2-3; ESOF La Roche
   Christelle Berdin (pk) 47, Aurélie Desmartz 73; Adama Doumbouya 66, Adama Doumbouya 76, Adama Doumbouya 81
  
 ; FCF Juvisy        ; 1-0; USCCO Compiègne
@@ -178,7 +178,7 @@ Date: 11/12/2006
 Round: 8 
 Date: 11/18/2006
 
-;; Saint-Brieuc;       1-0 FC Condé
+; Saint-Brieuc;       1-0; FC Condé
   Magali Stevant 36;
 
 ; ESOF La Roche     ; 0-2; Olympique Lyonnais
@@ -190,7 +190,7 @@ Date: 11/19/2006
   Corine Franco 78; Laetitia Tonazzi 41, Amélie Coquet 80, Marinette Pichon 80, Peggy Provost 88
 
 ; Montpellier HSC   ; 8-0; FCF Hénin-Beaumont
-  Virginie Faisandier 10, Virginie Faisandier 26, Louisa Necib 12, Louisa Necib 78, Elodie Ramos 17, Fanny Tenret 43, Ludivine Diguelman 46, Elodie Thomis 90+1
+  Virginie Faisandier 10, Virginie Faisandier 26, Louisa Necib 12, Louisa Necib 78, Elodie Ramos 17, Fanny Tenret 43, Ludivine Diguelman 46, Elodie Thomis 90+1;
  
 ; Toulouse FC       ; 0-1; Paris-SG
 ;  Candice Prevost 90+2
@@ -210,19 +210,19 @@ Date: 11/26/2006
 ; FC Condé          ; 3-4; USCCO Compiègne
   Aurore Helie (pk) 21, Aurore Helie 57, Aurore Helie (pk) 90+5; Ingrid Boyeldieu 1, Ingrid Boyeldieu 30, Marine Laignier 14, Anaëlle Marme 18
  
-; FCF; Hénin-Beaumont; 1-0 Saint-Brieuc
+; FCF Hénin-Beaumont; 1-0; Saint-Brieuc
   Pauline Crammer 5;
 
 ; FCF Juvisy        ; 2-0; Toulouse FC
   Laetitia Tonazzi 34, Elise Bussaglia 74;
 
-;; Paris-SG;           7-0 ESOF La Roche
-  Maryse Gobert 6, Nonna Debonne 17, Aurélie Mula 25, Aurélie Mula 53, Morgane Courteille 65, Stéphanie Legrand 75, Claire Ficadiere 87
+; Paris-SG;           7-0; ESOF La Roche
+  Maryse Gobert 6, Nonna Debonne 17, Aurélie Mula 25, Aurélie Mula 53, Morgane Courteille 65, Stéphanie Legrand 75, Claire Ficadiere 87;
 
 Round: 10
 Date: 12/2/2006
 
-;; Saint-Brieuc;       0-4 Olympique Lyonnais   
+; Saint-Brieuc;       0-4; Olympique Lyonnais   
 ; Camille Ablily 46, Sandrine Brétigny 58, Sandrine Brétigny 67, Sandrine Brétigny 74
 
 Date: 12/3/2006  
@@ -245,7 +245,7 @@ Date: 12/3/2006
 Round: 11 
 Date: 12/9/2006
 
-;; Paris-SG;           1-2 Saint-Brieuc  
+; Paris-SG;           1-2; Saint-Brieuc  
   Morgane Courteille 45+1; Marine Masson 11, Justine Boivin 51
 
 ; ESOF La Roche     ; 0-4; Montpellier HSC  
@@ -255,12 +255,12 @@ Date: 12/9/2006
 Date: 12/10/2006
 
 ; Olympique Lyonn. ; 11-0; USCCO Compiègne  
-  Sandrine Brétigny 1, Sandrine Brétigny 35, Sandrine Brétigny 50, Sandrine Brétigny 52, Hoda Lattaf 19, Hoda Lattaf 36, Hoda Lattaf 72, Sonia Bonpastor 58, Aurélie Naud, Camille Abily 78, Camille Abily 83
+  Sandrine Brétigny 1, Sandrine Brétigny 35, Sandrine Brétigny 50, Sandrine Brétigny 52, Hoda Lattaf 19, Hoda Lattaf 36, Hoda Lattaf 72, Sonia Bonpastor 58, Aurélie Naud, Camille Abily 78, Camille Abily 83;
   
 ; Toulouse FC       ; 1-2; CNFE FF
   Julia Dany 17; Flavie Lemaitre 44, Marie-Laure Delie 69
 
-; FCF; Hénin-Beaumont; 2-3 ASJ Soyaux  
+; FCF Hénin-Beaumont; 2-3; ASJ Soyaux  
   Stéphanie Prevost 83, Marie Gosse (pk) 90+1; Corine Franco 29, Claire Morel 44, Clémence Herpin 87
  
 Date: 12/17/2006   
@@ -271,7 +271,7 @@ Date: 12/17/2006
 Round: 12 
 Date: 1/20/2007
 
-;; Saint-Brieuc;       0-5 Montpellier HSC
+; Saint-Brieuc;       0-5; Montpellier HSC
 ;  Ludivine Diguelmann 5, Ludivine Diguelmann 25, Ludivine Diguelmann (pk) 38, Elodie Ramos 26, Elodie Thomis 59
 
 Date: 1/21/2007
@@ -296,7 +296,7 @@ Round: 13
 
 Date: 1/28/2007
 
-FCF Hénin-Beaumont 3-2 FC Condé
+; FCF Hénin-Beaumont; 3-2; FC Condé
   Marie Gosse 8, Pauline Crammer 72, Laurie Dacquiny 75; Erika Heot 43, Aurore Helie 85
 
 ; ESOF La Roche     ; 0-1; ASJ Soyaux
@@ -310,7 +310,7 @@ FCF Hénin-Beaumont 3-2 FC Condé
    
 Date: 4/15/2007
 
-;; Paris-SG;           2-2 FCF Juvisy
+; Paris-SG;           2-2; FCF Juvisy
   Mériame Ben Abdelwahab 27, Laure Boulleau 66; Marinette Pichon 18, Laetitia Tonazzi 48
 
 Date: 5/6/2007
@@ -333,7 +333,7 @@ Date: 2/4/2007
 ; FCF Juvisy        ; 5-0; ESOF La Roche
   Emilie Trimoreau 5, Laetitia Tonazzi 45, Elise Bussaglia 67, Virginie Mendes 78, Sandra Raes 90+1;
 
-; FCF; Hénin-Beaumont; 1-7 Toulouse FC
+; FCF Hénin-Beaumont; 1-7; Toulouse FC
   Laurie Dacquigny 6; Julie Peruzzetto 9, Julie Peruzzetto 15, Julie Peruzzetto 56, Julie Peruzzetto 59, Julia Dany 14, Julia Dany 25, Delphine Chatelain 51
 
 ; ASJ Soyaux        ; 0-3; Montpellier HSC  
@@ -345,7 +345,7 @@ Date: 2/25/2007
 ; ESOF La Roche     ; 2-3; CNFE FF
   Alexandra Rey 57, Nathalie Richard 72; Charlotte Loze 39, Flavie Lemaitre 66, Marie-Laure Delie 85
 
-;; Paris-SG;           4-3 FC Condé
+; Paris-SG;           4-3; FC Condé
   Sarah Hamraoui 48, Candice Prevost 58, Candice Prevost 67, Nonna Debonne 84; Virginie Couillard 9, Virginie Couillard 72, Gwenaël Gerard (og) 29
 
 ; Olympique Lyonnais; 6-1; FCF Hénin-Beaumont
@@ -354,7 +354,7 @@ Date: 2/25/2007
 ; Montpellier HSC   ; 1-2; FCF Juvisy
   Elodie Thomis 30; Laetitia Tonazzi 61, Laetitia Tonazzi 73
 
-;; Saint-Brieuc;       0-0 ASJ Soyaux
+; Saint-Brieuc;       0-0; ASJ Soyaux
 
 ; Toulouse FC       ; 3-0; USCCO Compiègne
   Christine Gazzin 4, Julie Peruzzetto 62, Marie-Pierre Castera 84;
@@ -362,17 +362,17 @@ Date: 2/25/2007
 Round: 16 
 Date: 3/4/2007
 
-; FCF; Hénin-Beaumont; 1-1 Paris-SG
+; FCF Hénin-Beaumont; 1-1; Paris-SG
   Marie Gosse 85; Meriame Ben Abdelwahab 2
  
 ; FCF Juvisy        ; 2-0; Saint-Brieuc
-  Virginie Mendes 21, Jennifer Moresco ;88
+  Virginie Mendes 21, Jennifer Moresco 88;
 
 ; CNFE FF           ; 0-3; Montpellier HSC    
 ;  Elodie Thomis 13, Elodie Ramos 30, Fanny Tenret 88
   
 ; Olympique Lyonnais; 8-0; Toulouse FC
-  Sandrine Brétigny 36, Sandrine Brétigny 40, Sandrine Brétigny 77, Sandrine Brétigny 88, Hoda Lattaf 42, Hoda Lattaf 69, Camille Abily 49, Sonia Bompastor (pk) 66
+  Sandrine Brétigny 36, Sandrine Brétigny 40, Sandrine Brétigny 77, Sandrine Brétigny 88, Hoda Lattaf 42, Hoda Lattaf 69, Camille Abily 49, Sonia Bompastor (pk) 66;
 
 Date: 3/10/2007
 
@@ -387,10 +387,10 @@ Date: 4/15/2007
 Round: 17 
 Date: 3/25/2007
 
-;; Paris-SG;           1-2 Olympique Lyonnais
+; Paris-SG;           1-2; Olympique Lyonnais
   Maryse Gobert 8; Hoda Lattaf 51, Sandrine Brétigny 57
 
-;; Saint-Brieuc;       1-3 CNFE FF  
+; Saint-Brieuc;       1-3; CNFE FF  
   Alexandra Banner 62; Flavie Lemaitre 43, Marie-Laure Delie 55, Elodie Cordier 86
    
 ; USCCO Compiègne   ; 1-3; FCF Juvisy  
@@ -408,18 +408,18 @@ Round: 18
 Date: 4/1/2007
 
 ; Olympique Lyonnais; 7-0; ESOF La Roche
-  Sandrine Brétigny 7, Camille Abily 24, Camille Abily 71, Delphine Blanc 35, Sonia Bompastor 49, Ludivine Bruet 76, Hoda Lattaf 88
+  Sandrine Brétigny 7, Camille Abily 24, Camille Abily 71, Delphine Blanc 35, Sonia Bompastor 49, Ludivine Bruet 76, Hoda Lattaf 88;
 
 ; CNFE FF           ; 2-1; USCCO Compiègne
   Marie-Laure Delie 23, Marie-Laure Delie 54; Vanessa Mellarini (pk) 73
 
-; FCF; Hénin-Beaumont; 0-4 Montpellier HSC
+; FCF Hénin-Beaumont; 0-4; Montpellier HSC
 ; Elodie Ramos 35, Elodie Thomis 45, Sabrina Viguier 47, Ludivine Diguelman 50
 
 ; FCF Juvisy        ; 0-1; ASJ Soyaux
 ;  Corinne Franco (pk) 78
 
-;; Paris-SG;           1-0 Toulouse FC
+; Paris-SG;           1-0; Toulouse FC
   Candice Prevost 51;
 
 Date: 5/6/2007
@@ -433,7 +433,7 @@ Date: 4/28/2007
 ; Montpellier HSC   ; 0-3; Olympique Lyonnais 
 ; Hoda Lattaf 1, Sandrine Dusang 24, Sonia Bompastor (pk) 38
  
-;; Saint-Brieuc;       2-2 FCF Hénin-Beaumont
+; Saint-Brieuc;       2-2; FCF Hénin-Beaumont
   Véronique Chasles (pk) 11, Sabrina Brujean 59; Aurélie Desmaretz 16, Pauline Crammer 37
  
 ; ESOF La Roche     ; 1-0; Paris-SG
@@ -469,10 +469,10 @@ Date: 5/20/2007
 ; FC Condé          ; 1-4; ASJ Soyaux
   Aurore Helie 26; Candie Herbert 44, Candie Herbert 68, Corine Franco 57, Marina Pascaud 64
 
-; FCF; Hénin-Beaumont; 5-1 USCCO Compiègne
+; FCF Hénin-Beaumont; 5-1; USCCO Compiègne
   Pauline Crammer 27, Pauline Crammer 77, Marie Gosse 45, Marie Gosse 66, Aurélie Desmaretz 84; Vanessa Mellarini (pk) 85
 
-;; Paris-SG;           1-2 Montpellier HSC
+; Paris-SG;           1-2; Montpellier HSC
   Aurélie Mula 69; Elodie Thomis 18, Elodie Ramos 90+1
 
 Round: 21 
@@ -490,7 +490,7 @@ Date: 6/3/2007
 ; ASJ Soyaux        ; 1-3; FCF Hénin-Beaumont
   Candie Herbert 75; Pauline Crammer 40, Pauline Crammer 45+1, Marie Gosse 54
 
-;; Saint-Brieuc;       1-1 Paris-SG  
+; Saint-Brieuc;       1-1; Paris-SG  
   Alexandra Banner 59; Maryse Gobert 11
        
 ; Montpellier HSC   ; 2-0; ESOF La Roche  
@@ -502,13 +502,13 @@ Date: 6/10/2007
 ; Condé             ; 0-5; CNFE FF
 ; Nora Coton-Pélagie, Nora Coton-Pélagie, Julie Machard, Julie Machard, Chloé Mazaloubeaud
 
-; FCF; Hénin-Beaumont; 0-4 FCF Juvisy
+; FCF Hénin-Beaumont; 0-4; FCF Juvisy
 ; Laetitia Tonazzi 16, Laetitia Tonazzi 70, Laetitia Tonazzi 90+1, Célia Mazeau 80
 
 ; Olympique Lyonnais; 6-0; ASJ Soyaux
   Sandrine Brétigny 9, Sandrine Brétigny 22, Sandrine Brétigny 56, Hoda Lattaf 13, Shirley Cruz-Trana 35, Katia Cilene Teixeira Da Silva 63;
 
-;; Paris-SG;           3-1 USCCO Compiègne
+; Paris-SG;           3-1; USCCO Compiègne
   Candice Prevost 56, Meriame Ben AbdelWahab 62, Laure Boulleau 90+1; Annaëlle Marme (pk) 82
 
 ; ESOF La Roche     ; 2-1; Saint-Brieuc
