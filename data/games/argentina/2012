@@ -126,25 +126,29 @@ Date: 11/11/2012
 
 ; Estudiantes de La Plata     ; 5-1; Independiente (Avellaneda)  ; Tierra de Campeones
 ; River Plate                 ; 5-0; Club Atlético Platense      ; Predio de Ezeiza
-*; San Lorenzo de Almagro       awd  Huracán (Buenos Aires)      ; Ciudad Deportiva, ended; 3-0; and protested, see Nov 30
+; San Lorenzo de Almagro      ; 3-0;  Huracán (Buenos Aires)  
+Awarded    
+Notes: Ciudad Deportiva, ended; 3-0; and protested, see Nov 30
+
 ; UAI Urquiza                ; 15-0; Fénix
 
 Date: 11/30/2012
 
 ; San Lorenzo de Almagro      ; 0-1; Huracán (Buenos Aires)   
-Notes: awarded
+Awarded
 *   [awarded, see Nov 11]
 
 Date: 12/9/2012
 
 ; Universidad de Buenos Aires ; np;  Boca Juniors   
-*             [see Dic 21]
+*   [see Dic 21]
 
 Date: 12/21/2012
 
-; Universidad de Buenos Aires ; 0- 1;
-Notes: awarded
+*; Universidad de Buenos Aires ; 0- 1;
+*Awarded
 *                             [awarded, see Dic 9]
+
 *                             1- 0 Boca Juniors                [awarded, see Dic 9]
 
 Date: 3/9/2013
@@ -186,8 +190,8 @@ Date: 11/25/2012
 ; General Lamadrid            ; 0-19; River Plate
 
 **[Bye] Boca Juniors
-Round: 10
 
+Round: 10
 Date: 3/16/2013
 
 ; Huracán (Buenos Aires)      ; 5-1; Universidad de Buenos Aires ; La Quemita
@@ -210,19 +214,21 @@ Date: 3/23/2013
 Date: 3/24/2013
 
 ; Estudiantes de La Plata     ; 3-0; Club Atlético Platense      ; Tierra de Campeones
-*Excursionistas               np  Huracán (Buenos Aires)      [see Abr 5]
-*San Lorenzo de Almagro       np  General Lamadrid            [see Abr 5]
+; Excursionistas              ; np;  Huracán (Buenos Aires)      
+*[see Abr 5]
+; San Lorenzo de Almagro      ; np;  General Lamadrid            
+*[see Abr 5]
 ; UAI Urquiza                 ; 0-1; River Plate
 ; Universidad de Buenos Aires ; 1-1; Vélez Sarsfield (Mercedes)  ; Excursionistas
 
 Date: 4/5/2013
 
 ; Excursionistas              ; 0-1; Huracán (Buenos Aires)      
-Notes: awarded
+Awarded
 *[awarded, see Mar 24]
 
 ; San Lorenzo de Almagro      ; 1-0; General Lamadrid            
-Notes: awarded
+Awarded
 *[awarded, General Lamadrid lost the rest of the matches, see Mar 24]
 
 *[Bye]Independiente (Avellaneda)
@@ -231,27 +237,27 @@ Round: 12
 Date: 4/5/2013
 
 ; General Lamadrid            ; 0-1; UAI Urquiza                 
-*[awarded]
+Awarded
 
 Date: 4/6/2013
 
-*Fénix                        np  Independiente (Avellaneda)  
+; Fénix                       ; np;  Independiente (Avellaneda)  
 *[see Abr 19]
 ; Huracán (Buenos Aires)      ; 0-1; Boca Juniors                ; La Quemita
-*Vélez Sarsfield (Mercedes)   np  Excursionistas              
+; Vélez Sarsfield (Mercedes)  ; np;  Excursionistas              
 *[see Abr 19]
 ; Club Atlético Platense      ; 1-1; Universidad de Buenos Aires ; Anexo Alejandro Mario Dolan
-*River Plate                  np  Estudiantes de La Plata     
+; River Plate                 ; np;  Estudiantes de La Plata     
 *[see Abr 19]
 
 Date: 4/19/2013
 
 ; Fénix                       ; 0-1; Independiente (Avellaneda)  
-Notes: awarded
+Awarded
 *[awarded, see Abr 6]
 
 ; Vélez Sarsfield (Mercedes)  ; 0-1; Excursionistas              
-Notes: awarded
+Awarded
 *[awarded, see Abr 6]
 
 ; River Plate                 ; 1-0; Estudiantes de La Plata     
@@ -264,7 +270,7 @@ Round: 13
 Date: 4/5/2013
 
 ; Estudiantes de La Plata     ; 1-0; General Lamadrid            
-Notes: awarded
+Awarded
 *[awarded]
 
 Date: 4/13/2013
@@ -333,13 +339,13 @@ Round: 1
 Date: 4/5/2013
 
 ; Universidad de Buenos Aires ; 1-0; General Lamadrid           
-Notes: awarded
+Awarded
 * [awarded]
 
 Date: 5/10/2013
 
 ; Fénix                       ; 0-1; Huracán (Buenos Aires)      
-Notes: awarded
+Awarded
 *[awarded]
 
 Date: 5/11/2013
@@ -358,13 +364,13 @@ Round: 2
 Date: 4/5/2013
 
 ; General Lamadrid            ; 0-1; Excursionistas              
-Notes: awarded
+Awarded
 *[awarded]
 
 Date: 5/10/2013
 
 ; Vélez Sarsfield (Mercedes)  ; 1-0; Fénix                       
-Notes: awarded
+Awarded
 *[awarded]
 
 Date: 5/18/2013
@@ -386,12 +392,12 @@ Round: 3
 Date: 4/5/2013
 
 ; Boca Juniors                ; 1-0; General Lamadrid      
-Notes: awarded
+Awarded
 
 Date: 5/10/2013
 
 ; Fénix                       ; 0-1; Club Atlético Platense
-Notes: awarded
+Awarded
 
 Date: 5/26/2013
 
@@ -409,12 +415,12 @@ Round: 4
 Date: 4/5/2013
 
 ; General Lamadrid            ; 0-1; Independiente (Avellaneda) 
-Notes: awarded
+Awarded
 
 Date: 5/10/2013
 
 ; River Plate                 ; 1-0; Fénix                      
-Notes: awarded
+Awarded
 
 Date: 6/1/2013
 
@@ -432,7 +438,7 @@ Round: 5
 Date: 4/5/2013
 
 ; Fénix                       ; 1-0; General Lamadrid           
-Notes: awarded
+Awarded
 
 Date: 6/8/2013
 
@@ -443,13 +449,13 @@ Date: 6/9/2013
 
 ; Boca Juniors                ; 4-0; UAI Urquiza                 ; Casa Amarilla 2
 ; Vélez Sarsfield (Mercedes)  ; 4-2; Club Atlético Platense      ; Liga Mercedina de Fútbol
-*Independiente (Avellaneda)   np  San Lorenzo de Almagro      ; Complejo de Wilde
+; Independiente (Avellaneda)  ; np;  San Lorenzo de Almagro      ; Complejo de Wilde
 *, see Jun 28
 
 Date: 6/28/2013
 
 ; Independiente (Avellaneda)  ; 0-1; San Lorenzo de Almagro   
-Notes: awarded
+Awarded
 
 *[Bye]Universidad de Buenos Aires
 
@@ -458,12 +464,12 @@ Round: 6
 Date: 4/5/2013
 
 ; General Lamadrid            ; 0-1; Huracán (Buenos Aires)   
-Notes: awarded
+Awarded
 
 Date: 5/10/2013
 
 ; San Lorenzo de Almagro      ; 1-0; Fénix                    
-Notes: awarded
+Awarded
 
 Date: 6/15/2013
 
@@ -481,12 +487,12 @@ Round: 7
 Date: 4/5/2013
 
 ; Vélez Sarsfield (Mercedes)  ; 1-0; General Lamadrid         
-Notes: awarded
+Awarded
 
 Date: 5/10/2013
 
 ; Fénix                       ; 0-1; UAI Urquiza              
-Notes: awarded
+Awarded
 
 Date: 6/22/2013
 
@@ -504,12 +510,12 @@ Round: 8
 Date: 4/5/2013
 
 ; General Lamadrid            ; 0-1; Club Atlético Platense     
-Notes: awarded
+Awarded
 
 Date: 5/10/2013
 
 ; Estudiantes de La Plata     ; 1-0; Fénix                      
-Notes: awarded
+Awarded
 
 Date: 6/29/2013
 
@@ -527,12 +533,12 @@ Round: 9
 Date: 4/5/2013
 
 ; River Plate                 ; 1-0; General Lamadrid           
-Notes: awarded
+Awarded
 
 Date: 5/10/2013
 
 ; Fénix                       ; 0-1; Universidad de Buenos Aires
-Notes: awarded
+Awarded
 
 Date: 7/6/2013
 
@@ -550,7 +556,7 @@ Round: 10
 Date: 5/10/2013
 
 ; Excursionistas              ; 1-0; Fénix                      
-Notes: awarded
+Awarded
 
 Date: 7/19/2013
 
@@ -558,7 +564,9 @@ Date: 7/19/2013
 
 Date: 7/20/2013
 
-*; UAI Urquiza                  abd  Club Atlético Platense      ; Predio Rancho Taxco, abandoned at; 2-0; in 30, see 30/8
+; UAI Urquiza                 ; abd;  Club Atlético Platense      ; Predio Rancho Taxco
+*, abandoned at; 2-0; in 30, see 30/8
+
 ; Universidad de Buenos Aires ; 0-0; Huracán (Buenos Aires)      ; Campo Deportivo "La Bohemia"
 
 Date: 7/21/2013
@@ -595,7 +603,8 @@ Date: 7/28/2013
 
 Date: 9/29/2012
 
-*Club Atlético Platense       n/p  Estudiantes de La Plata     [see Oct 4]
+; Club Atlético Platense      ; np;  Estudiantes de La Plata   
+*  [see Oct 4]
 
 Date: 10/4/2012
 
@@ -644,7 +653,7 @@ Round: 13
 Date: 4/5/2013
 
 ; General Lamadrid            ; 0-1; Estudiantes de La Plata     
-Notes: awarded
+Awarded
 
 Date: 8/17/2013
 
