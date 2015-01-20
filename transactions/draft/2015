@@ -1,0 +1,55 @@
+BlockSource: http://en.wikipedia.org/wiki/2015_National_Women%27s_Soccer_League_season
+Competition: NWSL College Draft
+Season: 2015
+
+Key: number; name; position; team; previous
+
+Round: 1
+
+1    ;    Morgan Brian  ; M;       Houston Dash ;   University of Virginia
+2    ;    Sarah Killion ; M;       Sky Blue FC;    UCLA
+3    ;    Abby Dahlkemper       ; D;   Western New York Flash; UCLA
+4    ;    Samantha Mewis        ; M;   Western New York Flash;  UCLA
+5    ;    Stephanie McCaffrey   ; F;   Chicago Red Stars     ;    Boston College
+6    ;    Lynn Williams         ; F;   Western New York Flash;  Pepperdine University
+7    ;    Jaelene Hinkle        ; D;   Western New York Flash; Texas Tech University
+8    ;    Arin Gilliland        ; D;   Chicago Red Stars;   University of Kentucky
+9    ;    Danielle Colaprico    ; M;   Chicago Red Stars;   University of Virginia
+
+Round: 2
+
+10   ;    Kristin Grubka D    ;   Sky Blue FC; Florida State University
+11   ;    Sofia Huerta   F    ;   Chicago Red Stars;   Santa Clara University
+12   ;    Shea Groom     F    ;   FC Kansas City; Texas A&M University
+13   ;    Megan Oyster   D    ;   Washington Spirit;    UCLA
+14   ;    Jamia Fields   F    ;   Boston Breakers;     Florida State University
+15   ;    Havana Solaun  M/F  ;   Seattle Reign FC;  University of Florida
+16   ;    Meghan Streight     ;   D    ;   FC Kansas City;     Texas A&M University
+17   ;    Katelyn Rowland     ;   GK   ;   FC Kansas City;    UCLA
+18   ;    Tatiana Coleman     ;   F    ;   Western New York Flash;    University of Central Florida
+
+Round: 3
+
+19      ; Caprice Dydasco       ; D   ;    Washington Spirit;   UCLA
+20      ; Samantha Lofton       ; D   ;    Boston Breakers   ;   James Madison University
+21      ; Sabrina D'Angelo      ; GK  ;    Western New York Flash;     University of South Carolina
+22      ; Daphne Corboz         ; M   ;    Sky Blue FC; Georgetown University
+23      ; Cara Walls            ; F   ;    Chicago Red Stars  ;    University of Wisconsin
+24      ; Bianca Brinson        ; F   ;    Boston Breakers;     Texas A&M University
+25      ; Shade Pratt           ; D   ;    Sky Blue FC;  University of Maryland
+26      ; Jessica Ayers         ; M   ;    FC Kansas City;          Colorado College
+27      ; Nicole Setterlund     ; M   ;    Chicago Red Stars;      Washington State University
+
+Round: 4
+
+28;       Chioma Ubogagu        ; F;   Sky Blue FC; Stanford University
+29;       Stephanie Verdoia     ; F;   Boston Breakers;  Seattle University
+30;       Whitney Church        ; D;   Washington Spirit;       Penn State
+31;       Carleigh Williams     ; D;   Houston Dash;   University of Central Florida
+32;       Rachel Tejada         ; F;   Chicago Red Stars  ;   Illinois State University
+33;       Bianca Calderone      ; D;   Boston Breakers;   Northeastern University
+34;       Lo'eau LaBonta        ; F;   Sky Blue FC; Stanford University
+35;       Kaysie Clark          ; M;   FC Kansas City; University of Missouri
+36;       Kendall Romine        ; D;   Seattle Reign FC;          Stanford Universityi
+
+
